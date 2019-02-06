@@ -277,6 +277,7 @@ urlcolor: blue
 
 # Professional Memberships (since)   
 - Association for Women in Mathematics  \hfill 2018
-- Ecological Society of America   \hfill 2015
 - Resilience Alliance     \hfill 2015
-- Wilson Ornithological Society  \hfill 2015  
+- Wilson Ornithological Society  \hfill 2015 
+- Association for Women in Science \hfill 2015
+- Ecological Society of America   \hfill 2014
