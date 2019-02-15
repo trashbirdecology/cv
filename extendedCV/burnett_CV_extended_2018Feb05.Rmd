@@ -6,10 +6,17 @@ output:
 #Jessica L. Burnett  
 ### Macroecology | Complex Systems | Synthesis Science
 ## Education  
-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Natural Resource Sciences and Applied Ecology, University of Nebraska-Lincoln     
-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.Sc., Wildlife Ecology and Conservation, University of Florida  
-2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Sc., Wildlife Ecology and Conservation, University of Florida  
-2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.A., Valencia Community College  
+<!-- 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Natural Resource Sciences and Applied Ecology, University of Nebraska-Lincoln      -->
+<!-- 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.Sc., Wildlife Ecology and Conservation, University of Florida   -->
+<!-- 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Sc., Wildlife Ecology and Conservation, University of Florida   -->
+<!-- 2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.A., Valencia Community College   -->
+
+2019 *expected* &nbsp;&nbsp;&nbsp;Ph.D., Natural Resource Sciences and Applied Ecology, University of Nebraska-Lincoln     
+015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.Sc., Wildlife Ecology and Conservation, University of Florida  
+2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Sc., Wildlife Ecology and Conservation, University of Florida  
+2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.A., Valencia Community College  
+
+
 
 ## Professional Appointments  
 2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduate Research Assistant, University of Nebraska-Lincoln     
