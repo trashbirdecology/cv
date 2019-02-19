@@ -23,6 +23,9 @@ fontsize: 11pt
 urlcolor: blue
 ---
 
+**I am Schedule A eligible and wish to be considered under Schedule A hiring authority if applicable.**
+
+
 # Education
 
 **Ph.D. Natural Resource Sciences** \hfill 2015 - 19  
