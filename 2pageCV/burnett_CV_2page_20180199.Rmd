@@ -3,7 +3,7 @@ output:
   pdf_document: "default"
 ---
 #Jessica L. Burnett  
-### Macroecology | Complex Systems 
+### [Computational Ecology](https://armchairecology.blog/two-schools-ecology/) | Macroecology | Regime Shifts 
 ## Education  
 **University of Nebraska-Lincoln in Lincoln, NE**      
   &nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (*expected* 2019) Natural Resource Sciences and Applied Ecology    
