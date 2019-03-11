@@ -78,6 +78,7 @@ output:
 2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), ESA
 
 <!-- ## Peer-reviews -->
+<!-- Ecological Modelling (2) -->
 <!-- Wilson Journal of Ornithology (3) -->
 
 <!-- ## Societal Memberships (since) -->
