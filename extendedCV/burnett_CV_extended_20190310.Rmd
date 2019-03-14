@@ -134,7 +134,7 @@ Wilson Journal of Ornithology (3)
 
 1. [Mozilla Science Fellowship](https://science.mozilla.org/programs/fellowships/). 2016. Not awarded.
 
-# Teaching Experience  
+## Teaching Experience  
 **Co-instructor** \hfill 2017  
 
 *Introduction to Applied Ecological Statistics, Kearney, NE*
@@ -147,16 +147,27 @@ Wilson Journal of Ornithology (3)
 - Designed and taught a series of half-day workshops for graduate students
 - Basics of data management and analysis using Program R
 
-**Guest lectures** \hfill 2016  
+**Guest Lecturer** \hfill 2016  
 *Module: using citizen science data to understand ecological invasions; Course: Avian Invasions*
 
-- Designed and taught series of lectures on citizen science data  
+- Designed and taught series of lectures on citizen science data    
 
-**Guest lecture** \hfill 2013  
+**Teaching Assistant** \hfill 2015   
+
+*Wildlife Population Ecology, Department of Wildlife Ecology & Conservation, University of Florida*
+
+- Lead quantitative laboratory sessions, grading  
+
+**Teaching Assistant** \hfill 2015   
+
+*Ecological Statistics (online-only course), Department of Wildlife Ecology & Conservation, University of Florida*
+
+- Lead and moderate discussions, grading  
+
+**Guest Lecturer** \hfill 2013  
 *Wetland birds module, Florida Master Naturalist*
 
 - Designed and taught lecture on wetland bird identification and ecology  
-
 
 ## Agency Reports  
 
@@ -217,10 +228,10 @@ Wilson Journal of Ornithology (3)
 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Ornithologists' Union Undergraduate Student Membership Award
 
 ## Honors & Awards   
-2017-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fling Fellowship, University of Nebraska-Lincoln  **$20,000**    
+2017-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fling Fellowship, University of Nebraska-Lincoln  **$20,000**      
 2017-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Big Ten Academic Alliance Traveling Scholar  
-2016-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Nebraska Center for Great Plains Studies [Graduate Fellow](http://www.unl.edu/plains/graduate-fellows-program)       
-2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AAAS/Science Program for Excellence in Science Award     
+2016-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Nebraska Center for Great Plains Studies [Graduate Fellow](http://www.unl.edu/plains/graduate-fellows-program)    
+2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AAAS/Science Program for Excellence in Science Award       
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition **$300**   
 2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilience Alliance Young Scholar   
 2015-18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Othmer Fellowship, University of Nebraska-Lincoln  **$24,000**     
@@ -282,8 +293,8 @@ Wilson Journal of Ornithology (3)
 Ecological Modelling (2)
 Wilson Journal of Ornithology (3)
 
-## Societal Memberships (since)
-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resilience Alliance   
-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecological Society of America   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Applied Ecology*, *Urban Ecosystem Ecology*, & *Student* sections  
-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wilson Ornithological Society 
+<!-- ## Societal Memberships (since) -->
+<!-- 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resilience Alliance    -->
+<!-- 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecological Society of America    -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Applied Ecology*, *Urban Ecosystem Ecology*, & *Student* sections   -->
+<!-- 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wilson Ornithological Society  -->

@@ -170,16 +170,27 @@ urlcolor: blue
 - Designed and taught a series of half-day workshops for graduate students
 - Basics of data management and analysis using Program R
 
-**Guest lectures** \hfill 2016  
+**Guest Lecturer** \hfill 2016  
 *Module: using citizen science data to understand ecological invasions; Course: Avian Invasions*
 
-- Designed and taught series of lectures on citizen science data  
+- Designed and taught series of lectures on citizen science data    
 
-**Guest lecture** \hfill 2013  
+**Teaching Assistant** \hfill 2015   
+
+*Wildlife Population Ecology, Department of Wildlife Ecology & Conservation, University of Florida*
+
+- Lead quantitative laboratory sessions, grading  
+
+**Teaching Assistant** \hfill 2015   
+
+*Ecological Statistics (online-only course), Department of Wildlife Ecology & Conservation, University of Florida*
+
+- Lead and moderate discussions, grading  
+
+**Guest Lecturer** \hfill 2013  
 *Wetland birds module, Florida Master Naturalist*
 
 - Designed and taught lecture on wetland bird identification and ecology  
-
 
 # Peer-reviewed publications  
 1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. (2018) Social-ecological landscape patterns predict woody encroachment from native tree plantings in a temperate grassland *Ecology and Evolution* 8(19): 9624-9632 DOI:10.1002/ece3.4340
