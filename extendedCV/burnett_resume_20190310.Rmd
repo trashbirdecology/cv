@@ -28,35 +28,34 @@ urlcolor: blue
 
 # Education
 
-**Ph.D. Natural Resource Sciences** \hfill 2015 - 19  
-*School of Natural Resources, University of Nebraska-Lincoln*
+**Ph.D., Natural Resource Sciences** \hfill 2015 - 19  
+*School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka USA*
 
-- Thesis: Quantitative methods for detecting abrupt shifts in ecological communities
-- Recipient of 2 prestigious and competitive University Fellowships (Fling and Othmer)
-- Recipient of annual Meritorious Graduate Student award (1 awarded annually)
+- Thesis: Regime Detection Methods for the Practical Ecologist
+- Recipient of 2 prestigious and competitive university Fellowships (Fling and Othmer)
+- Recipient of Meritorious Graduate Student award (1 awarded annually)
 
+**M.Sc., Wildlife Ecology & Conservation** \hfill 2013 - 15  
+*Department of Wildlife Ecology & Conservation, University of Florida, Florida USA*
 
-**M.Sc. Wildlife Ecology & Conservation** \hfill 2013 - 15  
-*Department of Wildlife Ecology & Conservation*   
-*University of Florida, Florida, USA*
-
-- Thesis: House Sparrow *(Passer domesticus)* decline and distribution in North America
-
+- Thesis: House Sparrow *(Passer domesticus)* decline and distribution in North America 
 
 **B.Sc. Wildlife Ecology & Conservation** \hfill 2010 - 13  
-*Department of Wildlife Ecology & Conservation*   
-*University of Florida, Florida, USA*
+*Department of Wildlife Ecology & Conservation, University of Florida, Florida USA*
 
+- Undergraduate research thesis published (avian playback methodology)
+- Internship with the Florida Wildlife Research Institute (GIS analyst)
 
 **A.A. Valencia Community College** \hfill 2008 - 10  
 
 
-# Relevant Skills
+# Skills Highlight
 
-- Program R, MatLab, SAS, version control (Git), reproducible science
+- Program R, version control, open science, GIS
 - Data quality assessment and quality control, data management
-- Population modelling
 - Citizen science and long-term monitoring data
+- Population trends and parameter estimation
+- Collaborative research
 <!-- - Time series analysis -->
 <!-- - Geospatial analysis -->
 
@@ -75,7 +74,9 @@ urlcolor: blue
 *University of Nebraska-Lincoln, Nebraska, USA*
 
 - Published 8 peer-reviewed scientific articles (additional 1 under review)  and 1 invited book chapter 
-- Created statistical software for cleaning and analysing ecological data (see GitHub `regimeDetectionMethods`, `bbsRDM`)
+- Created statistical software for calculating various 'regime' detection metrics on ecological data (see GitHub: [`regimeDetectionMethods`](http://github.com/trashbirdecology/bbsRDM), [`bbsRDM`](http://github.com/trashbirdecology/regimeD
+
+))
 - Instructor of workshops for managing and analyzing ecological data using Program R
 - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)
 <!-- - Invited and hosted two out-of-state researchers for invited seminars -->
@@ -278,7 +279,7 @@ urlcolor: blue
 - [Leadership resilience and your workplace](http://resilience2017.org/blog/leadership-resilience-and-your-workplace/), Resilience Alliance
 
 ## radio
-- [Discussed House Sparrow declines in North American on Urban Wildlife Podcast](http://www.urbanwildlifecast.com/?p=139)   
+- [House Sparrow declines in North American, Urban Wildlife Podcast](http://www.urbanwildlifecast.com/?p=139)   
 
 # Service  
 ## to the profession    
