@@ -124,11 +124,11 @@ output:
 <!-- 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wilson Ornithological Society -->
 
 ## Grants & Fellowships Submitted (since 2016)
-1. Principal investigator and author. [USGS Powell Center Synthesis Working Group](https://powellcenter.usgs.gov/) , "Scale mismatches in ecological research and management: consequences and solutions through data management." Co-PIs: Hao Ye, Craig R. Allen, George Sugihara. Submitted January 2018. 
+1. Principal investigator and author. [USGS Powell Center Synthesis Working Group](https://powellcenter.usgs.gov/) , "Scale mismatches in ecological research and management: consequences and solutions through data management." Co-PIs: Hao Ye, Craig R. Allen, George Sugihara. Not funded.
 
-1. [Young Scientists Summer Program](http://www.iiasa.ac.at/web/home/education/yssp/about.html), International Institute for Applied Systems Analysis. Submitted January 2018. 
+1. [Young Scientists Summer Program](http://www.iiasa.ac.at/web/home/education/yssp/about.html), International Institute for Applied Systems Analysis. Funded. 
 
-1. [Mozilla Science Fellowship](https://science.mozilla.org/programs/fellowships/). 2016. Not awarded.
+1. [Mozilla Science Fellowship](https://science.mozilla.org/programs/fellowships/). 2016. Not funded.
 
 ## Teaching Experience  
 **Co-instructor** \hfill 2017  
