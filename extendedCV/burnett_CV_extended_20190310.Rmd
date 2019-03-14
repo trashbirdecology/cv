@@ -39,25 +39,36 @@ output:
 <!-- **Front Desk Manager** (2005-2006)     -->
 <!-- Clarion Hotel Downtown | Raleigh, North Carolina -->
 
-## Peer-reviewed Publications
-1. La Sorte, F.A., C.A. Lepczyk, **J.L. Burnett**, A. Hurlbert, M. Tingley, and B. Zuckerberg. (*accepted*) Opportunites and challenges for Big Data ornithology. *The Condor*  
+# Peer-reviewed publications  
+1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. (2018) Social-ecological landscape patterns predict woody encroachment from native tree plantings in a temperate grassland *Ecology and Evolution* 8(19): 9624-9632 DOI:10.1002/ece3.4340
 
-1. Chuang, W.C., T. A. Garmestani, T. Eason, T.L. Spanbauer, H.B. Fried-Peterson, C. Roberts, S. Sundstrom, **J.L. Burnett**, D. G. Angeler, B. Chaffin, L. Gunderson, D. Twidwell, C. R. Allen (*accepted*) Quantitative approaches for assessing ecological and community resilience. *Journal of Environmental Management*. 
+1.  **Burnett, J.L.**, K.L. Pope, A. Wong, C.R. Allen, D.M. Haak, B.J. Stephen, and D.R. Uden. 2018. Thermal tolerance limits of the invasive Chinese mysterysnail *Bellamya chinensis* and implications for management". *American Malacological Bulletin* 36(1): 140-144 DOI:10.4003/006.036.0106   
 
-1.  **Burnett, J.L.**, K. L. Pope, A. Wong, C. R. Allen, D. M. Haak, B. J. Stephen, and D. R. Uden. (2018) Thermal tolerance limits of the invasive Chinese mysterysnail *Bellamya chinensis* and implications for management". *American Malacological Bulletin* 36(1)
+1. Roberts, C.P., D. Twidwell, **J.L. Burnett**, V.M. Donovan, C. Wonkka, C.H. Bielski, A.S. Garmestani, D.G. Angeler, T. Eason, B.W. Allred, M.O. Jones, D.E. Naugle, S. Sundstrom, C.R. Allen,  (2018) Early warnings for state transitions. *Rangeland Ecology and Management* DOI:10.1016/j.rama.2018.04.012     
 
-1.  **Burnett, J.L.**, C. R. Allen, C. P. Roberts, M. Bomberger Brown, and M. P. Moulton. 2017. Eurasian Tree Sparrow (*Passer montanus*) range expansion in North America. *Biological Invasions* 19(1): 5-9 doi:10.1007/s10530-016-1273-4  
+1. La Sorte, F.A., C.A. Lepczyk, **J.L. Burnett**, A. Hurlbert, M. Tingley, and B. Zuckerberg. 2018. Opportunites and challenges for big data ornithology. *The Condor* 120(2): 414-426 DOI:0.1650/CONDOR-17-206.1
 
-1.  **Burnett, J. L.** and K. E. Sieving. 2016. Songbird distress call as a detection enhancement method and application to Red-shouldered Hawks (*Buteo lineatus*). *Florida Field Naturalist* 44(4):157-168      
+1. Chuang, W.C., A.S. Garmestani, T. Eason, T.L. Spanbauer, H.B. Fried-Peterson, C. Roberts, S. Sundstrom, **J.L. Burnett**, D. G. Angeler, B. Chaffin, L. Gunderson, D. Twidwell, C.R. Allen. 2018. Enhancing quantitative approaches for assessing ecological and community resilience. *Journal of Environmental Management* 213: 353-362 DOI:10.1016/j.jenvman.2018.01.083    
 
-1. C. R. Allen, H. E. Birge, S. L. Bartlet-Hunt, R. A. Bevans, **J. L. Burnett**, B. A. Cosens, X. Cai, A. S. Garmestani, I. Linkov, E. A. Scott, M. D. Solomon, and D. R. Uden. 2016. Avoiding decline: Fostering resilience and sustainability in midsize cities. *Sustainability* 8(9):844-868 doi:10.3390/su8090844   
+1.  **Burnett, J.L.**, C.R. Allen, C.P. Roberts, M.Bomberger Brown, and M.P. Moulton. 2017. Eurasian Tree Sparrow (*Passer montanus*) range expansion in North America. *Biological Invasions* 19(1): 5-9 DOI:10.1007/s10530-016-1273-4  
 
-1. **Burnett, J.L.** and M. P. Moulton. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172   
+1.  **Burnett, J.L.** and K.E. Sieving. 2016. Songbird distress call as a detection enhancement method and application to Red-shouldered Hawks (*Buteo lineatus*). *Florida Field Naturalist* 44(4):157-168      
 
-## Manuscripts under review
-1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H. E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. (*submitted*) Patterns of woody encroachment from native tree plantings in a temperate grassland. *Journal of Applied Ecology*
+1. C.R. Allen, H.E. Birge, S.L. Bartlet-Hunt, R.A. Bevans, **J.L. Burnett**, B.A. Cosens, X. Cai, A.S. Garmestani, I. Linkov, E.A. Scott, M.D. Solomon, and D.R. Uden. 2016. Avoiding decline: Fostering resilience and sustainability in midsize cities. *Sustainability* 8(9):844-868 DOI:10.3390/su8090844   
 
-1. Roberts, C.P., **J.L. Burnett**, V.M. Donovan, C. Wonkka, C.H. Bielski, C.R. Allen, A. Garmestani, D.G. Angeler, T. Eason, S. Sundstrom, D. Twidwell (*revisions submitted*) Early warnings for state transitions. *Rangeland Ecology and Management*s
+1. **Burnett, J.L.** and M.P. Moulton. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172   
+
+# First-authored manuscripts under review  
+1. **Burnett, J.L.**, R. Wilcox, B. Stephen, D. Haak, D. Uden, C.R. Allen, and K. Pope. Shell strength does not limit predation of an invasive snail species (Bellamya chinensis) by native fish. *under review at Journal of Freshwater Ecology*
+
+# First-authored manuscripts in preparation (available upon request)  
+1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, T. Eason, C.R. Allen, and D. Twidwell. A guide to Fisher Information for ecologists.
+
+1. **Burnett, J.L.**, N.B. Price, C.R. Allen, B.D. Fath, E. Rovenskaya, D. Twidwell, A.J. Tyre, P. Zebrowski. Distance travelled: using Pythagorean's theorem to track ecosystem tracjectory and abrupt change. 
+
+1. **Burnett, J.L.**, Z. Warren, M. Podebrovska, B. Dueker, K. Lamke, B. Seguin, D. Twidwell, and C.R. Allen. Sexual size dimorphism in mammalian communities of mediterranean Australian regions.
+
+1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-sacle crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America. 
 
 ## Grants & Fellowships Submitted (since 2016)
 1. Principal investigator and author. [USGS Powell Center Synthesis Working Group](https://powellcenter.usgs.gov/) , "Scale mismatches in ecological research and management: consequences and solutions through data management." Co-PIs: Hao Ye, Craig R. Allen, George Sugihara. Submitted January 2018. 
