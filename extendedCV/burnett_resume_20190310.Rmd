@@ -74,7 +74,7 @@ urlcolor: blue
 *University of Nebraska-Lincoln, Nebraska, USA*
 
 - Published 8 peer-reviewed scientific articles (additional 1 under review)  and 1 invited book chapter 
-- Created statistical software for calculating various 'regime' detection metrics on ecological data (see GitHub: [`regimeDetectionMethods`](http://github.com/trashbirdecology/bbsRDM), [`bbsRDM`](http://github.com/trashbirdecology/regimeD
+- Created statistical software for calculating various 'regime' detection metrics on ecological data (see GitHub: [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods), [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM)
 
 ))
 - Instructor of workshops for managing and analyzing ecological data using Program R
@@ -133,17 +133,18 @@ urlcolor: blue
 - AAAS/Science Program for Excellence in Science Award \hfill 2016
 - Graduate Fellow, Center for Great Plains Studies, University of Nebraska \hfill 2016 - 18 
 - 2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition **$300** \hfill 2016
-- Resilience Alliance Young Scholar (RAYs), The Resilience Alliance \hfill 2015 - 17 
+- Resilience Alliance Young Scholar, The Resilience Alliance \hfill 2015 - 17 
 
 # Grants
 ##for research 
-- National Academic of Sciences research award __$5,500__ \hfill 2018
+- National Academy of Sciences research award __$5,500__ \hfill 2018
 - IFAS Extension Internship for Undergraduate Research, University of Florida __$2,200__  \hfill  2013
-- Ordway-Swisher Biological Station Undergraduate Research, University of Florida __$550__   \hfill  2013
+- Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida __$550__   \hfill  2013
 
 ##for travel    
+- University of Nebraska Graduate Travel Fund __$750__ \hfill 2019
+- Association for Women in Mathematical Biology __$650__ \hfill 2019
 - National Science Foundation & NimBios __$550__   \hfill 2018
-- Association for Women in Mathematical Biology __$650__ \hfill 2018
 - School of Natural Resources, Univeristy of Nebraska-Lincoln __$250__     \hfill 2019
 - Kellogg Biological Station, Michigan State University __$500__   \hfill 2017
 - Nelson Memorial Fellowship, Univeristy of Nebraska-Lincoln __$3,217__ *(3x recipient)*   \hfill 2016 - 18
