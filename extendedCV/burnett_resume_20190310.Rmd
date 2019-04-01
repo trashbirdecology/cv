@@ -56,8 +56,8 @@ urlcolor: blue
 - Citizen science and long-term monitoring data
 - Population trends and parameter estimation
 - Collaborative research
-<!-- - Time series analysis -->
-<!-- - Geospatial analysis -->
+- Time series analysis
+- Geospatial analysis
 
 
 <!-- # Education (BRIEF) -->
@@ -74,10 +74,11 @@ urlcolor: blue
 *University of Nebraska-Lincoln, Nebraska, USA*
 
 - Published 8 peer-reviewed scientific articles (additional 1 under review)  and 1 invited book chapter 
-- Created statistical software for calculating various 'regime' detection metrics on ecological data (see GitHub: [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods), [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM)
-
-))
-- Instructor of workshops for managing and analyzing ecological data using Program R
+- Created statistical software for calculating various abrupt change metrics, with a focus on ecological data (see GitHub: [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods), [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM)
+- Assisted with creation of two R packages:
+    - [`radsets`](https://github.com/natbprice/radsets): An R package for interactive, network-based visualizations of overlapping sets 
+    - [`TVdiff`](https://github.com/natbprice/tvdiff): An R wrapper for 'TVDiff' Python code. Package implements numerical differentiation of noisy, non-smoothdata
+- Designed and instructed of workshops for managing and analyzing ecological data using Program R
 - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)
 <!-- - Invited and hosted two out-of-state researchers for invited seminars -->
 <!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
@@ -113,8 +114,8 @@ urlcolor: blue
 - Conducted avian behavioral research in field 
 - Designed and implemented project resulting 1 peer-reviewed manuscript
 
-**Crew Leader, Smithsonian Fellow**  \hfill April-September 2011 and April-September 2013
-*Neighborhood Nestwatch Program*  
+**Crew Leader, Smithsonian Fellow**  \hfill   April-September 2011 and April-September 2013  
+*Neighborhood Nestwatch Program*   
 *Smithsonian Migratory Bird Center, Gainesville, FL, USA*   
 
 - Trained and led team of banding technicians
@@ -282,7 +283,7 @@ urlcolor: blue
 ## radio
 - [House Sparrow declines in North American, Urban Wildlife Podcast](http://www.urbanwildlifecast.com/?p=139)   
 
-# Service  
+# Recent Service  
 ## to the profession    
 - Reviewer for *Ecological Modelling* (1), *Bioinvasions Records* (1), *Wilson Journal of Ornithology* (2)
 - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16  
