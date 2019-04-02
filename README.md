@@ -1,1 +1,1 @@
-Email me with questions jessicaleighburnett@gmail.com
+Questios or comments to jessicaleighburnett@gmail.com
