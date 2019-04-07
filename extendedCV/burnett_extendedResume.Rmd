@@ -4,8 +4,7 @@ output:
     latex_engine: pdflatex
     template: cv-latex.tex
 geometry: margin=.7in
-
-title: "Résumé - February 2019"
+title: "CV - Updated 2019-03-07"
 author: JESSICA L. BURNETT
 orcid:  0000-0002-0896-5099
 fontawesome: yes
@@ -77,7 +76,7 @@ urlcolor: blue
 - Created statistical software for calculating various abrupt change metrics, with a focus on ecological data (see GitHub: [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods), [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM)
 - Assisted with creation of two R packages:
     - [`radsets`](https://github.com/natbprice/radsets): An R package for interactive, network-based visualizations of overlapping sets 
-    - [`TVdiff`](https://github.com/natbprice/tvdiff): An R wrapper for 'TVDiff' Python code. Package implements numerical differentiation of noisy, non-smoothdata
+    - [`TVdiff`](https://github.com/natbprice/tvdiff): An R package for implementing numerical differentiation of noisy, non-smooth data  
 - Designed and instructed of workshops for managing and analyzing ecological data using Program R
 - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)
 <!-- - Invited and hosted two out-of-state researchers for invited seminars -->
@@ -88,7 +87,7 @@ urlcolor: blue
 *Applied Systems Analysis Research Group*  
 *International Institute for Applied Systems Analysis, Laxenburg, Austria*
 
-- Research sabbatical advised by applied mathematician (E. Rovenskaya)
+- Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath)
 - Presented research to an international audience
 - Organized seminar on Network Analysis
 
@@ -96,7 +95,7 @@ urlcolor: blue
 *Department of Wildlife Ecology & Conservation*   
 *University of Florida, Florida, USA*
 
-- Published 2 peer-reviwed scientific articles
+- Published 2 peer-reviewed scientific articles
 - Invited lectures in citizen science data, wetland birds
 
 **Geospatial Analyst Intern**    \hfill April -  August 2012    
@@ -124,20 +123,6 @@ urlcolor: blue
 - Banded and measured breeding birds in backyards using 
 
 
-# Software
-
-## Author and maintainer
-1. **Burnett, J.L.**, N.B. Price. 2019. `regimeDetectionMeasures`. An R package for calculating univariate and multivariate regime detection methods using community time series. [Github:trashbirdecology/regimedetectionmeasures](https://github.com/TrashBirdEcology/regimedetectionmeasures)
-
-1. **Burnett, J.L.**, N.B. Price. 2018. `distanceTravelled`. An R package for calculating the distance traveled by a multispecies community along a time series. [Github:trashbirdecology/distancetravelled](https://github.com/TrashBirdEcology/distancetravelled)
-
-## Author
-1. Price, N.B., C. Chizinski, and **J.L. Burnett**. `radsets`. 2019. An R package for interactive, network-based visualizations of overlapping sets.  [Github:natbprice/radsets](https://natbprice.github.io/radsets/)
-
-1. Price, N.B. and **J.L. Burnett**. `tvdiff`. 2019.  An R package for numerical differentiation of noisy, nonsmooth data. [Github:natbprice/tvdiff](https://github.com/natbprice/tvdiff)
-
-
-
 # Peer-reviewed publications  
 1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. (2018) Social-ecological landscape patterns predict woody encroachment from native tree plantings in a temperate grassland *Ecology and Evolution* 8(19): 9624-9632 DOI:10.1002/ece3.4340
 
@@ -145,7 +130,7 @@ urlcolor: blue
 
 1. Roberts, C.P., D. Twidwell, **J.L. Burnett**, V.M. Donovan, C. Wonkka, C.H. Bielski, A.S. Garmestani, D.G. Angeler, T. Eason, B.W. Allred, M.O. Jones, D.E. Naugle, S. Sundstrom, C.R. Allen,  (2018) Early warnings for state transitions. *Rangeland Ecology and Management* DOI:10.1016/j.rama.2018.04.012     
 
-1. La Sorte, F.A., C.A. Lepczyk, **J.L. Burnett**, A. Hurlbert, M. Tingley, and B. Zuckerberg. 2018. Opportunites and challenges for big data ornithology. *The Condor* 120(2): 414-426 DOI:0.1650/CONDOR-17-206.1
+1. La Sorte, F.A., C.A. Lepczyk, **J.L. Burnett**, A. Hurlbert, M. Tingley, and B. Zuckerberg. 2018. Opportunities and challenges for big data ornithology. *The Condor* 120(2): 414-426 DOI:0.1650/CONDOR-17-206.1
 
 1. Chuang, W.C., A.S. Garmestani, T. Eason, T.L. Spanbauer, H.B. Fried-Peterson, C. Roberts, S. Sundstrom, **J.L. Burnett**, D. G. Angeler, B. Chaffin, L. Gunderson, D. Twidwell, C.R. Allen. 2018. Enhancing quantitative approaches for assessing ecological and community resilience. *Journal of Environmental Management* 213: 353-362 DOI:10.1016/j.jenvman.2018.01.083    
 
@@ -163,11 +148,25 @@ urlcolor: blue
 # First-authored manuscripts in preparation (available upon request)  
 1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, T. Eason, C.R. Allen, and D. Twidwell. A guide to Fisher Information for ecologists.
 
-1. **Burnett, J.L.**, N.B. Price, C.R. Allen, B.D. Fath, E. Rovenskaya, D. Twidwell, A.J. Tyre, P. Zebrowski. Distance travelled: using Pythagorean's theorem to track ecosystem tracjectory and abrupt change. 
+1. **Burnett, J.L.**, N.B. Price, C.R. Allen, B.D. Fath, E. Rovenskaya, D. Twidwell, A.J. Tyre, P. Zebrowski. Distance travelled: using Pythagoras's theorem to track ecosystem trajectory and abrupt change. 
 
-1. **Burnett, J.L.**, Z. Warren, M. Podebrovska, B. Dueker, K. Lamke, B. Seguin, D. Twidwell, and C.R. Allen. Sexual size dimorphism in mammalian communities of mediterranean Australian regions.
+1. **Burnett, J.L.**, Z. Warren, M. Podebrovska, B. Dueker, K. Lamke, B. Seguin, D. Twidwell, and C.R. Allen. Sexual size dimorphism in mammalian communities of Mediterranean Australian regions.
 
-1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-sacle crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America. 
+1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-scale crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America. 
+
+# Software
+
+## Author and maintainer
+1. **Burnett, J.L.**, N.B. Price. 2019. `regimeDetectionMeasures`. An R package for calculating univariate and multivariate regime detection methods using community time series. [Github:trashbirdecology/regimedetectionmeasures](https://github.com/TrashBirdEcology/regimedetectionmeasures)
+
+1. **Burnett, J.L.**, N.B. Price. 2018. `distanceTravelled`. An R package for calculating the distance traveled by a multispecies community along a time series. [Github:trashbirdecology/distancetravelled](https://github.com/TrashBirdEcology/distancetravelled)
+
+## Author
+1. Price, N.B., C. Chizinski, and **J.L. Burnett**. `radsets`. 2019. An R package for interactive, network-based visualizations of overlapping sets.  [Github:natbprice/radsets](https://natbprice.github.io/radsets/)
+
+1. Price, N.B. and **J.L. Burnett**. `tvdiff`. 2019.  An R package for numerical differentiation of noisy, non-smooth data. [Github:natbprice/tvdiff](https://github.com/natbprice/tvdiff)
+
+
 
 # Grants
 ##for research 
@@ -179,10 +178,10 @@ urlcolor: blue
 - University of Nebraska Graduate Travel Fund __$750__ \hfill 2019
 - Association for Women in Mathematical Biology __$650__ \hfill 2019
 - National Science Foundation & NimBios __$550__   \hfill 2018
-- School of Natural Resources, Univeristy of Nebraska-Lincoln __$250__     \hfill 2019
+- School of Natural Resources, University of Nebraska-Lincoln __$250__     \hfill 2019
 - Kellogg Biological Station, Michigan State University __$500__   \hfill 2017
-- Nelson Memorial Fellowship, Univeristy of Nebraska-Lincoln __$3,217__ *(3x recipient)*   \hfill 2016 - 18
-- Center for Great Plains Studies, Univeristy of Nebraska-Lincoln __$3,000__ *(4x recipient)*    \hfill 2015 - 18 
+- Nelson Memorial Fellowship, University of Nebraska-Lincoln __$3,217__ *(3x recipient)*   \hfill 2016 - 18
+- Center for Great Plains Studies, University of Nebraska-Lincoln __$3,000__ *(4x recipient)*    \hfill 2015 - 18 
 - American Ornithologists' Union **$250**  \hfill 2016
 - NSF Diversity Award, Southeastern Ecology and Evolution Conference __$650__   \hfill 2015
 - Graduate Student Council, University of Florida __$350__    \hfill 2015
@@ -276,12 +275,6 @@ urlcolor: blue
 1. **Burnett, J.L.** and Sieving, K.E. Perceived predation risks of small forest birds. *Association of Field Ornithologists Annual Conference*, Poster presentation. Venus, FL, 2013
 
 
-# Technical Reports  
-1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher Information. Strategic Environmental Research and Development Program (SERDP), Department of Defense.  
-1. Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**, Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change, Vulnerability, and Resilience: Management Options for an Uncertain Future. Strategic Environmental Research and Development Program (SERDP), Department of Defense.   
-1. Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M., Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models (BpS) in the Great Plains. LANDFIRE Project.  
-
-
 # Outreach 
 ## blogs  
 - [Connecting to nature and understanding ecosystem services: urban perspective](https://envirobites.org/2017/10/17/connecting-to-nature-and-understanding-ecosystem-services-the-urban-perspective/), Envirobites
@@ -315,3 +308,9 @@ urlcolor: blue
 <!-- - Wilson Ornithological Society  \hfill 2015  -->
 <!-- - Association for Women in Science \hfill 2015 -->
 <!-- - Ecological Society of America   \hfill 2014 -->
+
+# Technical Reports  
+1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher Information. Strategic Environmental Research and Development Program (SERDP), Department of Defense.  
+1. Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**, Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change, Vulnerability, and Resilience: Management Options for an Uncertain Future. Strategic Environmental Research and Development Program (SERDP), Department of Defense.   
+1. Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M., Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models (BpS) in the Great Plains. LANDFIRE Project.  
+
