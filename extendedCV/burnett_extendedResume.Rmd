@@ -146,9 +146,9 @@ urlcolor: blue
 1. **Burnett, J.L.**, R. Wilcox, B. Stephen, D. Haak, D. Uden, C.R. Allen, and K. Pope. Shell strength does not limit predation of an invasive snail species (Bellamya chinensis) by native fish. *under review at Malacological Bulletin*
 
 # First-authored manuscripts in preparation (available upon request)  
-1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, T. Eason, C.R. Allen, and D. Twidwell. A guide to Fisher Information for ecologists.
+1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, and D. Twidwell. A guide to Fisher Information for ecologists.
 
-1. **Burnett, J.L.**, N.B. Price, C.R. Allen, B.D. Fath, E. Rovenskaya, D. Twidwell, A.J. Tyre, P. Zebrowski. Distance travelled: using Pythagoras's theorem to track ecosystem trajectory and abrupt change. 
+1. **Burnett, J.L.**, N.B. Price, C.R. Allen, D. Twidwell, A.J. Tyre. Velocity of distance travelled as a measure of ecosystem trajectory and abrupt change. 
 
 1. **Burnett, J.L.**, Z. Warren, M. Podebrovska, B. Dueker, K. Lamke, B. Seguin, D. Twidwell, and C.R. Allen. Sexual size dimorphism in mammalian communities of Mediterranean Australian regions.
 
@@ -159,7 +159,7 @@ urlcolor: blue
 ## Author and maintainer
 1. **Burnett, J.L.**, N.B. Price. 2019. `regimeDetectionMeasures`. An R package for calculating univariate and multivariate regime detection methods using community time series. [Github:trashbirdecology/regimedetectionmeasures](https://github.com/TrashBirdEcology/regimedetectionmeasures)
 
-1. **Burnett, J.L.**, N.B. Price. 2018. `distanceTravelled`. An R package for calculating the distance traveled by a multispecies community along a time series. [Github:trashbirdecology/distancetravelled](https://github.com/TrashBirdEcology/distancetravelled)
+1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. 2018. `distanceTravelled`. An R package for calculating the distance traveled by a multispecies community along a time series. [Github:trashbirdecology/distancetravelled](https://github.com/TrashBirdEcology/distancetravelled)
 
 ## Author
 1. Price, N.B., C. Chizinski, and **J.L. Burnett**. `radsets`. 2019. An R package for interactive, network-based visualizations of overlapping sets.  [Github:natbprice/radsets](https://natbprice.github.io/radsets/)
