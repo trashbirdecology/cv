@@ -122,6 +122,9 @@ urlcolor: blue
 - Recruited and trained citizen scientists
 - Banded and measured breeding birds in backyards using 
 
+# Book chapters
+1. **Burnett, J.L.** and C.R. Allen (2019) Continental Analysis of Invasive Birds:  North America *in* Downs, C.T. and Hart, L.A. (eds) Global trends and impacts of alien invasive birds. CABI, Wallingford, U.K., pp. XX-XX. 
+
 
 # Peer-reviewed publications  
 1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. (2018) Social-ecological landscape patterns predict woody encroachment from native tree plantings in a temperate grassland *Ecology and Evolution* 8(19): 9624-9632 DOI:10.1002/ece3.4340
