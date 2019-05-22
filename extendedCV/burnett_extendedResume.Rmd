@@ -4,7 +4,7 @@ output:
     latex_engine: pdflatex
     template: cv-latex.tex
 geometry: margin=.7in
-title: "CV - Updated 2019-03-07"
+title: "CV - Updated 2019-05-21"
 author: JESSICA L. BURNETT
 orcid:  0000-0002-0896-5099
 fontawesome: yes
@@ -23,7 +23,6 @@ urlcolor: blue
 ---
 
 <!-- **I am Schedule A eligible and wish to be considered under Schedule A hiring authority if applicable.** -->
-
 
 # Education
 
@@ -53,10 +52,9 @@ urlcolor: blue
 - Program R, version control, open science, GIS
 - Data quality assessment and quality control, data management
 - Citizen science and long-term monitoring data
-- Population trends and parameter estimation
+- Population trend and parameter estimation
 - Collaborative research
 - Time series analysis
-- Geospatial analysis
 
 
 <!-- # Education (BRIEF) -->
@@ -291,7 +289,7 @@ urlcolor: blue
 
 # Recent Service  
 ## to the profession    
-- Reviewer for *Bioinvasions Records* (1), *Ecological Modelling* (2), *Plos ONE* (1), *Wilson Journal of Ornithology* (2)
+- Reviewer for *Bioinvasions Records*, *Ecological Modelling* , *Plos ONE* , *Wilson Journal of Ornithology*
 - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16  
 
 ## to the University of Nebrsaka-Lincoln  
