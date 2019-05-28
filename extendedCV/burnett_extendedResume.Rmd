@@ -146,7 +146,9 @@ urlcolor: blue
 # First-authored manuscripts under review  
 1. **Burnett, J.L.**, R. Wilcox, B. Stephen, D. Haak, D. Uden, C.R. Allen, and K. Pope. Shell strength does not limit predation of an invasive snail species (Bellamya chinensis) by native fish. *under review at Malacological Bulletin*
 
-# First-authored manuscripts in preparation (available upon request)  
+# First-authored manuscripts in preparation (available upon request) 
+1. **Burnett, J.L.**, Kratter, A. and Robinson, S.K. Using a Christmas Bird Count to understand local and regional changes in bird populations in Northcentral Florida. 
+
 1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, and D. Twidwell. A guide to Fisher Information for ecologists.
 
 1. **Burnett, J.L.**, N.B. Price, C.R. Allen, D. Twidwell, A.J. Tyre. Velocity of distance travelled as a measure of ecosystem trajectory and abrupt change. 
