@@ -170,10 +170,8 @@ urlcolor: blue
 
 
 # Grants  
-- Mendenhall Postdoctoral Fellowship, U.S. Geological Survey  \hfill 2018
+- Mendenhall Postdoctoral Fellowship, U.S. Geological Survey \hfill 2018
 - National Academy of Sciences research award __$5,500__ \hfill 2018
-- IFAS Extension Internship for Undergraduate Research, University of Florida __$2,200__  \hfill  2013
-- Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida __$550__   \hfill  2013
 - University of Nebraska Graduate Travel Fund __$750__ \hfill 2019
 - Association for Women in Mathematical Biology __$650__ \hfill 2019
 - National Science Foundation & NimBios __$550__   \hfill 2018
@@ -187,9 +185,9 @@ urlcolor: blue
 - Office of Research, University of Florida __$500__     \hfill 2015
 - Department of Wildlife Ecology & Conservation, University of Florida __$500__ *(2x recipient)*   \hfill 2014 - 15
 - Office of the Dean, Institute of Food and Agricultural Sciences, University of Florida __$750__   \hfill 2013
-
-##for societal membership  
 - American Ornithologists' Union Undergraduate Student Membership Award \hfill 2013
+- IFAS Extension Internship for Undergraduate Research, University of Florida __$2,200__  \hfill  2013
+- Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida __$550__   \hfill  2013
 
 # Awards and Honors
 
