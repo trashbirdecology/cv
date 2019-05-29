@@ -3,6 +3,8 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: cv-latex.tex
+  md_document: 
+    variant: markdown_github
 geometry: margin=.7in
 title: "CV"
 author: JESSICA L. BURNETT
