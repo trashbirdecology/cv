@@ -1,0 +1,10 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r displayPDF, include = FALSE}
+knitr::include_graphics(path = "https://github.com/TrashBirdEcology/cv/blob/master/extendedCV/burnett_extendedResume.pdf")
+```
+
