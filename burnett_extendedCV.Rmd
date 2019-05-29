@@ -29,7 +29,7 @@ urlcolor: blue
 
 - Thesis: Regime Detection Methods for the Practical Ecologist
 - Recipient of 2 prestigious and competitive university Fellowships (Fling and Othmer)
-- Recipient of Meritorious Graduate Student award (1 awarded annually)
+- Recipient of Meritorious Doctoral Student award (1 awarded annually)
 
 **M.Sc., Wildlife Ecology & Conservation** \hfill 2013 - 15  
 *Department of Wildlife Ecology & Conservation, University of Florida, Florida USA*
