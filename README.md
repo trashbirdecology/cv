@@ -1,4 +1,4 @@
-__Questions or comments to jessicaleighburnett@gmail.com__
 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
-![For a current version of my CV please click here.](https://github.com/TrashBirdEcology/cv/blob/master/extendedCV/burnett_extendedResume.pdf)
+<!-- Knit this and commit upon making updates. -->
