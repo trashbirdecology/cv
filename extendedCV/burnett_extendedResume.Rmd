@@ -4,7 +4,7 @@ output:
     latex_engine: pdflatex
     template: cv-latex.tex
 geometry: margin=.7in
-title: "CV - Updated 2019-05-21"
+title: "CV"
 author: JESSICA L. BURNETT
 orcid:  0000-0002-0896-5099
 fontawesome: yes
@@ -12,17 +12,13 @@ email: jessicaleighburnett@gmail.com
 github: trashbirdecology
 twitter: trashbirdecol
 phone: "+1 352 792 5425"
-updated: no
-
+updated: yes
 keywords: R Markdown, academic CV, template
-
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue
 ---
-
-<!-- **I am Schedule A eligible and wish to be considered under Schedule A hiring authority if applicable.** -->
 
 # Education
 
@@ -171,13 +167,11 @@ urlcolor: blue
 
 
 
-# Grants
-##for research 
+# Grants  
+- Mendenhall Postdoctoral Fellowship, U.S. Geological Survey  \hfill 2018
 - National Academy of Sciences research award __$5,500__ \hfill 2018
 - IFAS Extension Internship for Undergraduate Research, University of Florida __$2,200__  \hfill  2013
 - Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida __$550__   \hfill  2013
-
-##for travel    
 - University of Nebraska Graduate Travel Fund __$750__ \hfill 2019
 - Association for Women in Mathematical Biology __$650__ \hfill 2019
 - National Science Foundation & NimBios __$550__   \hfill 2018
@@ -289,7 +283,7 @@ urlcolor: blue
 ## radio
 - [House Sparrow declines in North American, Urban Wildlife Podcast](http://www.urbanwildlifecast.com/?p=139)   
 
-# Recent Service  
+# Select Service  
 ## to the profession    
 - Reviewer for *Bioinvasions Records*, *Ecological Modelling* , *Plos ONE* , *Wilson Journal of Ornithology*
 - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16  
