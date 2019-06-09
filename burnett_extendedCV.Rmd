@@ -13,7 +13,7 @@ fontawesome: yes
 email: jessicaleighburnett@gmail.com
 github: trashbirdecology
 twitter: trashbirdecol
-phone: "+1 352 792 5425"
+phone: "+1352 792 5425"
 updated: yes
 keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
@@ -27,7 +27,9 @@ urlcolor: blue
 **Ph.D., Natural Resource Sciences** \hfill 2015 - 19  
 *School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka USA*
 
-- Thesis: Regime Detection Methods for the Practical Ecologist
+- Dissertation: Regime Detection Methods for the Practical Ecologist
+- Specialization in Applied Ecology
+- Invitation for 3-month sabbatical in Laxenburg, Austria 
 - Recipient of 2 prestigious and competitive university Fellowships (Fling and Othmer)
 - Recipient of Meritorious Doctoral Student award (1 awarded annually)
 
@@ -52,7 +54,7 @@ urlcolor: blue
 - Citizen science and long-term monitoring data
 - Population trend and parameter estimation
 - Collaborative research
-- Time series analysis
+- Multivariate statistics
 
 
 <!-- # Education (BRIEF) -->
@@ -68,24 +70,27 @@ urlcolor: blue
 *Nebraska Cooperative Fish & Wildlife Research Unit, School of Natural Resources*  
 *University of Nebraska-Lincoln, Nebraska, USA*
 
-- Published 8 peer-reviewed scientific articles (additional 1 under review)  and 1 invited book chapter 
-- Created statistical software for calculating various abrupt change metrics, with a focus on ecological data (see GitHub: [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods), [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM)
-- Assisted with creation of two R packages:
+- Published 8 peer-reviewed scientific articles and 1 invited book chapter 
+- Authored three R packages:   
+    - [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods): An R package for calculating various regime detection measures
+    - [`bbsAssistant`](http://github.com/trashbirdecology/bbsAssistant): An R package containing helper functions for downloading and munging data and metadata from the Nort American Breeding Bird Survey FTP
+    - [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM): An R package for calculating various regime detection measures using the North American Breeding Bird Survey data
+- Co-authored two R packages:
     - [`radsets`](https://github.com/natbprice/radsets): An R package for interactive, network-based visualizations of overlapping sets 
     - [`TVdiff`](https://github.com/natbprice/tvdiff): An R package for implementing numerical differentiation of noisy, non-smooth data  
 - Designed and instructed of workshops for managing and analyzing ecological data using Program R
 - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)
-<!-- - Invited and hosted two out-of-state researchers for invited seminars -->
-<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
-<!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
+- Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative
+- Invited and hosted three departmental seminar guests
+- Invited talk at the Association for Women in Math Biology annual symposium
 
 **Research fellow**    \hfill May - September 2018  
 *Applied Systems Analysis Research Group*  
 *International Institute for Applied Systems Analysis, Laxenburg, Austria*
 
 - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath)
-- Presented research to an international audience
-- Organized seminar on Network Analysis
+- Presented research in an international forum 
+- Organized seminar on Network Analysis in Ecology
 
 **Graduate teaching assistant**   \hfill August 2013 - August 2015    
 *Department of Wildlife Ecology & Conservation*   
@@ -98,16 +103,17 @@ urlcolor: blue
 *Florida Fish and Wildlife Research Institute*   
 *Gainesville, Florida, USA*
 
-- Researched relationships among land cover and American Kestrel *(Falco sparverius)* nest success 
+- Identified relationships among land cover and American Kestrel *(Falco sparverius)* nest success 
 - Ground-truthed GIS data
+- Monitored Eastern Screech-Owl (*Megascops asio*) nests 
 
 **Research Assistant**  \hfill January 2011 -  April 2012    
 *Avian Ecology and Conservation Lab*   
 *University of Florida, Gainesville, FL, USA*
 
-- Managed bird banding database 
-- Conducted avian behavioral research in field 
-- Designed and implemented project resulting 1 peer-reviewed manuscript
+- Managed bird banding database
+- Conducted avian behavioral field research - *Paridae* feeder behavior 
+- Designed and implemented research project resulting in 1 peer-reviewed manuscript
 
 **Crew Leader, Smithsonian Fellow**  \hfill   April-September 2011 and April-September 2013  
 *Neighborhood Nestwatch Program*   
@@ -117,10 +123,10 @@ urlcolor: blue
 - Managed bird banding database; data QA/QC
 - Recruited and trained citizen scientists
 - Banded and measured breeding birds in backyards using 
+- Created monthly program newletters
 
 # Book chapters
 1. **Burnett, J.L.** and C.R. Allen (2019) Continental Analysis of Invasive Birds:  North America *in* Downs, C.T. and Hart, L.A. (eds) Global trends and impacts of alien invasive birds. CABI, Wallingford, U.K., pp. XX-XX. 
-
 
 # Peer-reviewed publications  
 1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. (2018) Social-ecological landscape patterns predict woody encroachment from native tree plantings in a temperate grassland *Ecology and Evolution* 8(19): 9624-9632 DOI:10.1002/ece3.4340
@@ -170,12 +176,12 @@ urlcolor: blue
 
 
 # Grants  
-- Mendenhall Postdoctoral Fellowship, U.S. Geological Survey \hfill 2018
-- National Academy of Sciences research award __$5,500__ \hfill 2018
+- Mendenhall Postdoctoral Fellowship, U.S. Geological Survey \hfill 2019
 - University of Nebraska Graduate Travel Fund __$750__ \hfill 2019
 - Association for Women in Mathematical Biology __$650__ \hfill 2019
-- National Science Foundation & NimBios __$550__   \hfill 2018
 - School of Natural Resources, University of Nebraska-Lincoln __$250__     \hfill 2019
+- National Academy of Sciences research award __$5,500__ \hfill 2018
+- National Science Foundation & NimBios __$550__   \hfill 2018
 - Kellogg Biological Station, Michigan State University __$500__   \hfill 2017
 - Nelson Memorial Fellowship, University of Nebraska-Lincoln __$3,217__ *(3x recipient)*   \hfill 2016 - 18
 - Center for Great Plains Studies, University of Nebraska-Lincoln __$3,000__ *(4x recipient)*    \hfill 2015 - 18 
@@ -190,9 +196,8 @@ urlcolor: blue
 - Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida __$550__   \hfill  2013
 
 # Awards and Honors
-
-- [Meritorious Graduate Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp), School of Natural Resources, University of Nebraska-Lincoln \hfill 2018
-- Invited Participant, [Research Collaboration Workshop for Women in Mathematical Biology](http://www.nimbios.org/education/WS_wwmb)  \hfill 2018
+- [Meritorious Graduate Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp), School of Natural Resources, University of Nebraska-Lincoln __$500__ \hfill 2018
+- Invited Participant, [Research Collaboration Workshop for Women in Mathematical Biology, NIMBIOS](http://www.nimbios.org/education/WS_wwmb)  \hfill 2018
 - Fling Fellow, University of Nebraska-Lincoln  **$20,000** \hfill 2016 
 - Othmer Fellow, University of Nebraska-Lincoln  **$24,000** \hfill 2015 - 19 
 - Big Ten Academic Alliance Travelling Scholar \hfill 2017
@@ -227,17 +232,18 @@ urlcolor: blue
 
 **Teaching Assistant** \hfill 2015   
 
-*Ecological Statistics (online-only course), Department of Wildlife Ecology & Conservation, University of Florida*
+*Ecological Statistics, Department of Wildlife Ecology & Conservation, University of Florida*
 
 - Lead and moderate discussions, grading  
 
 **Guest Lecturer** \hfill 2013  
 *Wetland birds module, Florida Master Naturalist*
 
-- Designed and taught lecture on wetland bird identification and ecology  
+- Designed and taught module on wetland bird identification and ecology  
 
-# Research Presentations 
-## invited 
+# Research Presentations (primary author only; JLB presenter unless otherwise noted)
+## invited
+
 1. Detecting abrupt change in bird community time series using distance travelled. *Association for Women in Math Biology Symposium*, Special session "Current Challenges in Mathematical Biology ", Houston, TX, 2019
 
 1. Decline of the Once-Ubiquitous House Sparrow in North America. *Nebraska Invasive Species Council*, Lincoln, NE, 2015     
@@ -250,6 +256,9 @@ urlcolor: blue
 1. **Burnett, J.L.**. Advances in ecological regime shift detection, *International Institute for Applied Systems Analysis*, Oral presentation. Laxenburg, Austria, 2018
 
 1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, T. A. Eason, D.G. Angeler,and D. Twidwell. Community velocity as a regime shift detection method. *Great Plains Grassland Summit*, Poster presentation. Denver, Colorado, 2018
+
+1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J.P. Carroll.  Gray partridge distribution in North America: Changing landscapes and environment for an introduced species. Perdix XIV and IUGB, Oral presentation by JPC, Montpellier,
+France, 2017
 
 1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, T. A. Eason, D.G. Angeler,and D. Twidwell. System trajectory and Fisher information as early-warning indicators of ecological regime shifts. *Resilience 2017: Resilience Frontiers for Global Sustainability*, Poster presentation. Stockholm, Sweden, 2017
 
@@ -265,14 +274,26 @@ urlcolor: blue
 
 1. **Burnett, J.L.**, Moulton, M.P., and Sieving, K.E. House sparrow: the decline of a once ubiquitous, invasive species. *Florida Chapter of The Wildlife Society Annual Conference*, Poster presentation. Safety Harbor, FL, 2014.
 
+1. **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M.L., and Robinson, S.K. House Sparrow decline and distribution in North Central Florida. *Florida Cooperative Fish and Wildlife Research Unit annual cooperators meeting*, Poster presentation. Gainesville, FL, 2014  
+
 1. **Burnett, J.L.** and Sieving, K.E. Detecting birds of prey using tufted titmouse distress calls. *USGS Florida Cooperative Fish and Wildlife Research Unit Committee Meeting*, Poster presentation. Gainesville, FL, 2013
 
 1. **Burnett, J.L.** and Sieving, K.E. Do actual and perceived risks of small forest birds align? *Florida Ornithological Society Conference, Oral presentation*, St. Petersburg, FL, 2013
 
 1. **Burnett, J.L.** and Sieving, K.E. Perceived predation risks of small forest birds. *Association of Field Ornithologists Annual Conference*, Poster presentation. Venus, FL, 2013
 
+# Journal Referee
+*Bioinvasions Records*, *Ecological Modelling* , *PLOS One* , *Wilson Journal of Ornithology*
 
-# Outreach 
+
+# Scientific Outreach 
+## community involvement
+- Obtained grant to develop on-site nature trail and viewing opportunities at the Reichert House, Gainesville, FL, 2014-15
+- Hands-on captive herpetological opportunities for studnets of the Reichert House, Gainesville, FL, 2014-15 
+- Birdwatching and live banding demonstrations for K-12 students, A Girls' Place, Gainesville, FL, 2013-15
+- Science, mathematics and reading tutor for middle and high school students, Friends of the Micanopy Library, FL, 2011-13 
+- Learning assistant and tutor for geometry and pre-calculus students, Valencia Community College, Oralndo, FL 2008-2010 
+
 ## blogs  
 - [Connecting to nature and understanding ecosystem services: urban perspective](https://envirobites.org/2017/10/17/connecting-to-nature-and-understanding-ecosystem-services-the-urban-perspective/), Envirobites
 - [Big data, big problems](http://resilience2017.org/blog/big-data-big-problems/), Resilience Alliance 
@@ -283,13 +304,10 @@ urlcolor: blue
 ## radio
 - [House Sparrow declines in North American, Urban Wildlife Podcast](http://www.urbanwildlifecast.com/?p=139)   
 
-# Select Service  
-## to the profession    
-- Reviewer for *Bioinvasions Records*, *Ecological Modelling* , *Plos ONE* , *Wilson Journal of Ornithology*
+# Service to the Profession
 - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16  
 
-## to the University of Nebrsaka-Lincoln  
-
+# Service at the University of Nebrsaka-Lincoln  
 - Co-founder, Natural Resources Diversity Initiative committee, School of Natural Resources \hfill 2017
 - Co-founder, [Institutional membership to the Association for Women in Science](http://news.unl.edu/newsrooms/today/article/university-is-institutional-partner-with-association-for-women-in-science/) \hfill 2016
 - Student Representative, [Faculty Advisory Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp), School of Natural Resources \hfill 2016 
