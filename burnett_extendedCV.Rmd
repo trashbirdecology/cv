@@ -23,15 +23,12 @@ urlcolor: blue
 ---
 
 # Education
-
-**Ph.D., Natural Resource Sciences** \hfill 2015 - 19  
+**Ph.D., Natural Resource Sciences, Specialization Applied Ecology** \hfill 2015 - 19  
 *School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka USA*
 
-- Dissertation: Regime Detection Methods for the Practical Ecologist
-- Specialization in Applied Ecology
+- Dissertation: [Regime Detection Methods for the Practical Ecologist]()
 - Prestigious funded summer research sabbatical at IIASA in Laxenburg, Austria 
-- Recipient of 2 university-wide fellowships 
-- Recipient of Meritorious Doctoral Student award (1 of 1 doctoral receipient)
+- Recipient of 2 university-wide fellowships  and Meritorious Doctoral Student award 
 
 **M.Sc., Wildlife Ecology & Conservation** \hfill 2013 - 15  
 *Department of Wildlife Ecology & Conservation, University of Florida, Florida USA*
@@ -44,19 +41,7 @@ urlcolor: blue
 - Undergraduate research thesis published (avian playback methodology)
 - Internship with the Florida Wildlife Research Institute (GIS analyst)
 
-**A.A. Valencia Community College** \hfill 2008 - 10  
-
-
-# Skills Highlight
-
-- Program R, version control, open science, GIS
-- Data quality assessment and quality control, data management
-- Citizen science and long-term monitoring data
-- Population trend and parameter estimation
-- Collaborative research
-- Multivariate statistics
-
-
+<!-- **A.A. Valencia Community College** \hfill 2008 - 10   -->
 <!-- # Education (BRIEF) -->
 
 <!-- Ph.D. Natural Resource Sciences  Unviersity of Nebrsaka-Lincoln \hfill *expected* 2019     -->
@@ -64,9 +49,17 @@ urlcolor: blue
 <!-- B.Sc. Wildlife Ecology & Conservation Unviersity of Florida \hfill 2013     -->
 <!-- A.A. General studies Valencia Community College \hfill 2010   -->
 
+# Skills Highlight
+- Program R, reproducibility, version control, open science 
+- Data quality assessment and quality control, data management
+- Citizen science and long-term monitoring data
+- Avian community and population ecology
+- Population trend and parameter estimation
+- Multivariate statistics
+
 # Professional Experience  
 
-**Graduate research assistant**   \hfill August 2015 - present  
+**Graduate research assistant**   \hfill August 2015 - August 2019  
 *Nebraska Cooperative Fish & Wildlife Research Unit, School of Natural Resources*  
 *University of Nebraska-Lincoln, Nebraska, USA*
 
@@ -81,8 +74,8 @@ urlcolor: blue
 - Designed and instructed of workshops for managing and analyzing ecological data using Program R
 - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)
 - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative
-- Invited and hosted three departmental seminar guests
-- Invited talk at the Association for Women in Math Biology annual symposium
+<!-- - Invited and hosted three departmental seminar guests -->
+<!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
 
 **Research fellow**    \hfill May - September 2018  
 *Applied Systems Analysis Research Group*  
