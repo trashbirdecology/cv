@@ -3,8 +3,11 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: cv-latex.tex
-  md_document: 
+  md_document:
     variant: markdown_github
+knit: (function(inputFile, encoding) {
+        rmarkdown::render(inputFile, encoding = encoding,
+         output_format = "all") })
 geometry: margin=.7in
 title: "CV"
 author: JESSICA L. BURNETT
