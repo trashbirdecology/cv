@@ -3,20 +3,9 @@
 
 
 # History files
-
 .Rhistory
-
 .Rapp.history
 
-
-
-
 # Session Data files
-
 .RData
-*/.DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
 .DS_Store
