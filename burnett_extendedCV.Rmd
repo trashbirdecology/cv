@@ -157,18 +157,16 @@ urlcolor: blue
 
 1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-scale crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America. 
 
-<!-- # Peer-reviewed Software Papers -->
 # Software
 ## Author and maintainer
-1. **Burnett, J.L.**. *in development* `bbsAssistant`. An R package for downloading and manipulating the North American Breeding Bird Survey data. [Github:trashbirdecology/bbsAssistant](https://github.com/TrashBirdEcology/bbsAssistant)
-1. **Burnett, J.L.**, N.B. Price. 2019. `regimeDetectionMeasures`. An R package for calculating univariate and multivariate regime detection methods using community time series. [Github:trashbirdecology/regimedetectionmeasures](https://github.com/TrashBirdEcology/regimedetectionmeasures)
+1. **Burnett, J.L.**.*under review at Journal of Open Source Software* `bbsAssistant`. 2019. An R package for downloading and manipulating the North American Breeding Bird Survey data. https://github.com/TrashBirdEcology/bbsAssistant/blob/master/man/bbsAssistant_0.0.1.pdf [Github:trashbirdecology/bbsAssistant](https://github.com/TrashBirdEcology/bbsAssistant)
+1. **Burnett, J.L.**, N.B. Price. 2019. `regimeDetectionMeasures`. An R package for calculating univariate and multivariate regime detection methods using community time series.  [Github:trashbirdecology/regimedetectionmeasures](https://github.com/TrashBirdEcology/regimedetectionmeasures)
 1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. 2018. `distanceTravelled`. An R package for calculating the distance traveled by a multispecies community along a time series. [Github:trashbirdecology/distancetravelled](https://github.com/TrashBirdEcology/distancetravelled)
 
-
 ## Author
+1. Price, N.B. and **J.L. Burnett**. `tvdiff`. 2019.  An R package for numerical differentiation of noisy, non-smooth data. [Github:natbprice/tvdiff](https://github.com/natbprice/tvdiff) 
 1. Price, N.B., C. Chizinski, and **J.L. Burnett**. `radsets`. 2019. An R package for interactive, network-based visualizations of overlapping sets.  [Github:natbprice/radsets](https://natbprice.github.io/radsets/)
 
-1. Price, N.B. and **J.L. Burnett**. `tvdiff`. 2019.  An R package for numerical differentiation of noisy, non-smooth data. [Github:natbprice/tvdiff](https://github.com/natbprice/tvdiff)
 
 
 # Grants & Fellowships  
