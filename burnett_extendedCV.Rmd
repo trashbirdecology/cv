@@ -159,7 +159,7 @@ urlcolor: blue
 
 # Software
 ## Author and maintainer
-1. **Burnett, J.L.**.*under review at Journal of Open Source Software* `bbsAssistant`. 2019. An R package for downloading and manipulating the North American Breeding Bird Survey data. https://github.com/TrashBirdEcology/bbsAssistant/blob/master/man/bbsAssistant_0.0.1.pdf [Github:trashbirdecology/bbsAssistant](https://github.com/TrashBirdEcology/bbsAssistant)
+1. **Burnett, J.L.**, G. Munoz-Palomo, and L. Wszola.*under review at Journal of Open Source Software* `bbsAssistant`. 2019. An R package for downloading and manipulating the North American Breeding Bird Survey data. https://github.com/TrashBirdEcology/bbsAssistant/blob/master/man/bbsAssistant_0.0.1.pdf [Github:trashbirdecology/bbsAssistant](https://github.com/TrashBirdEcology/bbsAssistant)
 1. **Burnett, J.L.**, N.B. Price. 2019. `regimeDetectionMeasures`. An R package for calculating univariate and multivariate regime detection methods using community time series.  [Github:trashbirdecology/regimedetectionmeasures](https://github.com/TrashBirdEcology/regimedetectionmeasures)
 1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. 2018. `distanceTravelled`. An R package for calculating the distance traveled by a multispecies community along a time series. [Github:trashbirdecology/distancetravelled](https://github.com/TrashBirdEcology/distancetravelled)
 
