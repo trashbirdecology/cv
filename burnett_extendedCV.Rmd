@@ -16,7 +16,7 @@ fontawesome: yes
 email: jessicaleighburnett@gmail.com
 github: trashbirdecology
 twitter: trashbirdecol
-phone: "+1352 792 5425"
+phone: "+1 352 792 5425"
 updated: yes
 keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
@@ -202,38 +202,23 @@ urlcolor: blue
 - Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida __$550__   \hfill  2013
 
 # Teaching Experience  
-**Co-instructor** \hfill 2017  
 
-*Introduction to Applied Ecological Statistics, Kearney, NE*
-
+**Co-instructor** Introduction to Applied Ecological Statistics, Kearney, NE \hfill 2017
 <!-- - Week-long workshop for employees of the Nebraska Game and Parks Commission employees -->
 
-**Instructor** \hfill 2017  
-*Introduction to Prorgam R*
-
+**Instructor** Introduction to Prorgam R \hfill 2017
 <!-- - Designed and taught a series of half-day workshops for graduate students -->
 <!-- - Basics of data management and analysis using Program R -->
-
-**Guest Lecturer** \hfill 2016  
-*Module: using citizen science data to understand ecological invasions; Course: Avian Invasions*
-
+**Guest Lecturer** Module: using citizen science data to understand ecological invasions; Course: Avian Invasions  \hfill 2016
 <!-- - Designed and taught series of lectures on citizen science data     -->
 
-**Teaching Assistant** \hfill 2015   
-
-*Wildlife Population Ecology, Department of Wildlife Ecology & Conservation, University of Florida*
-
+**Teaching Assistant** Wildlife Population Ecology, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015
 <!-- - Lead quantitative laboratory sessions, grading   -->
 
-**Teaching Assistant** \hfill 2015   
-
-*Ecological Statistics, Department of Wildlife Ecology & Conservation, University of Florida*
-
+**Teaching Assistant** Ecological Statistics, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015
 <!-- - Lead and moderate discussions, grading   -->
 
-**Guest Lecturer** \hfill 2013  
-*Wetland birds module, Florida Master Naturalist*
-
+**Guest Lecturer** Wetland birds module, Florida Master Naturalist \hfill 2013
 <!-- - Designed and taught module on wetland bird identification and ecology   -->
 
 # Research Presentations Given
@@ -320,4 +305,6 @@ France, 2017
 1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher Information. Strategic Environmental Research and Development Program (SERDP), Department of Defense.  
 1. Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**, Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change, Vulnerability, and Resilience: Management Options for an Uncertain Future. Strategic Environmental Research and Development Program (SERDP), Department of Defense.   
 1. Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M., Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models (BpS) in the Great Plains. LANDFIRE Project.  
+
+
 

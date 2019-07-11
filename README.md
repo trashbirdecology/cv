@@ -278,41 +278,26 @@ Honors & Awards
 Teaching Experience
 ===================
 
-**Co-instructor** 2017
-
-*Introduction to Applied Ecological Statistics, Kearney, NE*
-
+**Co-instructor** Introduction to Applied Ecological Statistics,
+Kearney, NE 2017
 <!-- - Week-long workshop for employees of the Nebraska Game and Parks Commission employees -->
 
-**Instructor** 2017  
-*Introduction to Prorgam R*
-
+**Instructor** Introduction to Prorgam R 2017
 <!-- - Designed and taught a series of half-day workshops for graduate students -->
 <!-- - Basics of data management and analysis using Program R -->
-
-**Guest Lecturer** 2016  
-*Module: using citizen science data to understand ecological invasions;
-Course: Avian Invasions*
-
+**Guest Lecturer** Module: using citizen science data to understand
+ecological invasions; Course: Avian Invasions 2016
 <!-- - Designed and taught series of lectures on citizen science data     -->
 
-**Teaching Assistant** 2015
-
-*Wildlife Population Ecology, Department of Wildlife Ecology &
-Conservation, University of Florida*
-
+**Teaching Assistant** Wildlife Population Ecology, Department of
+Wildlife Ecology & Conservation, University of Florida 2015
 <!-- - Lead quantitative laboratory sessions, grading   -->
 
-**Teaching Assistant** 2015
-
-*Ecological Statistics, Department of Wildlife Ecology & Conservation,
-University of Florida*
-
+**Teaching Assistant** Ecological Statistics, Department of Wildlife
+Ecology & Conservation, University of Florida 2015
 <!-- - Lead and moderate discussions, grading   -->
 
-**Guest Lecturer** 2013  
-*Wetland birds module, Florida Master Naturalist*
-
+**Guest Lecturer** Wetland birds module, Florida Master Naturalist 2013
 <!-- - Designed and taught module on wetland bird identification and ecology   -->
 
 Research Presentations Given
@@ -421,7 +406,7 @@ Scientific Outreach
 community involvement
 ---------------------
 
--   Obtained grant to develop on-site nature trail and viewing
+-   Co-PI, Community grant to develop on-site nature trail and viewing
     opportunities at the Reichert House, Gainesville, FL, 2014-15
 -   Hands-on captive herpetological opportunities for studnets of the
     Reichert House, Gainesville, FL, 2014-15
@@ -480,7 +465,7 @@ Service at the University of Nebrsaka-Lincoln
     2016
 -   [Faculty Advisory
     Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp),
-    School of Natural Resources 2016
+    School of Natural Resources 2016-18
 -   Digital Team, School of Natural Resources 2016
 -   Organizer, Association for Women in Science [Mentor
     Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop)

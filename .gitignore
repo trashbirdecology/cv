@@ -9,3 +9,9 @@
 # Session Data files
 .RData
 .DS_Store
+burnett_extendedCV.log
+burnett_extendedCV.md
+burnett_extendedCV.out
+burnett_extendedCV.utf8.md
+burnett_extendedCV.knit.md
+burnett_extendedCV.aux
