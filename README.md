@@ -6,8 +6,7 @@ Education
 *School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka
 USA*
 
--   Dissertation: [Regime Detection Methods for the Practical
-    Ecologist]()
+-   Dissertation: Regime Detection Methods for the Practical Ecologist
 -   Prestigious funded summer research sabbatical at IIASA in Laxenburg,
     Austria
 -   Recipient of 2 university-wide fellowships and Meritorious Doctoral
