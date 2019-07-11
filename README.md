@@ -285,6 +285,7 @@ Kearney, NE 2017
 **Instructor** Introduction to Prorgam R 2017
 <!-- - Designed and taught a series of half-day workshops for graduate students -->
 <!-- - Basics of data management and analysis using Program R -->
+
 **Guest Lecturer** Module: using citizen science data to understand
 ecological invasions; Course: Avian Invasions 2016
 <!-- - Designed and taught series of lectures on citizen science data     -->
