@@ -1,8 +1,8 @@
 ---
 output: 
-  pdf_document:
-    latex_engine: pdflatex
-    template: cv-latex.tex
+  # pdf_document:
+    # latex_engine: pdflatex
+    # template: cv-latex.tex
   md_document:
     variant: markdown_github
 knit: (function(inputFile, encoding) {
@@ -24,6 +24,9 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue
 ---
+<!-- Silence line 29 and unsilence lines 3-5 when rendering to pdf -->
+<!-- Silence lines 6-7 and unsilence lines 3-5 to render to pdf  -->
+[PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
 
 # Education
 **Ph.D., Natural Resource Sciences, Specialization Applied Ecology** \hfill 2015 - 19  
