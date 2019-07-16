@@ -1,3 +1,6 @@
+[PDF version
+available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
+
 Education
 =========
 
