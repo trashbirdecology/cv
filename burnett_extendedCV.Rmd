@@ -1,13 +1,13 @@
 ---
 output: 
-  # pdf_document:
-  #     latex_engine: pdflatex
-  #     template: cv-latex.tex
-  md_document:
-    variant: markdown_github
-knit: (function(inputFile, encoding) {
-        rmarkdown::render(inputFile, encoding = encoding,
-         output_format = "all") })
+  pdf_document:
+      latex_engine: pdflatex
+      template: cv-latex.tex
+#   md_document:
+#     variant: markdown_github
+# knit: (function(inputFile, encoding) {
+#         rmarkdown::render(inputFile, encoding = encoding,
+#          output_format = "all") })
 geometry: margin=.7in
 title: "CV"
 author: JESSICA L. BURNETT
@@ -25,13 +25,13 @@ fontsize: 11pt
 urlcolor: blue
 ---
 
-*CV template adapted from [S. Miller](https://github.com/svmiller/svm-r-markdown-templates)*  
+<!-- *CV template adapted from [S. Miller](https://github.com/svmiller/svm-r-markdown-templates)*   -->
 
-[PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
+<!-- [PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf) -->
 
 # Employment
 **Research Ecologist & Mendenhall Postdoctoral Fellow**  \hfill September 2019 - present
-*Science Analytics and Synthesis, Core Systems Science*
+*Science Analytics and Synthesis, Core Science Systems*
 *U.S. Geological Survey, Lakewood, Colorado, USA*
 
 **Graduate research assistant**   \hfill August 2015 - August 2019

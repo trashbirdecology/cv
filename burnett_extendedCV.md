@@ -8,7 +8,7 @@ Employment
 ==========
 
 **Research Ecologist & Mendenhall Postdoctoral Fellow** September 2019 -
-present *Science Analytics and Synthesis, Core Systems Science* *U.S.
+present *Science Analytics and Synthesis, Core Science Systems* *U.S.
 Geological Survey, Lakewood, Colorado, USA*
 
 **Graduate research assistant** August 2015 - August 2019 *Nebraska
