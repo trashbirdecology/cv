@@ -1,5 +1,5 @@
-<!-- Silence line 29 and unsilence lines 3-5 when rendering to pdf -->
-<!-- Silence lines 6-7 and unsilence lines 3-5 to render to pdf  -->
+*CV template adapted from [S.
+Miller](https://github.com/svmiller/svm-r-markdown-templates)*
 
 [PDF version
 available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
