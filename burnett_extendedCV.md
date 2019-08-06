@@ -8,12 +8,15 @@ Employment
 ==========
 
 **Research Ecologist & Mendenhall Postdoctoral Fellow** September 2019 -
-present *Science Analytics and Synthesis, Core Science Systems* *U.S.
-Geological Survey, Lakewood, Colorado, USA*
+present  
+Science Analytics and Synthesis, Core Science Systems  
+U.S. Geological Survey, Lakewood, Colorado, USA
 
-**Graduate research assistant** August 2015 - August 2019 *Nebraska
-Cooperative Fish & Wildlife Research Unit, School of Natural Resources*
-*University of Nebraska-Lincoln, Nebraska, USA*
+**Graduate Research Assistant** August 2015 - August 2019  
+Nebraska Cooperative Fish & Wildlife Research Unit  
+School of Natural Resources  
+Department of Agronomy & Horticulture  
+University of Nebraska-Lincoln, Nebraska, USA
 
 <!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
 <!-- - Authored 5 R packages: -->
@@ -29,16 +32,17 @@ Cooperative Fish & Wildlife Research Unit, School of Natural Resources*
 <!-- - Invited and hosted three departmental seminar guests -->
 <!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
 
-**Research fellow** May - September 2018 *Applied Systems Analysis
-Research Group* *International Institute for Applied Systems Analysis,
-Laxenburg, Austria*
+**Young Scholar** May - September 2018  
+Applied Systems Analysis Research Group  
+International Institute for Applied Systems Analysis Laxenburg, Austria
 
 <!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
 <!-- - Presented research in an international forum -->
 <!-- - Organized seminar on Network Analysis in Ecology -->
 
-**Graduate teaching assistant** August 2013 - August 2015 *Department of
-Wildlife Ecology & Conservation* *University of Florida, Florida, USA*
+**Graduate Teaching Assistant** August 2013 - August 2015  
+Department of Wildlife Ecology & Conservation  
+University of Florida, Florida, USA
 
 <!-- - Published 2 peer-reviewed scientific articles -->
 <!-- - Invited lectures in citizen science data, wetland birds -->
@@ -68,30 +72,25 @@ Education
 
 **Ph.D., Natural Resource Sciences, Specialization Applied Ecology**
 2015 - 19  
-*School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka
-USA*
+School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka
+USA
 
--   Dissertation: Regime Detection Methods for the Practical Ecologist
--   Prestigious funded summer research sabbatical at IIASA in Laxenburg,
-    Austria
--   Recipient of 2 university-wide fellowships and Meritorious Doctoral
-    Student award
+<!-- - Dissertation: Regime Detection Methods for the Practical Ecologist -->
+<!-- - Prestigious funded summer research sabbatical at IIASA in Laxenburg, Austria  -->
+<!-- - Recipient of 2 university-wide fellowships  and Meritorious Doctoral Student award  -->
 
 **M.Sc., Wildlife Ecology & Conservation** 2013 - 15  
-*Department of Wildlife Ecology & Conservation, University of Florida,
-Florida USA*
+Department of Wildlife Ecology & Conservation, University of Florida,
+Florida USA
 
--   Thesis: House Sparrow *(Passer domesticus)* decline and distribution
-    in North America
+<!-- - Thesis: House Sparrow *(Passer domesticus)* decline and distribution in North America  -->
 
 **B.Sc. Wildlife Ecology & Conservation** 2010 - 13  
-*Department of Wildlife Ecology & Conservation, University of Florida,
-Florida USA*
+Department of Wildlife Ecology & Conservation, University of Florida,
+Florida USA
 
--   Undergraduate research thesis published (avian playback methodology)
--   Internship with the Florida Wildlife Research Institute (GIS
-    analyst)
-
+<!-- - Undergraduate research thesis published (avian playback methodology) -->
+<!-- - Internship with the Florida Wildlife Research Institute (GIS analyst) -->
 <!-- **A.A. Valencia Community College** \hfill 2008 - 10   -->
 <!-- # Education (BRIEF) -->
 <!-- Ph.D. Natural Resource Sciences  Unviersity of Nebrsaka-Lincoln \hfill *expected* 2019     -->
@@ -102,12 +101,13 @@ Florida USA*
 Skills Highlight
 ================
 
--   Program R, reproducibility, version control, open science
+-   Languages: R, LaTeX, MatLab, HTML, English
+-   Reproducibility and open science
+-   Applied statistics
 -   Data quality assessment and quality control, data management
--   Citizen science and long-term monitoring data
+-   Citizen science and long-term monitoring
 -   Avian community and population ecology
 -   Population trend and parameter estimation
--   Multivariate statistics
 
 Peer-reviewed Research Articles
 ===============================
@@ -264,6 +264,8 @@ Grants & Fellowships
 Honors & Awards
 ===============
 
+-   School of Natural Resources, University of Nebraska-Lincoln **$750**
+    2019
 -   University of Nebraska Graduate Travel Fund **$750** 2019
 -   Association for Women in Mathematical Biology **$650** 2019
 -   School of Natural Resources, University of Nebraska-Lincoln
