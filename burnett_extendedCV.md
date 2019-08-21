@@ -88,23 +88,25 @@ University of Florida, Florida, USA
 <!-- - Published 2 peer-reviewed scientific articles -->
 <!-- - Invited lectures in citizen science data, wetland birds -->
 
-**Geospatial Analyst Intern** April 2012 - August 2012 Florida Fish and
-Wildlife Research Institute Gainesville, Florida, USA
+**Geospatial Analyst Intern** April 2012 - August 2012  
+Florida Fish and Wildlife Research Institute Gainesville, Florida, USA
 
 <!-- - Identified relationships among land cover and American Kestrel *(Falco sparverius)* nest success -->
 <!-- - Ground-truthed GIS data -->
 <!-- - Monitored Eastern Screech-Owl (*Megascops asio*) nests -->
 
-**Research Assistant** January 2011 - April 2012 Avian Ecology and
-Conservation Lab University of Florida, Gainesville, FL, USA
+**Research Assistant** January 2011 - April 2012  
+Avian Ecology and Conservation Lab University of Florida, Gainesville,
+FL, USA
 
 <!-- - Managed bird banding database -->
 <!-- - Conducted avian behavioral field research - *Paridae* feeder behavior -->
 <!-- - Designed and implemented research project resulting in 1 peer-reviewed manuscript -->
 
 **Crew Leader, Smithsonian Fellow** April-September 2011 and
-April-September 2013 Neighborhood Nestwatch Program Smithsonian
-Migratory Bird Center, Gainesville, FL, USA
+April-September 2013  
+Neighborhood Nestwatch Program  
+Smithsonian Migratory Bird Center, Gainesville, FL, USA
 
 <!-- - Trained and led team of banding technicians -->
 <!-- - Managed bird banding database; data QA/QC -->

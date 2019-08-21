@@ -1,8 +1,8 @@
 ---
 output: 
-  pdf_document:
-      latex_engine: pdflatex
-      template: cv-latex.tex
+  # pdf_document:
+  #     latex_engine: pdflatex
+  #     template: cv-latex.tex
   md_document:
     variant: markdown_github
 knit: (function(inputFile, encoding) {
@@ -66,7 +66,7 @@ Department of Wildlife Ecology & Conservation, University of Florida, Florida US
 - Population trend and parameter estimation
 
 # Professional Experience
-**Research Ecologist & Mendenhall Postdoctoral Fellow**  \hfill September 2019 - present   
+**Research Ecologist & Mendenhall Postdoctoral Fellow**  \hfill September 2019 - present  
 Science Analytics and Synthesis, Core Science Systems  
 U.S. Geological Survey, Lakewood, Colorado, USA
 
@@ -99,14 +99,14 @@ Laxenburg, Austria
 <!-- - Presented research in an international forum -->
 <!-- - Organized seminar on Network Analysis in Ecology -->
 
-**Graduate Teaching Assistant**   \hfill August 2013 - August 2015  
+**Graduate Teaching Assistant**   \hfill August 2013 - August 2015   
 Department of Wildlife Ecology & Conservation  
 University of Florida, Florida, USA
 
 <!-- - Published 2 peer-reviewed scientific articles -->
 <!-- - Invited lectures in citizen science data, wetland birds -->
 
-**Geospatial Analyst Intern**  \hfill April 2012 -  August 2012
+**Geospatial Analyst Intern**  \hfill April 2012 -  August 2012  
 Florida Fish and Wildlife Research Institute
 Gainesville, Florida, USA
 
@@ -114,7 +114,7 @@ Gainesville, Florida, USA
 <!-- - Ground-truthed GIS data -->
 <!-- - Monitored Eastern Screech-Owl (*Megascops asio*) nests -->
 
-**Research Assistant**  \hfill January 2011 -  April 2012
+**Research Assistant**  \hfill January 2011 -  April 2012  
 Avian Ecology and Conservation Lab
 University of Florida, Gainesville, FL, USA
 
@@ -122,8 +122,8 @@ University of Florida, Gainesville, FL, USA
 <!-- - Conducted avian behavioral field research - *Paridae* feeder behavior -->
 <!-- - Designed and implemented research project resulting in 1 peer-reviewed manuscript -->
 
-**Crew Leader, Smithsonian Fellow**  \hfill   April-September 2011 and April-September 2013
-Neighborhood Nestwatch Program
+**Crew Leader, Smithsonian Fellow**  \hfill   April-September 2011 and April-September 2013  
+Neighborhood Nestwatch Program  
 Smithsonian Migratory Bird Center, Gainesville, FL, USA
 
 <!-- - Trained and led team of banding technicians -->
