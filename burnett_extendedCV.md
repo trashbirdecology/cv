@@ -1,71 +1,7 @@
-*CV template adapted from [S.
-Miller](https://github.com/svmiller/svm-r-markdown-templates)*
+<!-- *CV template adapted from [S. Miller](https://github.com/svmiller/svm-r-markdown-templates)* -->
 
 [PDF version
 available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
-
-Employment
-==========
-
-**Research Ecologist & Mendenhall Postdoctoral Fellow** September 2019 -
-present  
-Science Analytics and Synthesis, Core Science Systems  
-U.S. Geological Survey, Lakewood, Colorado, USA
-
-**Graduate Research Assistant** August 2015 - August 2019  
-Nebraska Cooperative Fish & Wildlife Research Unit  
-School of Natural Resources  
-Department of Agronomy & Horticulture  
-University of Nebraska-Lincoln, Nebraska, USA
-
-<!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
-<!-- - Authored 5 R packages: -->
-<!--     - [`bbsAssistant`](http://github.com/trashbirdecology/bbsAssistant): An R package containing helper functions for downloading and munging data and metadata from the North American Breeding Bird Survey FTP -->
-<!--     - [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods): An R package for calculating various regime detection measures -->
-<!--     - [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM): An R package for calculating various regime detection measures using the North American Breeding Bird Survey data -->
-<!-- - Co-authored two R packages: -->
-<!--     - [`radsets`](https://github.com/natbprice/radsets): An R package for interactive, network-based visualizations of overlapping sets -->
-<!--     - [`TVdiff`](https://github.com/natbprice/tvdiff): An R package for implementing numerical differentiation of noisy, non-smooth data -->
-<!-- - Designed and instructed of workshops for managing and analyzing ecological data using Program R -->
-<!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference) -->
-<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
-<!-- - Invited and hosted three departmental seminar guests -->
-<!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
-
-**Young Scholar** May - September 2018  
-Applied Systems Analysis Research Group  
-International Institute for Applied Systems Analysis Laxenburg, Austria
-
-<!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
-<!-- - Presented research in an international forum -->
-<!-- - Organized seminar on Network Analysis in Ecology -->
-
-**Graduate Teaching Assistant** August 2013 - August 2015  
-Department of Wildlife Ecology & Conservation  
-University of Florida, Florida, USA
-
-<!-- - Published 2 peer-reviewed scientific articles -->
-<!-- - Invited lectures in citizen science data, wetland birds -->
-<!-- **Geospatial Analyst Intern**  \hfill April -  August 2012 -->
-<!-- *Florida Fish and Wildlife Research Institute* -->
-<!-- *Gainesville, Florida, USA* -->
-<!-- - Identified relationships among land cover and American Kestrel *(Falco sparverius)* nest success -->
-<!-- - Ground-truthed GIS data -->
-<!-- - Monitored Eastern Screech-Owl (*Megascops asio*) nests -->
-<!-- **Research Assistant**  \hfill January 2011 -  April 2012 -->
-<!-- *Avian Ecology and Conservation Lab* -->
-<!-- *University of Florida, Gainesville, FL, USA* -->
-<!-- - Managed bird banding database -->
-<!-- - Conducted avian behavioral field research - *Paridae* feeder behavior -->
-<!-- - Designed and implemented research project resulting in 1 peer-reviewed manuscript -->
-<!-- **Crew Leader, Smithsonian Fellow**  \hfill   April-September 2011 and April-September 2013   -->
-<!-- *Neighborhood Nestwatch Program*    -->
-<!-- *Smithsonian Migratory Bird Center, Gainesville, FL, USA*    -->
-<!-- - Trained and led team of banding technicians -->
-<!-- - Managed bird banding database; data QA/QC -->
-<!-- - Recruited and trained citizen scientists -->
-<!-- - Banded and measured breeding birds in backyards using -->
-<!-- - Created monthly program newletters -->
 
 Education
 =========
@@ -108,6 +44,73 @@ Skills Highlight
 -   Citizen science and long-term monitoring
 -   Avian community and population ecology
 -   Population trend and parameter estimation
+
+Professional Experience
+=======================
+
+**Research Ecologist & Mendenhall Postdoctoral Fellow** September 2019 -
+present  
+Science Analytics and Synthesis, Core Science Systems  
+U.S. Geological Survey, Lakewood, Colorado, USA
+
+**Graduate Research Assistant** August 2015 - August 2019  
+Nebraska Cooperative Fish & Wildlife Research Unit  
+School of Natural Resources  
+Department of Agronomy & Horticulture  
+University of Nebraska-Lincoln, Nebraska, USA
+
+<!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
+<!-- - Authored 5 R packages: -->
+<!--     - [`bbsAssistant`](http://github.com/trashbirdecology/bbsAssistant): An R package containing helper functions for downloading and munging data and metadata from the North American Breeding Bird Survey FTP -->
+<!--     - [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods): An R package for calculating various regime detection measures -->
+<!--     - [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM): An R package for calculating various regime detection measures using the North American Breeding Bird Survey data -->
+<!-- - Co-authored two R packages: -->
+<!--     - [`radsets`](https://github.com/natbprice/radsets): An R package for interactive, network-based visualizations of overlapping sets -->
+<!--     - [`TVdiff`](https://github.com/natbprice/tvdiff): An R package for implementing numerical differentiation of noisy, non-smooth data -->
+<!-- - Designed and instructed of workshops for managing and analyzing ecological data using Program R -->
+<!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference) -->
+<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
+<!-- - Invited and hosted three departmental seminar guests -->
+<!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
+
+**Young Scholar** May 2018 - September 2018  
+Applied Systems Analysis Research Group  
+International Institute for Applied Systems Analysis Laxenburg, Austria
+
+<!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
+<!-- - Presented research in an international forum -->
+<!-- - Organized seminar on Network Analysis in Ecology -->
+
+**Graduate Teaching Assistant** August 2013 - August 2015  
+Department of Wildlife Ecology & Conservation  
+University of Florida, Florida, USA
+
+<!-- - Published 2 peer-reviewed scientific articles -->
+<!-- - Invited lectures in citizen science data, wetland birds -->
+
+**Geospatial Analyst Intern** April 2012 - August 2012 Florida Fish and
+Wildlife Research Institute Gainesville, Florida, USA
+
+<!-- - Identified relationships among land cover and American Kestrel *(Falco sparverius)* nest success -->
+<!-- - Ground-truthed GIS data -->
+<!-- - Monitored Eastern Screech-Owl (*Megascops asio*) nests -->
+
+**Research Assistant** January 2011 - April 2012 Avian Ecology and
+Conservation Lab University of Florida, Gainesville, FL, USA
+
+<!-- - Managed bird banding database -->
+<!-- - Conducted avian behavioral field research - *Paridae* feeder behavior -->
+<!-- - Designed and implemented research project resulting in 1 peer-reviewed manuscript -->
+
+**Crew Leader, Smithsonian Fellow** April-September 2011 and
+April-September 2013 Neighborhood Nestwatch Program Smithsonian
+Migratory Bird Center, Gainesville, FL, USA
+
+<!-- - Trained and led team of banding technicians -->
+<!-- - Managed bird banding database; data QA/QC -->
+<!-- - Recruited and trained citizen scientists -->
+<!-- - Banded and measured breeding birds in backyards using -->
+<!-- - Created monthly program newletters -->
 
 Peer-reviewed Research Articles
 ===============================
@@ -208,6 +211,10 @@ Manuscripts in Preparation (primary author)
     Large-scale crop patterns influence Gray Partridge (*Perdix perdix*)
     site occupancy in North America.
 
+5.  **Burnett, J.L.**, B.D. Fath, E. Rovenskaya, and A.J. Tyre. Effects
+    of data quality and quantity on inference gained from regime shift
+    detection methods.
+
 Software
 ========
 
@@ -244,7 +251,7 @@ Grants & Fellowships
 ====================
 
 -   Mendenhall Postdoctoral Fellowship, U.S. Geological Survey
-    **$20,000 + salary** 2019 - 21
+    **\~$180,000** 2019 - 21
 -   [Meritorious Graduate
     Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp), School
     of Natural Resources, UNL **$500** 2018
@@ -464,17 +471,21 @@ radio
 -   [House Sparrow declines in North American, Urban Wildlife
     Podcast](http://www.urbanwildlifecast.com/?p=139)
 
-Service to the Profession
-=========================
+Service
+=======
+
+Profession
+----------
 
 -   Journal referee for *Bioinvasions Records* (1), *Ecological
-    Modelling* (3), *PLOS One* (1), *Wilson Journal of Ornithology* (3)
+    Modelling* (3),*Journal of Open Source Software* (1), *PLOS One*
+    (1), *Wilson Journal of Ornithology* (3)
 -   Student liaison, [Urban Ecosystem Ecology
     Section](http://www.esa.org/urbanecology/), Ecological Society of
     America 2015 - 16
 
-Service at the University of Nebrsaka-Lincoln
-=============================================
+University of Nebrsaka-Lincoln
+------------------------------
 
 -   Co-founder, Natural Resources Diversity Initiative committee, School
     of Natural Resources 2017
