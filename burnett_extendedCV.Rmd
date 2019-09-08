@@ -279,29 +279,31 @@ France, 2017
 
 
 # Scientific Outreach 
-## community involvement
+## Community Involvement
+- Letters to a Pre-scientist, United States, 2019-present
+- Skype a Scientist, United States, 2017-present
 - Co-PI, Community grant to develop on-site nature trail and viewing opportunities at the Reichert House, Gainesville, FL, 2014-15
 - Hands-on captive herpetological opportunities for studnets of the Reichert House, Gainesville, FL, 2014-15 
 - Birdwatching and live banding demonstrations for K-12 students, A Girls' Place, Gainesville, FL, 2013-15
 - Science, mathematics and reading tutor for middle and high school students, Friends of the Micanopy Library, FL, 2011-13 
 - Learning assistant and tutor for geometry and pre-calculus students, Valencia Community College, Oralndo, FL 2008-2010 
 
-## blogs  
+## Blogs  
 - [Connecting to nature and understanding ecosystem services: urban perspective](https://envirobites.org/2017/10/17/connecting-to-nature-and-understanding-ecosystem-services-the-urban-perspective/), Envirobites
 - [Big data, big problems](http://resilience2017.org/blog/big-data-big-problems/), Resilience Alliance 
 - [Panarchy in the Anthropocene](http://resilience2017.org/blog/panarchy-in-the-anthropocene/), Resilience Alliance - [Regime shifts, traps and how to deal with them](http://resilience2017.org/blog/regime-shifts-traps-and-how-to-deal-with-them/), Resilience Alliance
 - [Connecting to nature and understanding ecosystem services: the urban perspective](http://resilience2017.org/blog/connecting-to-nature-and-understanding-ecosystem-services-the-urban-perspective/), Resilience Alliance
 - [Leadership resilience and your workplace](http://resilience2017.org/blog/leadership-resilience-and-your-workplace/), Resilience Alliance
 
-## radio
+## Radio
 - [House Sparrow declines in North American, Urban Wildlife Podcast](http://www.urbanwildlifecast.com/?p=139)   
 
 # Service  
-## Profession
-- Journal referee for *Bioinvasions Records* (1), *Ecological Modelling* (3),*Journal of Open Source Software* (1), *PLOS One* (1), *Wilson Journal of Ornithology* (3)
-- Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16  
+## Journal Referee
+- Journal referee for *Bioinvasions Records* (1), *Ecological Modelling* (4),*Journal of Open Source Software* (1), *PLOS One* (1), *Wilson Journal of Ornithology* (3)
+<!-- - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16   -->
 
-## University of Nebrsaka-Lincoln  
+## University 
 - Co-founder, Natural Resources Diversity Initiative committee, School of Natural Resources \hfill 2017
 - Co-founder, [Institutional membership to the Association for Women in Science](http://news.unl.edu/newsrooms/today/article/university-is-institutional-partner-with-association-for-women-in-science/) \hfill 2016
 - [Faculty Advisory Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp), School of Natural Resources \hfill 2016-18 
@@ -319,9 +321,6 @@ France, 2017
 <!-- - Ecological Society of America   \hfill 2014 -->
 
 # Technical Reports  
-1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher Information. Strategic Environmental Research and Development Program (SERDP), Department of Defense.  
+1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher Information. Strategic Environmental Research and Development Program (SERDP RC 25-10), Department of Defense.  
 1. Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**, Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change, Vulnerability, and Resilience: Management Options for an Uncertain Future. Strategic Environmental Research and Development Program (SERDP), Department of Defense.   
-1. Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M., Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models (BpS) in the Great Plains. LANDFIRE Project.  
-
-
-
+1. Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M., Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models (BpS) in the Great Plains. LANDFIRE Project.   

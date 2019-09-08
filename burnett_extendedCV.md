@@ -431,9 +431,11 @@ contributed
 Scientific Outreach
 ===================
 
-community involvement
+Community Involvement
 ---------------------
 
+-   Letters to a Pre-scientist, United States, 2019-present
+-   Skype a Scientist, United States, 2017-present
 -   Co-PI, Community grant to develop on-site nature trail and viewing
     opportunities at the Reichert House, Gainesville, FL, 2014-15
 -   Hands-on captive herpetological opportunities for studnets of the
@@ -445,7 +447,7 @@ community involvement
 -   Learning assistant and tutor for geometry and pre-calculus students,
     Valencia Community College, Oralndo, FL 2008-2010
 
-blogs
+Blogs
 -----
 
 -   [Connecting to nature and understanding ecosystem services: urban
@@ -467,7 +469,7 @@ blogs
     workplace](http://resilience2017.org/blog/leadership-resilience-and-your-workplace/),
     Resilience Alliance
 
-radio
+Radio
 -----
 
 -   [House Sparrow declines in North American, Urban Wildlife
@@ -476,18 +478,16 @@ radio
 Service
 =======
 
-Profession
-----------
+Journal Referee
+---------------
 
 -   Journal referee for *Bioinvasions Records* (1), *Ecological
-    Modelling* (3),*Journal of Open Source Software* (1), *PLOS One*
+    Modelling* (4),*Journal of Open Source Software* (1), *PLOS One*
     (1), *Wilson Journal of Ornithology* (3)
--   Student liaison, [Urban Ecosystem Ecology
-    Section](http://www.esa.org/urbanecology/), Ecological Society of
-    America 2015 - 16
+    <!-- - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16   -->
 
-University of Nebrsaka-Lincoln
-------------------------------
+University
+----------
 
 -   Co-founder, Natural Resources Diversity Initiative committee, School
     of Natural Resources 2017
@@ -520,7 +520,7 @@ Technical Reports
 1.  **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G.,
     Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher
     Information. Strategic Environmental Research and Development
-    Program (SERDP), Department of Defense.  
+    Program (SERDP RC 25-10), Department of Defense.  
 2.  Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**,
     Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change,
     Vulnerability, and Resilience: Management Options for an Uncertain
