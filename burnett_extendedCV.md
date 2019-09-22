@@ -1,4 +1,5 @@
-<!-- *CV template adapted from [S. Miller](https://github.com/svmiller/svm-r-markdown-templates)* -->
+*CV template adapted from [S.
+Miller](https://github.com/svmiller/svm-r-markdown-templates)*
 
 [PDF version
 available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
@@ -481,13 +482,15 @@ Service
 Journal Referee
 ---------------
 
--   Journal referee for *Bioinvasions Records* (1), *Ecological
-    Modelling* (4),*Journal of Open Source Software* (1), *PLOS One*
-    (1), *Wilson Journal of Ornithology* (3)
-    <!-- - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16   -->
+-   *Bioinvasions Records* (1), *Ecological Modelling* (4), *Journal of
+    Molluscan Studies* (1), *Journal of Open Source Software* (1), *PLOS
+    One* (1), *Wilson Journal of Ornithology* (3)  
+-   Student liaison, [Urban Ecosystem Ecology
+    Section](http://www.esa.org/urbanecology/), Ecological Society of
+    America 2015 - 16
 
-University
-----------
+University of Nebraska-Lincoln
+------------------------------
 
 -   Co-founder, Natural Resources Diversity Initiative committee, School
     of Natural Resources 2017
@@ -514,18 +517,25 @@ University
 <!-- - Association for Women in Science \hfill 2015 -->
 <!-- - Ecological Society of America   \hfill 2014 -->
 
-Technical Reports
-=================
+Grey Literature
+===============
+
+White Papers
+------------
 
 1.  **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G.,
     Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher
     Information. Strategic Environmental Research and Development
-    Program (SERDP RC 25-10), Department of Defense.  
-2.  Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**,
+    Program (SERDP RC 25-10), Department of Defense.
+
+Grant Reports
+-------------
+
+1.  Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**,
     Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change,
     Vulnerability, and Resilience: Management Options for an Uncertain
     Future. Strategic Environmental Research and Development Program
     (SERDP), Department of Defense.  
-3.  Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M.,
+2.  Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M.,
     Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models
     (BpS) in the Great Plains. LANDFIRE Project.
