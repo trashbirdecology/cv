@@ -237,8 +237,14 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 **Guest Lecturer** Wetland birds module, Florida Master Naturalist \hfill 2013
 <!-- - Designed and taught module on wetland bird identification and ecology   -->
 
+# Organized Sessions & Symposia
+1. Opportunities and Challenges in Big Data Ornithology. Co-organizer with F. LaSorte and C. Lepczyk. North American Ornithological Conference V, Washington, D.C., 2016
+
 # Research Presentations Given
 ## invited
+
+1. Regime Detection Measures for the Pratical Ecologist, Department of Wildlife Ecology & Conservation, University of Florida, 2019
+
 1. Detecting abrupt change in bird community time series using distance travelled. *Association for Women in Math Biology Symposium*, Special session "Current Challenges in Mathematical Biology ", Houston, TX, 2019
 
 1. Decline of the Once-Ubiquitous House Sparrow in North America. *Nebraska Invasive Species Council*, Lincoln, NE, 2015     
@@ -300,7 +306,7 @@ France, 2017
 
 # Service  
 ## Journal Referee
-- *Bioinvasions Records* (1), *Ecological Modelling* (4), *Journal of Molluscan Studies* (1), *Journal of Open Source Software* (1), *PLOS One* (1), *Wilson Journal of Ornithology* (3)  
+- *Bioinvasions Records* (1), *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *Journal of Open Source Software* (1), *PLOS One* (1), *Wilson Journal of Ornithology* (3)  
 - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16  
 
 ## University of Nebraska-Lincoln 
