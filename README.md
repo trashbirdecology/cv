@@ -232,7 +232,7 @@ Grants & Fellowships
 ====================
 
 -   Mendenhall Postdoctoral Fellowship, U.S. Geological Survey
-    **$20,000 + salary** 2019 - 21
+    **~$223,000 ** 2019 - 21
 -   [Meritorious Graduate
     Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp), School
     of Natural Resources, UNL **$500** 2018
