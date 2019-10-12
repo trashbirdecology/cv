@@ -1,5 +1,5 @@
-*CV template adapted from [S.
-Miller](https://github.com/svmiller/svm-r-markdown-templates)*
+*CV template adapted from* [S.
+Miller](https://github.com/svmiller/svm-r-markdown-templates)
 
 [PDF version
 available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
@@ -15,13 +15,11 @@ USA
 <!-- - Dissertation: Regime Detection Methods for the Practical Ecologist -->
 <!-- - Prestigious funded summer research sabbatical at IIASA in Laxenburg, Austria  -->
 <!-- - Recipient of 2 university-wide fellowships  and Meritorious Doctoral Student award  -->
-
 **M.Sc., Wildlife Ecology & Conservation** 2013 - 15  
 Department of Wildlife Ecology & Conservation, University of Florida,
 Florida USA
 
 <!-- - Thesis: House Sparrow *(Passer domesticus)* decline and distribution in North America  -->
-
 **B.Sc. Wildlife Ecology & Conservation** 2010 - 13  
 Department of Wildlife Ecology & Conservation, University of Florida,
 Florida USA
@@ -34,7 +32,6 @@ Florida USA
 <!-- M.Sc. Wildlife Ecology & Conservation, Unviersity of Florida \hfill 2015   -->
 <!-- B.Sc. Wildlife Ecology & Conservation Unviersity of Florida \hfill 2013     -->
 <!-- A.A. General studies Valencia Community College \hfill 2010   -->
-
 Skills Highlight
 ================
 
@@ -73,7 +70,6 @@ University of Nebraska-Lincoln, Nebraska, USA
 <!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
 <!-- - Invited and hosted three departmental seminar guests -->
 <!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
-
 **Young Scholar** May 2018 - September 2018  
 Applied Systems Analysis Research Group  
 International Institute for Applied Systems Analysis Laxenburg, Austria
@@ -81,21 +77,18 @@ International Institute for Applied Systems Analysis Laxenburg, Austria
 <!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
 <!-- - Presented research in an international forum -->
 <!-- - Organized seminar on Network Analysis in Ecology -->
-
 **Graduate Teaching Assistant** August 2013 - August 2015  
 Department of Wildlife Ecology & Conservation  
 University of Florida, Florida, USA
 
 <!-- - Published 2 peer-reviewed scientific articles -->
 <!-- - Invited lectures in citizen science data, wetland birds -->
-
 **Geospatial Analyst Intern** April 2012 - August 2012  
 Florida Fish and Wildlife Research Institute Gainesville, Florida, USA
 
 <!-- - Identified relationships among land cover and American Kestrel *(Falco sparverius)* nest success -->
 <!-- - Ground-truthed GIS data -->
 <!-- - Monitored Eastern Screech-Owl (*Megascops asio*) nests -->
-
 **Research Assistant** January 2011 - April 2012  
 Avian Ecology and Conservation Lab University of Florida, Gainesville,
 FL, USA
@@ -103,7 +96,6 @@ FL, USA
 <!-- - Managed bird banding database -->
 <!-- - Conducted avian behavioral field research - *Paridae* feeder behavior -->
 <!-- - Designed and implemented research project resulting in 1 peer-reviewed manuscript -->
-
 **Crew Leader, Smithsonian Fellow** April-September 2011 and
 April-September 2013  
 Neighborhood Nestwatch Program  
@@ -114,7 +106,6 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 <!-- - Recruited and trained citizen scientists -->
 <!-- - Banded and measured breeding birds in backyards using -->
 <!-- - Created monthly program newletters -->
-
 Peer-reviewed Research Articles
 ===============================
 
@@ -175,7 +166,7 @@ Peer-reviewed Research Articles
 Book Chapters
 =============
 
-1.  **Burnett, J.L.** and C.R. Allen (2019) Continental Analysis of
+1.  **Burnett, J.L.** and C.R. Allen (2020) Continental Analysis of
     Invasive Birds: North America *in* Downs, C.T. and Hart, L.A. (eds)
     Global trends and impacts of alien invasive birds. CABI,
     Wallingford, U.K., pp. XX-XX.
@@ -254,7 +245,7 @@ Grants & Fellowships
 ====================
 
 -   Mendenhall Postdoctoral Fellowship, U.S. Geological Survey
-    **\~$180,000** 2019 - 21
+    **\~$222,000** 2019 - 21
 -   [Meritorious Graduate
     Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp), School
     of Natural Resources, UNL **$500** 2018
@@ -329,18 +320,28 @@ Ecology & Conservation, University of Florida 2015
 **Guest Lecturer** Wetland birds module, Florida Master Naturalist 2013
 <!-- - Designed and taught module on wetland bird identification and ecology   -->
 
+Organized Sessions & Symposia
+=============================
+
+1.  Opportunities and Challenges in Big Data Ornithology. Co-organizer
+    with F. LaSorte and C. Lepczyk. North American Ornithological
+    Conference V, Washington, D.C., 2016
+
 Research Presentations Given
 ============================
 
 invited
 -------
 
-1.  Detecting abrupt change in bird community time series using distance
+1.  Regime Detection Measures for the Pratical Ecologist, Department of
+    Wildlife Ecology & Conservation, University of Florida, 2019
+
+2.  Detecting abrupt change in bird community time series using distance
     travelled. *Association for Women in Math Biology Symposium*,
     Special session “Current Challenges in Mathematical Biology”,
     Houston, TX, 2019
 
-2.  Decline of the Once-Ubiquitous House Sparrow in North America.
+3.  Decline of the Once-Ubiquitous House Sparrow in North America.
     *Nebraska Invasive Species Council*, Lincoln, NE, 2015
 
 contributed
@@ -483,7 +484,7 @@ Journal Referee
 ---------------
 
 -   *Bioinvasions Records* (1), *Ecological Modelling* (4), *Journal of
-    Molluscan Studies* (1), *Journal of Open Source Software* (1), *PLOS
+    Molluscan Studies* (2), *Journal of Open Source Software* (1), *PLOS
     One* (1), *Wilson Journal of Ornithology* (3)  
 -   Student liaison, [Urban Ecosystem Ecology
     Section](http://www.esa.org/urbanecology/), Ecological Society of
@@ -516,7 +517,6 @@ University of Nebraska-Lincoln
 <!-- - Wilson Ornithological Society  \hfill 2015  -->
 <!-- - Association for Women in Science \hfill 2015 -->
 <!-- - Ecological Society of America   \hfill 2014 -->
-
 Grey Literature
 ===============
 
