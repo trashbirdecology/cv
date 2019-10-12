@@ -1,10 +1,10 @@
 ---
 output: 
-  # pdf_document:
-  #     latex_engine: pdflatex
-  #     template: cv-latex.tex
-  md_document:
-    variant: markdown_github
+  pdf_document:
+      latex_engine: pdflatex
+      template: cv-latex.tex
+  # md_document:
+  #   variant: markdown_github
 knit: (function(inputFile, encoding) {
         rmarkdown::render(inputFile, encoding = encoding,
          output_format = "all") })
@@ -24,9 +24,9 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue
 ---
-*CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates)
+<!-- *CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates) -->
 
-[PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
+<!-- [PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf) -->
 
 # Education  
 
@@ -238,6 +238,7 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 <!-- - Designed and taught module on wetland bird identification and ecology   -->
 
 # Organized Sessions & Symposia
+1. Using the integrated modelling framework to bridge science and decision making: advances, applications, and opportunities. Co-organizer wtih J.A. Royle. Ecological Society of America conference,s __in review__
 1. Opportunities and Challenges in Big Data Ornithology. Co-organizer with F. LaSorte and C. Lepczyk. North American Ornithological Conference V, Washington, D.C., 2016
 
 # Research Presentations Given

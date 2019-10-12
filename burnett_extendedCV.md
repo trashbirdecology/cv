@@ -323,7 +323,11 @@ Ecology & Conservation, University of Florida 2015
 Organized Sessions & Symposia
 =============================
 
-1.  Opportunities and Challenges in Big Data Ornithology. Co-organizer
+1.  Using the integrated modelling framework to bridge science and
+    decision making: advances, applications, and opportunities.
+    Co-organizer wtih J.A. Royle. Ecological Society of America
+    conference,s **in review**
+2.  Opportunities and Challenges in Big Data Ornithology. Co-organizer
     with F. LaSorte and C. Lepczyk. North American Ornithological
     Conference V, Washington, D.C., 2016
 
