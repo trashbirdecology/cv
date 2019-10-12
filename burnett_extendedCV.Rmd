@@ -1,10 +1,10 @@
 ---
 output: 
-  pdf_document:
-      latex_engine: pdflatex
-      template: cv-latex.tex
-  # md_document:
-  #   variant: markdown_github
+  # pdf_document:
+  #     latex_engine: pdflatex
+  #     template: cv-latex.tex
+  md_document:
+    variant: markdown_github
 knit: (function(inputFile, encoding) {
         rmarkdown::render(inputFile, encoding = encoding,
          output_format = "all") })
@@ -24,9 +24,9 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue
 ---
-<!-- *CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates) -->
+*CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates)
 
-<!-- [PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf) -->
+[PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
 
 # Education  
 
@@ -182,6 +182,8 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 1. Price, N.B. and **J.L. Burnett**. `tvdiff`. 2019.  An R package for numerical differentiation of noisy, non-smooth data. [Github:natbprice/tvdiff](https://github.com/natbprice/tvdiff) 
 1. Price, N.B., C. Chizinski, and **J.L. Burnett**. `radsets`. 2019. An R package for interactive, network-based visualizations of overlapping sets.  [Github:natbprice/radsets](https://natbprice.github.io/radsets/)
 
+# Grants in Review
+- Integrating Two Foundational USGS Data Products: the Breeding Bird Survey (BBS) and the Bird Banding Lab (BBL) Data, Community for Data Integration, U.S. Geological Survey \hfill in review
 
 # Grants & Fellowships  
 - Mendenhall Postdoctoral Fellowship, U.S. Geological Survey __~$222,000__ \hfill 2019 - 21

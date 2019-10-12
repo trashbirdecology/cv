@@ -241,6 +241,13 @@ Author
     overlapping sets.
     [Github:natbprice/radsets](https://natbprice.github.io/radsets/)
 
+Grants in Review
+================
+
+-   Integrating Two Foundational USGS Data Products: the Breeding Bird
+    Survey (BBS) and the Bird Banding Lab (BBL) Data, Community for Data
+    Integration, U.S. Geological Survey in review
+
 Grants & Fellowships
 ====================
 
