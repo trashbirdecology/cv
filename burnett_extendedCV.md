@@ -38,8 +38,8 @@ Skills Highlight
 -   Languages: R, LaTeX, MatLab, HTML, English
 -   Reproducibility and open science
 -   Applied statistics
--   Data quality assessment and quality control, data management
--   Citizen science and long-term monitoring
+    <!-- - Data quality assessment and quality control, data management -->
+    <!-- - Citizen science and long-term monitoring -->
 -   Avian community and population ecology
 -   Population trend and parameter estimation
 
@@ -106,35 +106,41 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 <!-- - Recruited and trained citizen scientists -->
 <!-- - Banded and measured breeding birds in backyards using -->
 <!-- - Created monthly program newletters -->
-Peer-reviewed Research Articles
-===============================
+Publications
+============
 
-1.  Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R.
-    Bevans, D. Twidwell, and C.R. Allen. (2018) Social-ecological
+1.  **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019.
+    bbsAssistant: An R package for downloading and handling data and
+    information from the North American Breeding Bird Survey. Journal of
+    Open Source Software, 4(44), 1768, DOI:
+    [10.21105/joss.01768](https://doi.org/10.21105/joss.01768)
+
+2.  Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R.
+    Bevans, D. Twidwell, and C.R. Allen. 2018. Social-ecological
     landscape patterns predict woody encroachment from native tree
     plantings in a temperate grassland *Ecology and Evolution* 8(19):
     9624-9632
     <a href="DOI:10.1002/ece3.4340" class="uri">DOI:10.1002/ece3.4340</a>
 
-2.  **Burnett, J.L.**, K.L. Pope, A. Wong, C.R. Allen, D.M. Haak, B.J.
+3.  **Burnett, J.L.**, K.L. Pope, A. Wong, C.R. Allen, D.M. Haak, B.J.
     Stephen, and D.R. Uden. 2018. Thermal tolerance limits of the
     invasive Chinese mysterysnail *Bellamya chinensis* and implications
     for management". *American Malacological Bulletin* 36(1): 140-144
     <a href="DOI:10.4003/006.036.0106" class="uri">DOI:10.4003/006.036.0106</a>
 
-3.  Roberts, C.P., D. Twidwell, **J.L. Burnett**, V.M. Donovan, C.
+4.  Roberts, C.P., D. Twidwell, **J.L. Burnett**, V.M. Donovan, C.
     Wonkka, C.H. Bielski, A.S. Garmestani, D.G. Angeler, T. Eason, B.W.
-    Allred, M.O. Jones, D.E. Naugle, S. Sundstrom, C.R. Allen, (2018)
+    Allred, M.O. Jones, D.E. Naugle, S. Sundstrom, C.R. Allen . 2018.
     Early warnings for state transitions. *Rangeland Ecology and
     Management*
     <a href="DOI:10.1016/j.rama.2018.04.012" class="uri">DOI:10.1016/j.rama.2018.04.012</a>
 
-4.  La Sorte, F.A., C.A. Lepczyk, **J.L. Burnett**, A. Hurlbert, M.
+5.  La Sorte, F.A., C.A. Lepczyk, **J.L. Burnett**, A. Hurlbert, M.
     Tingley, and B. Zuckerberg. 2018. Opportunities and challenges for
     big data ornithology. *The Condor* 120(2): 414-426
     <a href="DOI:0.1650/CONDOR-17-206.1" class="uri">DOI:0.1650/CONDOR-17-206.1</a>
 
-5.  Chuang, W.C., A.S. Garmestani, T. Eason, T.L. Spanbauer, H.B.
+6.  Chuang, W.C., A.S. Garmestani, T. Eason, T.L. Spanbauer, H.B.
     Fried-Peterson, C. Roberts, S. Sundstrom, **J.L. Burnett**, D. G.
     Angeler, B. Chaffin, L. Gunderson, D. Twidwell, C.R. Allen. 2018.
     Enhancing quantitative approaches for assessing ecological and
@@ -142,23 +148,23 @@ Peer-reviewed Research Articles
     353-362
     <a href="DOI:10.1016/j.jenvman.2018.01.083" class="uri">DOI:10.1016/j.jenvman.2018.01.083</a>
 
-6.  **Burnett, J.L.**, C.R. Allen, C.P. Roberts, M.Bomberger Brown, and
+7.  **Burnett, J.L.**, C.R. Allen, C.P. Roberts, M.Bomberger Brown, and
     M.P. Moulton. 2017. Eurasian Tree Sparrow (*Passer montanus*) range
     expansion in North America. *Biological Invasions* 19(1): 5-9
     <a href="DOI:10.1007/s10530-016-1273-4" class="uri">DOI:10.1007/s10530-016-1273-4</a>
 
-7.  **Burnett, J.L.** and K.E. Sieving. 2016. Songbird distress call as
+8.  **Burnett, J.L.** and K.E. Sieving. 2016. Songbird distress call as
     a detection enhancement method and application to Red-shouldered
     Hawks (*Buteo lineatus*). *Florida Field Naturalist* 44(4):157-168
 
-8.  C.R. Allen, H.E. Birge, S.L. Bartlet-Hunt, R.A. Bevans, **J.L.
+9.  C.R. Allen, H.E. Birge, S.L. Bartlet-Hunt, R.A. Bevans, **J.L.
     Burnett**, B.A. Cosens, X. Cai, A.S. Garmestani, I. Linkov, E.A.
     Scott, M.D. Solomon, and D.R. Uden. 2016. Avoiding decline:
     Fostering resilience and sustainability in midsize cities.
     *Sustainability* 8(9):844-868
     <a href="DOI:10.3390/su8090844" class="uri">DOI:10.3390/su8090844</a>
 
-9.  **Burnett, J.L.** and M.P. Moulton. 2015. Recent trends in House
+10. **Burnett, J.L.** and M.P. Moulton. 2015. Recent trends in House
     Sparrow (*Passer domesticus*) distribution and abundance in
     Gainesville, Alachua County, Florida. *Florida Field Naturalist*
     43(4):167-172
@@ -215,12 +221,13 @@ Software
 Author and maintainer
 ---------------------
 
-1.  **Burnett, J.L.**, G. Munoz-Palomo, and L. Wszola.*under review at
-    Journal of Open Source Software* `bbsAssistant`. 2019. An R package
-    for downloading and manipulating the North American Breeding Bird
-    Survey data.
-    <a href="https://github.com/TrashBirdEcology/bbsAssistant/blob/master/man/bbsAssistant_0.0.1.pdf" class="uri">https://github.com/TrashBirdEcology/bbsAssistant/blob/master/man/bbsAssistant_0.0.1.pdf</a>
-    [Github:trashbirdecology/bbsAssistant](https://github.com/TrashBirdEcology/bbsAssistant)
+1.  **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019.
+    `bbsAssistant`: An R package for downloading and handling data and
+    information from the North American Breeding Bird Survey: U.S.
+    Geological Survey software release. DOI:
+    [10.5066/P93W0EAW](https://doi.org/10.5066/P93W0EAW). [GitHub
+    repository](https://github.com/TrashBirdEcology/bbsAssistant).
+
 2.  **Burnett, J.L.**, N.B. Price. 2019. `regimeDetectionMeasures`. An R
     package for calculating univariate and multivariate regime detection
     methods using community time series.
@@ -251,6 +258,8 @@ Grants in Review
 Grants & Fellowships
 ====================
 
+-   Co-PI, CIEE/ICEE Working Group: Creating a unified approach to
+    evaluate regime shift detection methods, **$12,400 CA**2020
 -   Mendenhall Postdoctoral Fellowship, U.S. Geological Survey
     **\~$222,000** 2019 - 21
 -   [Meritorious Graduate

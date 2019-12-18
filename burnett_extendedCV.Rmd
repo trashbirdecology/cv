@@ -1,10 +1,10 @@
 ---
 output: 
-  # pdf_document:
-  #     latex_engine: pdflatex
-  #     template: cv-latex.tex
-  md_document:
-    variant: markdown_github
+  pdf_document:
+      latex_engine: pdflatex
+      template: cv-latex.tex
+  # md_document:
+  #   variant: markdown_github
 knit: (function(inputFile, encoding) {
         rmarkdown::render(inputFile, encoding = encoding,
          output_format = "all") })
@@ -24,9 +24,9 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue
 ---
-*CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates)
+<!-- *CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates) -->
 
-[PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
+<!-- [PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf) -->
 
 # Education  
 
@@ -60,8 +60,8 @@ Department of Wildlife Ecology & Conservation, University of Florida, Florida US
 - Languages: R, LaTeX, MatLab, HTML, English
 - Reproducibility and open science 
 - Applied statistics
-- Data quality assessment and quality control, data management
-- Citizen science and long-term monitoring
+<!-- - Data quality assessment and quality control, data management -->
+<!-- - Citizen science and long-term monitoring -->
 - Avian community and population ecology
 - Population trend and parameter estimation
 
@@ -133,12 +133,14 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 <!-- - Created monthly program newletters -->
 
 
-# Peer-reviewed Research Articles  
-1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. (2018) Social-ecological landscape patterns predict woody encroachment from native tree plantings in a temperate grassland *Ecology and Evolution* 8(19): 9624-9632 DOI:10.1002/ece3.4340
+# Publications 
+1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019. bbsAssistant: An R package for downloading and handling data and information from the North American Breeding Bird Survey. Journal of Open Source Software, 4(44), 1768, DOI: [10.21105/joss.01768](https://doi.org/10.21105/joss.01768)
+
+1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. 2018. Social-ecological landscape patterns predict woody encroachment from native tree plantings in a temperate grassland *Ecology and Evolution* 8(19): 9624-9632 DOI:10.1002/ece3.4340
 
 1.  **Burnett, J.L.**, K.L. Pope, A. Wong, C.R. Allen, D.M. Haak, B.J. Stephen, and D.R. Uden. 2018. Thermal tolerance limits of the invasive Chinese mysterysnail *Bellamya chinensis* and implications for management". *American Malacological Bulletin* 36(1): 140-144 DOI:10.4003/006.036.0106   
 
-1. Roberts, C.P., D. Twidwell, **J.L. Burnett**, V.M. Donovan, C. Wonkka, C.H. Bielski, A.S. Garmestani, D.G. Angeler, T. Eason, B.W. Allred, M.O. Jones, D.E. Naugle, S. Sundstrom, C.R. Allen,  (2018) Early warnings for state transitions. *Rangeland Ecology and Management* DOI:10.1016/j.rama.2018.04.012     
+1. Roberts, C.P., D. Twidwell, **J.L. Burnett**, V.M. Donovan, C. Wonkka, C.H. Bielski, A.S. Garmestani, D.G. Angeler, T. Eason, B.W. Allred, M.O. Jones, D.E. Naugle, S. Sundstrom, C.R. Allen . 2018. Early warnings for state transitions. *Rangeland Ecology and Management* DOI:10.1016/j.rama.2018.04.012     
 
 1. La Sorte, F.A., C.A. Lepczyk, **J.L. Burnett**, A. Hurlbert, M. Tingley, and B. Zuckerberg. 2018. Opportunities and challenges for big data ornithology. *The Condor* 120(2): 414-426 DOI:0.1650/CONDOR-17-206.1
 
@@ -174,7 +176,8 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 
 # Software
 ## Author and maintainer
-1. **Burnett, J.L.**, G. Munoz-Palomo, and L. Wszola.*under review at Journal of Open Source Software* `bbsAssistant`. 2019. An R package for downloading and manipulating the North American Breeding Bird Survey data. https://github.com/TrashBirdEcology/bbsAssistant/blob/master/man/bbsAssistant_0.0.1.pdf [Github:trashbirdecology/bbsAssistant](https://github.com/TrashBirdEcology/bbsAssistant)
+1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019. `bbsAssistant`: An R package for downloading and handling data and information from the North American Breeding Bird Survey: U.S. Geological Survey software release. DOI: [10.5066/P93W0EAW](https://doi.org/10.5066/P93W0EAW).  [GitHub repository](https://github.com/TrashBirdEcology/bbsAssistant).
+
 1. **Burnett, J.L.**, N.B. Price. 2019. `regimeDetectionMeasures`. An R package for calculating univariate and multivariate regime detection methods using community time series.  [Github:trashbirdecology/regimedetectionmeasures](https://github.com/TrashBirdEcology/regimedetectionmeasures)
 1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. 2018. `distanceTravelled`. An R package for calculating the distance traveled by a multispecies community along a time series. [Github:trashbirdecology/distancetravelled](https://github.com/TrashBirdEcology/distancetravelled)
 
@@ -186,6 +189,7 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 - Integrating Two Foundational USGS Data Products: the Breeding Bird Survey (BBS) and the Bird Banding Lab (BBL) Data, Community for Data Integration, U.S. Geological Survey \hfill in review
 
 # Grants & Fellowships  
+- Co-PI, CIEE/ICEE Working Group: Creating a unified approach to evaluate regime shift detection methods,  __$12,400 CA__\hfill 2020
 - Mendenhall Postdoctoral Fellowship, U.S. Geological Survey __~$222,000__ \hfill 2019 - 21
 - [Meritorious Graduate Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp), School of Natural Resources, UNL __$500__ \hfill 2018
 - Participant, [Research Collaboration Workshop for Women in Mathematical Biology, NIMBIOS](http://www.nimbios.org/education/WS_wwmb)  \hfill 2018
