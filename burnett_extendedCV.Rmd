@@ -3,8 +3,8 @@ output:
   pdf_document:
       latex_engine: pdflatex
       template: cv-latex.tex
-  # md_document:
-  #   variant: markdown_github
+  md_document:
+    variant: markdown_github
 knit: (function(inputFile, encoding) {
         rmarkdown::render(inputFile, encoding = encoding,
          output_format = "all") })
