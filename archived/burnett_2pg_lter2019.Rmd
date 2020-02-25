@@ -16,7 +16,7 @@ fontawesome: yes
 email: jburnett@usgs.gov
 github: trashbirdecology
 twitter: trashbirdecol
-phone: "+1 352 792 5425"
+phone: "+1 303 202 4082"
 updated: yes
 keywords: R Markdown, academic CV, template
 fontfamily: mathpazo

@@ -13,7 +13,8 @@ title: "CV"
 author: JESSICA L. BURNETT
 orcid:  0000-0002-0896-5099
 fontawesome: yes
-email: jessicaleighburnett@gmail.com
+email: jburnett@usgs.gov
+# email: jessicaleighburnett@gmail.com
 github: trashbirdecology
 twitter: trashbirdecol
 phone: "+1 352 792 5425"
@@ -27,6 +28,8 @@ urlcolor: blue
 <!-- *CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates) -->
 
 <!-- [PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf) -->
+
+<!-- Please edit the .RMD file, and not the .MD!!! -->
 
 # Education  
 
@@ -62,7 +65,7 @@ Department of Wildlife Ecology & Conservation, University of Florida, Florida US
 - Applied statistics
 <!-- - Data quality assessment and quality control, data management -->
 <!-- - Citizen science and long-term monitoring -->
-- Avian community and population ecology
+- Avian ecology and conservation
 - Population trend and parameter estimation
 
 # Professional Experience
@@ -155,14 +158,17 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 1. **Burnett, J.L.** and M.P. Moulton. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172   
 
 # Book Chapters
-1. **Burnett, J.L.** and C.R. Allen (2020) Continental Analysis of Invasive Birds:  North America *in* Downs, C.T. and Hart, L.A. (eds) Global trends and impacts of alien invasive birds. CABI, Wallingford, U.K., pp. XX-XX. 
+1. **Burnett, J.L.** and C.R. Allen. 2020. Continental Analysis of Invasive Birds:  North America *in* Downs, C.T. and Hart, L.A. (eds) Global trends and impacts of alien invasive birds. CABI, Wallingford, U.K., pp. XX-XX. 
 
 # Manuscripts Under Review (primary author)  
-1. **Burnett, J.L.**, N.B. Price, A.J. Tyre,  D.G. Angeler, T. Eason, D. Twidwell., and C.R. Allen. Deconstructing the steps for calculating Fisher Information as a measure of abrupt change in ecological systems. *under review at Ecological Modelling*
 
 1. **Burnett, J.L.**, R. Wilcox, B. Stephen, D. Haak, D. Uden, C.R. Allen, and K. Pope. Shell strength does not limit predation of an invasive snail species (Bellamya chinensis) by native fish. *under review at Malacological Bulletin*
 
 # Manuscripts in Preparation (primary author) 
+1. **Burnett, J.L.**, et al. Great Tit (*Parus major*) range expansion in the Northern U.S.
+
+1. **Burnett, J.L.**, N.B. Price, A.J. Tyre,  D.G. Angeler, T. Eason, D. Twidwell., and C.R. Allen. Deconstructing the steps for calculating Fisher Information as a measure of abrupt change in ecological systems.
+
 1. **Burnett, J.L.**, Kratter, A. and Robinson, S.K. Using a Christmas Bird Count to understand local and regional changes in bird populations in Northcentral Florida. 
 
 1. **Burnett, J.L.**, N.B. Price, C.R. Allen, D. Twidwell, A.J. Tyre. Velocity of distance travelled as a measure of ecosystem trajectory and abrupt change. 
@@ -174,89 +180,127 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 1. **Burnett, J.L.**, B.D. Fath, E. Rovenskaya, and A.J. Tyre. Effects of data quality and quantity on inference gained from regime shift detection methods. 
 
 
-# Software
-## Author and maintainer
-1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019. `bbsAssistant`: An R package for downloading and handling data and information from the North American Breeding Bird Survey: U.S. Geological Survey software release. DOI: [10.5066/P93W0EAW](https://doi.org/10.5066/P93W0EAW).  [GitHub repository](https://github.com/TrashBirdEcology/bbsAssistant).
+# Notable Code and Software
 
-1. **Burnett, J.L.**, N.B. Price. 2019. `regimeDetectionMeasures`. An R package for calculating univariate and multivariate regime detection methods using community time series.  [Github:trashbirdecology/regimedetectionmeasures](https://github.com/TrashBirdEcology/regimedetectionmeasures)
-1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. 2018. `distanceTravelled`. An R package for calculating the distance traveled by a multispecies community along a time series. [Github:trashbirdecology/distancetravelled](https://github.com/TrashBirdEcology/distancetravelled)
+### Lifecycle: maturing, stable
+1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019. [`bbsAssistant`](https://github.com/TrashBirdEcology/bbsAssistant): An R package for downloading and handling data and information from the North American Breeding Bird Survey: U.S. Geological Survey software release. DOI: [10.5066/P93W0EAW](https://doi.org/10.5066/P93W0EAW).
+1. Price, N.B., C. Chizinski, and **J.L. Burnett**. `radsets`. An R package for interactive, network-based visualizations of overlapping sets.  [Github:natbprice/radsets](https://natbprice.github.io/radsets/)
+1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. [`distanceTravelled`](https://github.com/TrashBirdEcology/distancetravelled). An R package for calculating the distance traveled by a multispecies community along a time series. 
+1. Price, N.B. and **J.L. Burnett**. `tvdiff`.  An R package for numerical differentiation of noisy, non-smooth data. [Github:natbprice/tvdiff](https://github.com/natbprice/tvdiff) 
 
-## Author
-1. Price, N.B. and **J.L. Burnett**. `tvdiff`. 2019.  An R package for numerical differentiation of noisy, non-smooth data. [Github:natbprice/tvdiff](https://github.com/natbprice/tvdiff) 
-1. Price, N.B., C. Chizinski, and **J.L. Burnett**. `radsets`. 2019. An R package for interactive, network-based visualizations of overlapping sets.  [Github:natbprice/radsets](https://natbprice.github.io/radsets/)
+### Lifecycle: dormant
+1. **Burnett, J.L.**, N.B. Price. [`regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimedetectionmeasures).. An R package for calculating univariate and multivariate regime detection methods using community time series.  
 
-# Grants in Review
-- Integrating Two Foundational USGS Data Products: the Breeding Bird Survey (BBS) and the Bird Banding Lab (BBL) Data, Community for Data Integration, U.S. Geological Survey \hfill in review
-
-# Grants & Fellowships  
-- Co-PI, CIEE/ICEE Working Group: Creating a unified approach to evaluate regime shift detection methods,  __$12,400 CA__\hfill 2020
-- Mendenhall Postdoctoral Fellowship, U.S. Geological Survey __~$222,000__ \hfill 2019 - 21
-- [Meritorious Graduate Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp), School of Natural Resources, UNL __$500__ \hfill 2018
-- Participant, [Research Collaboration Workshop for Women in Mathematical Biology, NIMBIOS](http://www.nimbios.org/education/WS_wwmb)  \hfill 2018
-- Fling Fellow, University of Nebraska-Lincoln  **$20,000** \hfill 2016 - 17 
-- Othmer Fellow, University of Nebraska-Lincoln  **$24,000** \hfill 2015 - 19 
-- Big Ten Academic Alliance Travelling Scholar \hfill 2017
-- AAAS/Science Program for Excellence in Science Award \hfill 2016
-- Graduate Fellow, Center for Great Plains Studies, University of Nebraska \hfill 2016 - 18 
-- 2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition **$300** \hfill 2016
-- Resilience Alliance Young Scholar, The Resilience Alliance \hfill 2015 - 17 
+### Lifecycle: experimental
+1. **Burnett, J.L.**, et al. [`USAvian`](https://github.com/TrashBirdEcology/USAvian/): An interactive map for connecting and visualizing the bird conservation and management networks in the U.S. 
 
 
-# Honors & Awards 
-- School of Natural Resources, University of Nebraska-Lincoln __$750__     \hfill 2019
-- University of Nebraska Graduate Travel Fund __$750__ \hfill 2019
-- Association for Women in Mathematical Biology __$650__ \hfill 2019
-- School of Natural Resources, University of Nebraska-Lincoln __$1050__     \hfill 2019
-- National Academy of Sciences research award __$5,500__ \hfill 2018
-- National Science Foundation & NimBios __$550__   \hfill 2018
-- Kellogg Biological Station, Michigan State University __$500__   \hfill 2017
-- Nelson Memorial Fellowship, University of Nebraska-Lincoln __$3,217__ *(3x recipient)*   \hfill 2016 - 18
-- Center for Great Plains Studies, University of Nebraska-Lincoln __$3,000__ *(4x recipient)*    \hfill 2015 - 18 
-- American Ornithologists' Union **$250**  \hfill 2016
-- NSF Diversity Award, Southeastern Ecology and Evolution Conference __$650__   \hfill 2015
-- Graduate Student Council, University of Florida __$350__    \hfill 2015
-- Office of Research, University of Florida __$500__     \hfill 2015
-- Department of Wildlife Ecology & Conservation, University of Florida __$500__ *(2x recipient)*   \hfill 2014 - 15
-- Office of the Dean, Institute of Food and Agricultural Sciences, University of Florida __$750__   \hfill 2013
-- American Ornithologists' Union Undergraduate Student Membership Award \hfill 2013
-- IFAS Extension Internship for Undergraduate Research, University of Florida __$2,200__  \hfill  2013
-- Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida __$550__   \hfill  2013
+# Research Grants
+## Funded 
+### 2020
+- Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. 2020. Creating a unified approach to evaluate regime shift detection methods.  \hfill __$12,400 CAD__   
 
-# Teaching Experience  
+### 2019  
+- Mendenhall Postdoctoral Research, Core Science Systems Science Analytics and Synthesis, U.S. Geological Survey.  \hfill __~$222,000__ 
 
+## Under Review  
+- Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. Creating a unified approach to evaluate regime shift detection methods. Powell Center Synthesis Working Group, U.S. Geological Survey \hfill __$166,642__ \hfill   
+- Informing the design and deployment of a conservation tool, USAvian: learning through co-production, synthesizing lessons learned. Community for Data Integration, U.S. Geological Survey \hfill   __$70,539__ 
+## Not Funded  
+
+### 2019  
+- Benito, X., C. Bahlai, **J.L., Burnett**, E. Pedersen, and G. Simpson. SESYNC working group proposal.  \hfill   
+
+### 2018  
+- **Burnett, J.L.**. Population Biology Program of Excellence (PoE) Postdoctoral Fellowship, University of Nebraska-Lincoln
+- **Burnett, J.L.**, C.R. Allen, G. Sugihara, and H. Ye. Scale mismatches in ecological research and management: consequences and solutions through data management. Powell Center Synthesis Working Group, U.S. Geological Survey  
+
+### 2016  
+- **Burnett, J.L.**. Mozilla Fellowship for Science  
+
+### 2013  
+- **Burnett, J.L.**. NSF Graduate Research Fellowship  
+
+# Fellowships, Honors & Awards
+### 2019  
+- School of Natural Resources, University of Nebraska-Lincoln \hfill __$750__
+- University of Nebraska Graduate Travel Fund                 \hfill __$750__
+- Association for Women in Mathematical Biology               \hfill __$650__
+- School of Natural Resources, University of Nebraska-Lincoln \hfill __$1050__  
+
+### 2018  
+- [Meritorious Graduate Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp) award, School of Natural Resources, UNL \hfill __$500__
+- National Academy of Sciences research award  \hfill __$5,500__
+- Participant, [Research Collaboration Workshop for Women in Mathematical Biology, NIMBIOS](http://www.nimbios.org/education/WS_wwmb)  \hfill __$900__
+- National Science Foundation & NimBios \hfill __$550__
+- Nelson Memorial Fellowship, University of Nebraska-Lincoln *(3x recipient, 2016, 17, 18)*  \hfill  __totaling $3,217__ 
+- Center for Great Plains Studies travel award, University of Nebraska-Lincoln *(4x recipient; 2015, 2016, 2017, 2018)*  \hfill __totaling $3,000__  
+
+### 2017  
+- Kellogg Biological Station, Michigan State University \hfill __$500__
+- Big Ten Academic Alliance Traveling Scholar
+
+### 2016  
+- 2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition \hfill __$300__ 
+- American Ornithologists' Union travel award  \hfill __$250__ 
+- Fling Fellow, University of Nebraska-Lincoln  \hfill __$20,000__ 
+- Othmer Fellow, University of Nebraska-Lincoln  \hfill __$24,000__ 
+- AAAS/Science Program for Excellence in Science Award
+- Graduate Fellow, Center for Great Plains Studies, University of Nebraska 
+
+### 2015
+- Resilience Alliance Young Scholar, The Resilience Alliance (2015-2017) \hfill 2015 - 17 
+- NSF Diversity Travel Award, Southeastern Ecology and Evolution Conference \hfill __$650__
+- Graduate Student Council, University of Florida \hfill __$350__
+- Office of Research, University of Florida  \hfill __$350__
+
+### 2014
+- Travel Award, Department of Wildlife Ecology & Conservation, University of Florida *(2x recipient)*   \hfill __$500__
+
+### 2013
+- Travel Award, Office of the Dean, Institute of Food and Agricultural Sciences, University of Florida  \hfill __$750__
+- American Ornithologists' Union Undergraduate Student Membership Award \hfill 
+- IFAS Extension Internship for Undergraduate Research, University of Florida   \hfill  __$2,200__
+- Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida \hfill  __$550__
+
+# Teaching   
+## Course Development
+**Reproducible Research and Collaboration in Ecology**. Course materials can be found on [GitHub](https://github.com/TrashBirdEcology/courses/tree/master/rr_course).
+
+## Instruction
 **Co-instructor** Introduction to Applied Ecological Statistics, Kearney, NE \hfill 2017
-<!-- - Week-long workshop for employees of the Nebraska Game and Parks Commission employees -->
+- Week-long workshop for employees of the Nebraska Game and Parks Commission employees
 
 **Instructor** Introduction to Prorgam R \hfill 2017
-<!-- - Designed and taught a series of half-day workshops for graduate students -->
-<!-- - Basics of data management and analysis using Program R -->
+- Designed and taught a series of half-day workshops for graduate students
+- Basics of data management and analysis using Program R
 
 **Guest Lecturer** Module: using citizen science data to understand ecological invasions; Course: Avian Invasions  \hfill 2016
-<!-- - Designed and taught series of lectures on citizen science data     -->
+- Designed and taught series of lectures on citizen science data use and applications
 
 **Teaching Assistant** Wildlife Population Ecology, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015
-<!-- - Lead quantitative laboratory sessions, grading   -->
+- Lead quantitative laboratory sessions
 
 **Teaching Assistant** Ecological Statistics, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015
-<!-- - Lead and moderate discussions, grading   -->
+- Lead and moderate discussions
+- Provide statistical support  
 
 **Guest Lecturer** Wetland birds module, Florida Master Naturalist \hfill 2013
-<!-- - Designed and taught module on wetland bird identification and ecology   -->
+- Designed and taught module on wetland bird identification and ecology
 
-# Organized Sessions & Symposia
-1. Using the integrated modelling framework to bridge science and decision making: advances, applications, and opportunities. Co-organizer wtih J.A. Royle. Ecological Society of America conference,s __in review__
-1. Opportunities and Challenges in Big Data Ornithology. Co-organizer with F. LaSorte and C. Lepczyk. North American Ornithological Conference V, Washington, D.C., 2016
+# Organized Sessions & Symposia  
+1. Using the integrated modelling framework to bridge science and decision making: advances, applications, and opportunities. Co-organizer with J.A. Royle. Ecological Society of America conference \hfill 2020
+1. Opportunities and Challenges in Big Data Ornithology. Co-organizer with F.A. LaSorte and C.A. Lepczyk. North American Ornithological Conference V, Washington, D.C. \hfill 2016
 
-# Research Presentations Given
-## invited
+# Presentations (primary author)  
+## Invited 
+1. Regime Detection Measures for the Pratical Ecologist, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2019
 
-1. Regime Detection Measures for the Pratical Ecologist, Department of Wildlife Ecology & Conservation, University of Florida, 2019
+1. Detecting abrupt change in bird community time series using distance travelled. *Association for Women in Math Biology Symposium*, Special session "Current Challenges in Mathematical Biology ", Houston, TX  \hfill 2019
 
-1. Detecting abrupt change in bird community time series using distance travelled. *Association for Women in Math Biology Symposium*, Special session "Current Challenges in Mathematical Biology ", Houston, TX, 2019
+1. Decline of the Once-Ubiquitous House Sparrow in North America. *Nebraska Invasive Species Council*, Lincoln, NE  \hfill 2015     
 
-1. Decline of the Once-Ubiquitous House Sparrow in North America. *Nebraska Invasive Species Council*, Lincoln, NE, 2015     
-
-## contributed
+## Contributed
 1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. A novel method for tracking ecosystem trajectory and abrupt change in space-time: distance traveled. *International Association for Landscape Ecology*, Oral presentation. Fort Collins, CO, 2019
 
 1. **Burnett, J.L.**, R. Crystal-Ornelas, D. Fogarty, K. Hogan, C.R. Allen, M. Bomberger Brown, D. Twidwell, and C.A. Lepczyk. Impacts of non-native birds on native wildlife in urban ecosystems: where is the evidence?  *Natural Areas Conference*, Oral presentation. Indiana, 2018
@@ -291,15 +335,15 @@ France, 2017
 1. **Burnett, J.L.** and Sieving, K.E. Perceived predation risks of small forest birds. *Association of Field Ornithologists Annual Conference*, Poster presentation. Venus, FL, 2013
 
 
-# Scientific Outreach 
-## Community Involvement
-- Letters to a Pre-scientist, United States, 2019-present
-- Skype a Scientist, United States, 2017-present
-- Co-PI, Community grant to develop on-site nature trail and viewing opportunities at the Reichert House, Gainesville, FL, 2014-15
-- Hands-on captive herpetological opportunities for studnets of the Reichert House, Gainesville, FL, 2014-15 
-- Birdwatching and live banding demonstrations for K-12 students, A Girls' Place, Gainesville, FL, 2013-15
-- Science, mathematics and reading tutor for middle and high school students, Friends of the Micanopy Library, FL, 2011-13 
-- Learning assistant and tutor for geometry and pre-calculus students, Valencia Community College, Oralndo, FL 2008-2010 
+# Scientific Outreach  
+## Community Involvement  
+- Letters to a Pre-scientist, United States \hfill 2019-present
+- Skype a Scientist, United States \hfill 2017-present
+- Co-PI, Community grant to develop on-site nature trail and viewing opportunities at the Reichert House, Gainesville, FL \hfill 2014-15
+- Hands-on captive herpetological opportunities for studnets of the Reichert House, Gainesville, FL \hfill 2014-15 
+- Birdwatching and live banding demonstrations for K-12 students, A Girls' Place, Gainesville, FL \hfill 2013-15
+- Science, mathematics and reading tutor for middle and high school students, Friends of the Micanopy Library, FL \hfill 2011-13 
+- Learning assistant and tutor for geometry and pre-calculus students, Valencia Community College, Oralndo, FL  \hfill 2008-10 
 
 ## Blogs  
 - [Connecting to nature and understanding ecosystem services: urban perspective](https://envirobites.org/2017/10/17/connecting-to-nature-and-understanding-ecosystem-services-the-urban-perspective/), Envirobites
@@ -308,7 +352,7 @@ France, 2017
 - [Connecting to nature and understanding ecosystem services: the urban perspective](http://resilience2017.org/blog/connecting-to-nature-and-understanding-ecosystem-services-the-urban-perspective/), Resilience Alliance
 - [Leadership resilience and your workplace](http://resilience2017.org/blog/leadership-resilience-and-your-workplace/), Resilience Alliance
 
-## Radio
+## Radio  
 - [House Sparrow declines in North American, Urban Wildlife Podcast](http://www.urbanwildlifecast.com/?p=139)   
 
 # Service  
