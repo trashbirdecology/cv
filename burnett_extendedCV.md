@@ -35,10 +35,11 @@ Skills Highlight
 -   Languages: R, LaTeX, MatLab, HTML, English
 -   Reproducibility and open science
 -   Applied statistics
+-   Avian ecology and conservation
+-   Data science
     <!-- - Data quality assessment and quality control, data management -->
     <!-- - Citizen science and long-term monitoring -->
--   Avian ecology and conservation
--   Population trend and parameter estimation
+    <!-- - Population trend and parameter estimation -->
 
 Professional Experience
 =======================
@@ -570,15 +571,23 @@ Radio
 Service
 =======
 
-Journal Referee
----------------
+Code and Software Peer Reviews
+------------------------------
 
--   *Bioinvasions Records* (1), *Ecological Modelling* (4), *Journal of
-    Molluscan Studies* (2), *Journal of Open Source Software* (1), *PLOS
-    One* (1), *Wilson Journal of Ornithology* (3)  
--   Student liaison, [Urban Ecosystem Ecology
-    Section](http://www.esa.org/urbanecology/), Ecological Society of
-    America 2015 - 16
+-   *Journal of Open Source Software* (1)
+
+Research Article Peer Reviews
+-----------------------------
+
+-   *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological
+    Informatics*, (2) *Ecological Modelling* (4), *Journal of Molluscan
+    Studies* (2), *PLOS One* (1), *ReScience* (pending), *Wilson Journal
+    of Ornithology* (3)
+
+USGS Selected Peer Reviews
+--------------------------
+
+-   Abstracts (2), Research Articles (1), Software/code (1)
 
 University of Nebraska-Lincoln
 ------------------------------
@@ -607,8 +616,9 @@ University of Nebraska-Lincoln
 <!-- - Wilson Ornithological Society  \hfill 2015  -->
 <!-- - Association for Women in Science \hfill 2015 -->
 <!-- - Ecological Society of America   \hfill 2014 -->
-Grey Literature
-===============
+<!-- - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16   -->
+Reports
+=======
 
 White Papers
 ------------

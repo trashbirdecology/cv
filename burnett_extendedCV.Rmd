@@ -63,10 +63,11 @@ Department of Wildlife Ecology & Conservation, University of Florida, Florida US
 - Languages: R, LaTeX, MatLab, HTML, English
 - Reproducibility and open science 
 - Applied statistics
+- Avian ecology and conservation
+- Data science
 <!-- - Data quality assessment and quality control, data management -->
 <!-- - Citizen science and long-term monitoring -->
-- Avian ecology and conservation
-- Population trend and parameter estimation
+<!-- - Population trend and parameter estimation -->
 
 # Professional Experience
 **Research Ecologist & Mendenhall Postdoctoral Fellow**  \hfill September 2019 - present  
@@ -356,9 +357,14 @@ France, 2017
 - [House Sparrow declines in North American, Urban Wildlife Podcast](http://www.urbanwildlifecast.com/?p=139)   
 
 # Service  
-## Journal Referee
-- *Bioinvasions Records* (1), *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *Journal of Open Source Software* (1), *PLOS One* (1), *Wilson Journal of Ornithology* (3)  
-- Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16  
+## Code and Software Peer Reviews  
+- *Journal of Open Source Software* (1)
+
+## Research Article Peer Reviews  
+- *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological Informatics*, (2) *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *PLOS One* (1), *ReScience* (pending),  *Wilson Journal of Ornithology* (3) 
+
+## USGS Selected Peer Reviews  
+- Abstracts (2), Research Articles (1), Software/code (1)
 
 ## University of Nebraska-Lincoln 
 - Co-founder, Natural Resources Diversity Initiative committee, School of Natural Resources \hfill 2017
@@ -376,10 +382,12 @@ France, 2017
 <!-- - Association for Women in Science \hfill 2015 -->
 <!-- - Ecological Society of America   \hfill 2014 -->
 
-# Grey Literature  
-## White Papers
+<!-- - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16   -->
+
+# Reports  
+## White Papers  
 1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher Information. Strategic Environmental Research and Development Program (SERDP RC 25-10), Department of Defense.  
 
-## Grant Reports
+## Grant Reports  
 1. Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**, Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change, Vulnerability, and Resilience: Management Options for an Uncertain Future. Strategic Environmental Research and Development Program (SERDP), Department of Defense.   
 1. Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M., Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models (BpS) in the Great Plains. LANDFIRE Project.   
