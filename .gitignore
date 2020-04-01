@@ -1,7 +1,3 @@
-# Ignore products
-
-
-
 # History files
 .Rhistory
 .Rapp.history
@@ -9,6 +5,9 @@
 # Session Data files
 .RData
 .DS_Store
+
+
+# build ignores
 burnett_extendedCV.log
 burnett_extendedCV.out
 burnett_extendedCV.utf8.md
@@ -17,3 +16,7 @@ burnett_extendedCV.aux
 burnett_2pg_lter2019.pdf
 archived/burnett_CV_2page_20190310.pdf
 publications_list.pdf
+burnett_extendedCV.txt
+burnett_extendedCV.html
+burnett_extendedCV.md
+
