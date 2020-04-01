@@ -32,11 +32,12 @@ Florida USA
 Skills Highlight
 ================
 
--   Languages: R, LaTeX, MatLab, HTML, English
 -   Reproducibility and open science
+-   Data science
 -   Applied statistics
 -   Avian ecology and conservation
--   Data science
+-   Invasion ecology
+-   Languages: R, MatLab, LaTeX, HTML, English
     <!-- - Data quality assessment and quality control, data management -->
     <!-- - Citizen science and long-term monitoring -->
     <!-- - Population trend and parameter estimation -->
@@ -183,39 +184,14 @@ Manuscripts Under Review (primary author)
     invasive snail species (Bellamya chinensis) by native fish. *under
     review at Malacological Bulletin*
 
-Manuscripts in Preparation (primary author)
-===========================================
-
-1.  **Burnett, J.L.**, et al. Great Tit (*Parus major*) range expansion
-    in the Northern U.S.
-
-2.  **Burnett, J.L.**, N.B. Price, A.J. Tyre, D.G. Angeler, T. Eason, D.
-    Twidwell., and C.R. Allen. Deconstructing the steps for calculating
-    Fisher Information as a measure of abrupt change in ecological
-    systems.
-
-3.  **Burnett, J.L.**, Kratter, A. and Robinson, S.K. Using a Christmas
-    Bird Count to understand local and regional changes in bird
-    populations in Northcentral Florida.
-
-4.  **Burnett, J.L.**, N.B. Price, C.R. Allen, D. Twidwell, A.J. Tyre.
-    Velocity of distance travelled as a measure of ecosystem trajectory
-    and abrupt change.
-
-5.  **Burnett, J.L.**, Z. Warren, M. Podebrovska, B. Dueker, K.
-    Lamke, B. Seguin, D. Twidwell, and C.R. Allen. Sexual size
-    dimorphism in mammalian communities of Mediterranean Australian
-    regions.
-
-6.  **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M.
-    Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll.
-    Large-scale crop patterns influence Gray Partridge (*Perdix perdix*)
-    site occupancy in North America.
-
-7.  **Burnett, J.L.**, B.D. Fath, E. Rovenskaya, and A.J. Tyre. Effects
-    of data quality and quantity on inference gained from regime shift
-    detection methods.
-
+<!-- # Manuscripts in Preparation (primary author)  -->
+<!-- 1. **Burnett, J.L.**, et al. Great Tit (*Parus major*) range expansion in the Northern U.S. -->
+<!-- 1. **Burnett, J.L.**, N.B. Price, A.J. Tyre,  D.G. Angeler, T. Eason, D. Twidwell., and C.R. Allen. Deconstructing the steps for calculating Fisher Information as a measure of abrupt change in ecological systems. -->
+<!-- 1. **Burnett, J.L.**, Kratter, A. and Robinson, S.K. Using a Christmas Bird Count to understand local and regional changes in bird populations in Northcentral Florida.  -->
+<!-- 1. **Burnett, J.L.**, N.B. Price, C.R. Allen, D. Twidwell, A.J. Tyre. Velocity of distance travelled as a measure of ecosystem trajectory and abrupt change.  -->
+<!-- 1. **Burnett, J.L.**, Z. Warren, M. Podebrovska, B. Dueker, K. Lamke, B. Seguin, D. Twidwell, and C.R. Allen. Sexual size dimorphism in mammalian communities of Mediterranean Australian regions. -->
+<!-- 1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-scale crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America.  -->
+<!-- 1. **Burnett, J.L.**, B.D. Fath, E. Rovenskaya, and A.J. Tyre. Effects of data quality and quantity on inference gained from regime shift detection methods.  -->
 Notable Code and Software
 =========================
 
@@ -574,7 +550,7 @@ Service
 Code and Software Peer Reviews
 ------------------------------
 
--   *Journal of Open Source Software* (1)
+-   *Journal of Open Source Software* (1), *ReScience* (1)
 
 Research Article Peer Reviews
 -----------------------------

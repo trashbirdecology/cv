@@ -26,9 +26,7 @@ fontsize: 11pt
 urlcolor: blue
 ---
 <!-- *CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates) -->
-
 <!-- [PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf) -->
-
 <!-- Please edit the .RMD file, and not the .MD!!! -->
 
 # Education  
@@ -60,11 +58,12 @@ Department of Wildlife Ecology & Conservation, University of Florida, Florida US
 <!-- A.A. General studies Valencia Community College \hfill 2010   -->
 
 # Skills Highlight
-- Languages: R, LaTeX, MatLab, HTML, English
 - Reproducibility and open science 
+- Data science
 - Applied statistics
 - Avian ecology and conservation
-- Data science
+- Invasion ecology
+- Languages: R, MatLab, LaTeX, HTML, English
 <!-- - Data quality assessment and quality control, data management -->
 <!-- - Citizen science and long-term monitoring -->
 <!-- - Population trend and parameter estimation -->
@@ -136,7 +135,6 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 <!-- - Banded and measured breeding birds in backyards using -->
 <!-- - Created monthly program newletters -->
 
-
 # Publications 
 1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019. bbsAssistant: An R package for downloading and handling data and information from the North American Breeding Bird Survey. Journal of Open Source Software, 4(44), 1768, DOI: [10.21105/joss.01768](https://doi.org/10.21105/joss.01768)
 
@@ -165,21 +163,20 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 
 1. **Burnett, J.L.**, R. Wilcox, B. Stephen, D. Haak, D. Uden, C.R. Allen, and K. Pope. Shell strength does not limit predation of an invasive snail species (Bellamya chinensis) by native fish. *under review at Malacological Bulletin*
 
-# Manuscripts in Preparation (primary author) 
-1. **Burnett, J.L.**, et al. Great Tit (*Parus major*) range expansion in the Northern U.S.
+<!-- # Manuscripts in Preparation (primary author)  -->
+<!-- 1. **Burnett, J.L.**, et al. Great Tit (*Parus major*) range expansion in the Northern U.S. -->
 
-1. **Burnett, J.L.**, N.B. Price, A.J. Tyre,  D.G. Angeler, T. Eason, D. Twidwell., and C.R. Allen. Deconstructing the steps for calculating Fisher Information as a measure of abrupt change in ecological systems.
+<!-- 1. **Burnett, J.L.**, N.B. Price, A.J. Tyre,  D.G. Angeler, T. Eason, D. Twidwell., and C.R. Allen. Deconstructing the steps for calculating Fisher Information as a measure of abrupt change in ecological systems. -->
 
-1. **Burnett, J.L.**, Kratter, A. and Robinson, S.K. Using a Christmas Bird Count to understand local and regional changes in bird populations in Northcentral Florida. 
+<!-- 1. **Burnett, J.L.**, Kratter, A. and Robinson, S.K. Using a Christmas Bird Count to understand local and regional changes in bird populations in Northcentral Florida.  -->
 
-1. **Burnett, J.L.**, N.B. Price, C.R. Allen, D. Twidwell, A.J. Tyre. Velocity of distance travelled as a measure of ecosystem trajectory and abrupt change. 
+<!-- 1. **Burnett, J.L.**, N.B. Price, C.R. Allen, D. Twidwell, A.J. Tyre. Velocity of distance travelled as a measure of ecosystem trajectory and abrupt change.  -->
 
-1. **Burnett, J.L.**, Z. Warren, M. Podebrovska, B. Dueker, K. Lamke, B. Seguin, D. Twidwell, and C.R. Allen. Sexual size dimorphism in mammalian communities of Mediterranean Australian regions.
+<!-- 1. **Burnett, J.L.**, Z. Warren, M. Podebrovska, B. Dueker, K. Lamke, B. Seguin, D. Twidwell, and C.R. Allen. Sexual size dimorphism in mammalian communities of Mediterranean Australian regions. -->
 
-1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-scale crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America. 
+<!-- 1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-scale crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America.  -->
 
-1. **Burnett, J.L.**, B.D. Fath, E. Rovenskaya, and A.J. Tyre. Effects of data quality and quantity on inference gained from regime shift detection methods. 
-
+<!-- 1. **Burnett, J.L.**, B.D. Fath, E. Rovenskaya, and A.J. Tyre. Effects of data quality and quantity on inference gained from regime shift detection methods.  -->
 
 # Notable Code and Software
 
@@ -264,7 +261,7 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 - IFAS Extension Internship for Undergraduate Research, University of Florida   \hfill  __$2,200__
 - Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida \hfill  __$550__
 
-# Teaching   
+# Teaching  
 ## Course Development
 **Reproducible Research and Collaboration in Ecology**. Course materials can be found on [GitHub](https://github.com/TrashBirdEcology/courses/tree/master/rr_course).
 
@@ -358,7 +355,7 @@ France, 2017
 
 # Service  
 ## Code and Software Peer Reviews  
-- *Journal of Open Source Software* (1)
+- *Journal of Open Source Software* (1), *ReScience* (1)
 
 ## Research Article Peer Reviews  
 - *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological Informatics*, (2) *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *PLOS One* (1), *ReScience* (pending),  *Wilson Journal of Ornithology* (3) 

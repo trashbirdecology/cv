@@ -1,0 +1,50 @@
+---
+output: 
+  pdf_document:
+      latex_engine: pdflatex
+      template: cv-latex.tex
+  md_document:
+    variant: markdown_github
+knit: (function(inputFile, encoding) {
+        rmarkdown::render(inputFile, encoding = encoding,
+         output_format = "all") })
+geometry: margin=.7in
+title: "CV"
+author: JESSICA L. BURNETT
+orcid:  0000-0002-0896-5099
+fontawesome: yes
+email: jburnett@usgs.gov
+# email: jessicaleighburnett@gmail.com
+github: trashbirdecology
+twitter: trashbirdecol
+phone: "+1 352 792 5425"
+updated: yes
+keywords: R Markdown, academic CV, template
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+# Publications 
+1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019. bbsAssistant: An R package for downloading and handling data and information from the North American Breeding Bird Survey. Journal of Open Source Software, 4(44), 1768, DOI: [10.21105/joss.01768](https://doi.org/10.21105/joss.01768)
+
+1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. 2018. Social-ecological landscape patterns predict woody encroachment from native tree plantings in a temperate grassland *Ecology and Evolution* 8(19): 9624-9632 DOI:10.1002/ece3.4340
+
+1.  **Burnett, J.L.**, K.L. Pope, A. Wong, C.R. Allen, D.M. Haak, B.J. Stephen, and D.R. Uden. 2018. Thermal tolerance limits of the invasive Chinese mysterysnail *Bellamya chinensis* and implications for management". *American Malacological Bulletin* 36(1): 140-144 DOI:10.4003/006.036.0106   
+
+1. Roberts, C.P., D. Twidwell, **J.L. Burnett**, V.M. Donovan, C. Wonkka, C.H. Bielski, A.S. Garmestani, D.G. Angeler, T. Eason, B.W. Allred, M.O. Jones, D.E. Naugle, S. Sundstrom, C.R. Allen . 2018. Early warnings for state transitions. *Rangeland Ecology and Management* DOI:10.1016/j.rama.2018.04.012     
+
+1. La Sorte, F.A., C.A. Lepczyk, **J.L. Burnett**, A. Hurlbert, M. Tingley, and B. Zuckerberg. 2018. Opportunities and challenges for big data ornithology. *The Condor* 120(2): 414-426 DOI:0.1650/CONDOR-17-206.1
+
+1. Chuang, W.C., A.S. Garmestani, T. Eason, T.L. Spanbauer, H.B. Fried-Peterson, C. Roberts, S. Sundstrom, **J.L. Burnett**, D. G. Angeler, B. Chaffin, L. Gunderson, D. Twidwell, C.R. Allen. 2018. Enhancing quantitative approaches for assessing ecological and community resilience. *Journal of Environmental Management* 213: 353-362 DOI:10.1016/j.jenvman.2018.01.083    
+
+1.  **Burnett, J.L.**, C.R. Allen, C.P. Roberts, M.Bomberger Brown, and M.P. Moulton. 2017. Eurasian Tree Sparrow (*Passer montanus*) range expansion in North America. *Biological Invasions* 19(1): 5-9 DOI:10.1007/s10530-016-1273-4  
+
+1.  **Burnett, J.L.** and K.E. Sieving. 2016. Songbird distress call as a detection enhancement method and application to Red-shouldered Hawks (*Buteo lineatus*). *Florida Field Naturalist* 44(4):157-168      
+
+1. C.R. Allen, H.E. Birge, S.L. Bartlet-Hunt, R.A. Bevans, **J.L. Burnett**, B.A. Cosens, X. Cai, A.S. Garmestani, I. Linkov, E.A. Scott, M.D. Solomon, and D.R. Uden. 2016. Avoiding decline: Fostering resilience and sustainability in midsize cities. *Sustainability* 8(9):844-868 DOI:10.3390/su8090844   
+
+1. **Burnett, J.L.** and M.P. Moulton. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172   
+
+# Book Chapters
+1. **Burnett, J.L.** and C.R. Allen. 2020. Continental Analysis of Invasive Birds:  North America *in* Downs, C.T. and Hart, L.A. (eds) Global trends and impacts of alien invasive birds. CABI, Wallingford, U.K., pp. XX-XX. 
