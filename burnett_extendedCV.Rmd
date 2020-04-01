@@ -3,13 +3,13 @@ output:
   pdf_document:
       latex_engine: pdflatex
       template: cv-latex.tex
-  md_document:
-    variant: markdown_github
+  # md_document:
+  #   variant: markdown_github
 knit: (function(inputFile, encoding) {
         rmarkdown::render(inputFile, encoding = encoding,
          output_format = "all") })
 geometry: margin=.7in
-title: "CV"
+title: "Extended CV"
 author: JESSICA L. BURNETT
 orcid:  0000-0002-0896-5099
 fontawesome: yes
@@ -23,7 +23,8 @@ keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
-urlcolor: blue
+urlcolor: blue(munsell)
+# linkcolor: maroon
 ---
 <!-- *CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates) -->
 <!-- [PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf) -->
