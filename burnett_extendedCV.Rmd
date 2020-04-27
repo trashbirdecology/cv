@@ -14,7 +14,6 @@ author: JESSICA L. BURNETT
 orcid:  0000-0002-0896-5099
 fontawesome: yes
 email: jburnett@usgs.gov
-# email: jessicaleighburnett@gmail.com
 github: trashbirdecology
 twitter: trashbirdecol
 phone: "+1 352 792 5425"
@@ -354,15 +353,16 @@ France, 2017
 ## Radio  
 - [House Sparrow declines in North American, Urban Wildlife Podcast](http://www.urbanwildlifecast.com/?p=139)   
 
-# Service  
+# Service 
+## Department of Interior  
+- Peer reviews [Abstracts (2), Research Articles (1), Software/code (1)]
+- Advisory committee for the Fish and Wildlife Service Avian Knowledge Network (AKN) 
+
 ## Code and Software Peer Reviews  
 - *Journal of Open Source Software* (1), *ReScience* (1)
 
-## Research Article Peer Reviews  
-- *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological Informatics*, (2) *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *PLOS One* (1), *ReScience* (pending),  *Wilson Journal of Ornithology* (3) 
-
-## USGS Selected Peer Reviews  
-- Abstracts (2), Research Articles (1), Software/code (1)
+## Peer Reviewers
+- *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological Informatics*, (2) *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *PLOS One* (1), *ReScience* (pending),  *Wilson Journal of Ornithology* (3)
 
 ## University of Nebraska-Lincoln 
 - Co-founder, Natural Resources Diversity Initiative committee, School of Natural Resources \hfill 2017
