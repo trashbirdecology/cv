@@ -187,7 +187,7 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 1. Price, N.B. and **J.L. Burnett**. `tvdiff`.  An R package for numerical differentiation of noisy, non-smooth data. [Github:natbprice/tvdiff](https://github.com/natbprice/tvdiff) 
 
 ### Lifecycle: dormant
-1. **Burnett, J.L.**, N.B. Price. [`regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimedetectionmeasures).. An R package for calculating univariate and multivariate regime detection methods using community time series.  
+1. **Burnett, J.L.**, N.B. Price. [`regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimedetectionmeasures). An R package for calculating univariate and multivariate regime detection methods using community time series.  
 
 ### Lifecycle: experimental
 1. **Burnett, J.L.**, et al. [`USAvian`](https://github.com/TrashBirdEcology/USAvian/): An interactive map for connecting and visualizing the bird conservation and management networks in the U.S. 
@@ -200,6 +200,10 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 
 ### 2019  
 - Mendenhall Postdoctoral Research, Core Science Systems Science Analytics and Synthesis, U.S. Geological Survey.  \hfill __~$222,000__ 
+
+### 2018
+- International Institute for Applied Systems Analysis (IIASA) [Young Scholar Summer Program](https://iiasa.ac.at/web/home/education/yssp/Young_Scientists_Summer_Program.html). Funding sources: National Academy of Sciences and University of Nebraska-Lincoln. \hfill __~$12,500__
+
 
 ## Under Review  
 - Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. Creating a unified approach to evaluate regime shift detection methods. Powell Center Synthesis Working Group, U.S. Geological Survey \hfill __$166,642__ \hfill   
@@ -214,10 +218,10 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 - **Burnett, J.L.**, C.R. Allen, G. Sugihara, and H. Ye. Scale mismatches in ecological research and management: consequences and solutions through data management. Powell Center Synthesis Working Group, U.S. Geological Survey  
 
 ### 2016  
-- **Burnett, J.L.**. Mozilla Fellowship for Science  
+- **Burnett, J.L.** Mozilla Fellowship for Science  
 
 ### 2013  
-- **Burnett, J.L.**. NSF Graduate Research Fellowship  
+- **Burnett, J.L.** NSF Graduate Research Fellowship  
 
 # Fellowships, Honors & Awards
 ### 2019  
@@ -357,6 +361,7 @@ France, 2017
 ## Department of Interior  
 - Peer reviews [Abstracts (2), Research Articles (1), Software/code (1)]
 - Advisory committee for the Fish and Wildlife Service Avian Knowledge Network (AKN) 
+- Member, Communications and Marketing Committee, North American Breeding Bird Survey 
 
 ## Code and Software Peer Reviews  
 - *Journal of Open Source Software* (1), *ReScience* (1)
