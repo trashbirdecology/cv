@@ -191,7 +191,6 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 
 1. **Burnett, J.L.**, X. Benito, and K. Braziunas. [`abruptdata`](http://github.com/regime-shifts/abruptdata). An R package and information repository for ecological datasets exhibiting abrupt change.
 
-
 # Research Grants
 ## Funded 
 ### 2020
@@ -204,14 +203,15 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 - International Institute for Applied Systems Analysis (IIASA) [Young Scholar Summer Program](https://iiasa.ac.at/web/home/education/yssp/Young_Scientists_Summer_Program.html). Funding sources: National Academy of Sciences and University of Nebraska-Lincoln. \hfill __~$12,500__
 
 
-## Under Review  
-- Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. Creating a unified approach to evaluate regime shift detection methods. Powell Center Synthesis Working Group, U.S. Geological Survey \hfill __$166,642__ \hfill   
-- Informing the design and deployment of a conservation tool, USAvian: learning through co-production, synthesizing lessons learned. Community for Data Integration, U.S. Geological Survey \hfill   __$70,539__ 
+<!-- ## Under Review   -->
 ## Not Funded  
+### 2020  
+- Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. Creating a unified approach to evaluate regime shift detection methods. Powell Center Synthesis Working Group, U.S. Geological Survey \hfill __$166,642__   
+- Informing the design and deployment of a conservation tool, USAvian: learning through co-production, synthesizing lessons learned. Community for Data Integration, U.S. Geological Survey \hfill   __$70,539__  
 
 ### 2019  
 - Benito, X., C. Bahlai, **J.L., Burnett**, E. Pedersen, and G. Simpson. SESYNC working group proposal.  \hfill   
-
+  
 ### 2018  
 - **Burnett, J.L.**. Population Biology Program of Excellence (PoE) Postdoctoral Fellowship, University of Nebraska-Lincoln
 - **Burnett, J.L.**, C.R. Allen, G. Sugihara, and H. Ye. Scale mismatches in ecological research and management: consequences and solutions through data management. Powell Center Synthesis Working Group, U.S. Geological Survey  
