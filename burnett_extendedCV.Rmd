@@ -59,18 +59,15 @@ Department of Wildlife Ecology & Conservation, University of Florida, Florida US
 
 # Skills Highlight
 - Reproducibility and open science 
-- Data science
+- Ecoinformatics
 - Applied statistics
 - Avian ecology and conservation
 - Invasion ecology
-- Languages: R, MatLab, LaTeX, HTML, English
-<!-- - Data quality assessment and quality control, data management -->
-<!-- - Citizen science and long-term monitoring -->
-<!-- - Population trend and parameter estimation -->
+- Languages: English, R, MatLab, LaTeX, HTML
 
 # Professional Experience
 **Research Ecologist & Mendenhall Postdoctoral Fellow**  \hfill September 2019 - present  
-Science Analytics and Synthesis, Core Science Systems  
+Core Science Systems Science Analytics and Synthesis  
 U.S. Geological Survey, Lakewood, Colorado, USA
 
 **Graduate Research Assistant**   \hfill August 2015 - August 2019  
@@ -191,6 +188,8 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 
 ### Lifecycle: experimental
 1. **Burnett, J.L.**, et al. [`USAvian`](https://github.com/TrashBirdEcology/USAvian/): An interactive map for connecting and visualizing the bird conservation and management networks in the U.S. 
+
+1. **Burnett, J.L.**, X. Benito, and K. Braziunas. [`abruptdata`](http://github.com/regime-shifts/abruptdata). An R package and information repository for ecological datasets exhibiting abrupt change.
 
 
 # Research Grants
