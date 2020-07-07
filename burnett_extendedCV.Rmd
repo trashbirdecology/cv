@@ -3,8 +3,8 @@ output:
   pdf_document:
       latex_engine: pdflatex
       template: cv-latex.tex
-  # md_document:
-  #   variant: markdown_github
+  md_document:
+    variant: gfm
 knit: (function(inputFile, encoding) {
         rmarkdown::render(inputFile, encoding = encoding,
          output_format = "all") })
@@ -187,40 +187,27 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 1. **Burnett, J.L.**, N.B. Price. [`regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimedetectionmeasures). An R package for calculating univariate and multivariate regime detection methods using community time series.  
 
 ### Lifecycle: experimental
-1. **Burnett, J.L.**, et al. [`USAvian`](https://github.com/TrashBirdEcology/USAvian/): An interactive map for connecting and visualizing the bird conservation and management networks in the U.S. 
+1. **Burnett, J.L.**, K.R. Burgio, A. Fournier [`USAvian`](https://github.com/TrashBirdEcology/USAvian/): An interactive map for connecting and visualizing the bird conservation and management networks in the U.S. 
 
 1. **Burnett, J.L.**, X. Benito, and K. Braziunas. [`abruptdata`](http://github.com/regime-shifts/abruptdata). An R package and information repository for ecological datasets exhibiting abrupt change.
 
 # Research Grants
+## Under Review
+1. Wee, B., **J.L. Burnett**, S. Aulenbach, W. Teng, R.A. Modeling data and information needs for avian conservation using Neo4j. Earth Science Information Partners Lab \hfill
+
 ## Funded 
-### 2020
-- Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. 2020. Creating a unified approach to evaluate regime shift detection methods.  \hfill __$12,400 CAD__   
+1. Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. __2020__. Creating a unified approach to evaluate regime shift detection methods. Canadian Institution for Ecology and Evolution (CIEE)  \hfill __$12,400 CAD__
+1. **J.L. Burnett**. __2019-21__. Mendenhall Postdoctoral Research, Core Science Systems Science Analytics and Synthesis, U.S. Geological Survey.  \hfill __~$222,000__
+1. International Institute for Applied Systems Analysis (IIASA) [Young Scholar Summer Program](https://iiasa.ac.at/web/home/education/yssp/Young_Scientists_Summer_Program.html). __2018__. Funding sources: National Academy of Sciences and University of Nebraska-Lincoln. \hfill __~$12,500__
 
-### 2019  
-- Mendenhall Postdoctoral Research, Core Science Systems Science Analytics and Synthesis, U.S. Geological Survey.  \hfill __~$222,000__ 
-
-### 2018
-- International Institute for Applied Systems Analysis (IIASA) [Young Scholar Summer Program](https://iiasa.ac.at/web/home/education/yssp/Young_Scientists_Summer_Program.html). Funding sources: National Academy of Sciences and University of Nebraska-Lincoln. \hfill __~$12,500__
-
-
-<!-- ## Under Review   -->
 ## Not Funded  
-### 2020  
-- Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. Creating a unified approach to evaluate regime shift detection methods. Powell Center Synthesis Working Group, U.S. Geological Survey \hfill __$166,642__   
-- Informing the design and deployment of a conservation tool, USAvian: learning through co-production, synthesizing lessons learned. Community for Data Integration, U.S. Geological Survey \hfill   __$70,539__  
-
-### 2019  
-- Benito, X., C. Bahlai, **J.L., Burnett**, E. Pedersen, and G. Simpson. SESYNC working group proposal.  \hfill   
-  
-### 2018  
-- **Burnett, J.L.**. Population Biology Program of Excellence (PoE) Postdoctoral Fellowship, University of Nebraska-Lincoln
-- **Burnett, J.L.**, C.R. Allen, G. Sugihara, and H. Ye. Scale mismatches in ecological research and management: consequences and solutions through data management. Powell Center Synthesis Working Group, U.S. Geological Survey  
-
-### 2016  
-- **Burnett, J.L.** Mozilla Fellowship for Science  
-
-### 2013  
-- **Burnett, J.L.** NSF Graduate Research Fellowship  
+1. Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. Creating a unified approach to evaluate regime shift detection methods. Powell Center Synthesis Working Group, U.S. Geological Survey \hfill 2020  <!--__$166,642__  --> 
+1. Informing the design and deployment of a conservation tool, USAvian: learning through co-production, synthesizing lessons learned. Community for Data Integration, U.S. Geological Survey \hfill 2020 <!--  __$70,539__  -->
+1. Benito, X., C. Bahlai, **J.L., Burnett**, E. Pedersen, and G. Simpson. SESYNC working group proposal.  \hfill  2019  
+1. **Burnett, J.L.**. Population Biology Program of Excellence (PoE) Postdoctoral Fellowship, University of Nebraska-Lincoln \hfill 2018  
+1. **Burnett, J.L.**, C.R. Allen, G. Sugihara, and H. Ye. Scale mismatches in ecological research and management: consequences and solutions through data management. Powell Center Synthesis Working Group, U.S. Geological Survey   \hfill 2018  
+1. **Burnett, J.L.** Mozilla Fellowship for Science \hfill 2016  
+1. **Burnett, J.L.** NSF Graduate Research Fellowship   \hfill 2013  
 
 # Fellowships, Honors & Awards
 ### 2019  
@@ -269,24 +256,24 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 **Reproducible Research and Collaboration in Ecology**. Course materials can be found on [GitHub](https://github.com/TrashBirdEcology/courses/tree/master/rr_course).
 
 ## Instruction
-**Co-instructor** Introduction to Applied Ecological Statistics, Kearney, NE \hfill 2017
+**Co-instructor** Introduction to Applied Ecological Statistics, Kearney, NE \hfill 2017  
 - Week-long workshop for employees of the Nebraska Game and Parks Commission employees
 
-**Instructor** Introduction to Prorgam R \hfill 2017
+**Instructor** Introduction to Prorgam R \hfill 2017  
 - Designed and taught a series of half-day workshops for graduate students
 - Basics of data management and analysis using Program R
 
-**Guest Lecturer** Module: using citizen science data to understand ecological invasions; Course: Avian Invasions  \hfill 2016
+**Guest Lecturer** Module: using citizen science data to understand ecological invasions; Course: Avian Invasions  \hfill 2016  
 - Designed and taught series of lectures on citizen science data use and applications
 
-**Teaching Assistant** Wildlife Population Ecology, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015
-- Lead quantitative laboratory sessions
+**Teaching Assistant** Wildlife Population Ecology, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015  
+- Led quantitative laboratory sessions
 
-**Teaching Assistant** Ecological Statistics, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015
-- Lead and moderate discussions
-- Provide statistical support  
+**Teaching Assistant** Ecological Statistics, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015    
+- Led and moderate discussions
+- Provided statistical support  
 
-**Guest Lecturer** Wetland birds module, Florida Master Naturalist \hfill 2013
+**Guest Lecturer** Wetland birds module, Florida Master Naturalist \hfill 2013  
 - Designed and taught module on wetland bird identification and ecology
 
 # Organized Sessions & Symposia  
@@ -295,6 +282,8 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 
 # Presentations (primary author)  
 ## Invited 
+1. Integrating data and information to enhance the digital efficeincy of wildlife conservation and management. North American Ornithological Conference \hfill 2020
+
 1. Regime Detection Measures for the Pratical Ecologist, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2019
 
 1. Detecting abrupt change in bird community time series using distance travelled. *Association for Women in Math Biology Symposium*, Special session "Current Challenges in Mathematical Biology ", Houston, TX  \hfill 2019
@@ -358,9 +347,9 @@ France, 2017
 
 # Service 
 ## Department of Interior  
-- Peer reviews [Abstracts (2), Research Articles (1), Software/code (1)]
-- Advisory committee for the Fish and Wildlife Service Avian Knowledge Network (AKN) 
-- Member, Communications and Marketing Committee, North American Breeding Bird Survey 
+- Peer reviewer [Abstracts (2), Research Articles (1), Software/code (1)]
+- Advisory committee member for the Fish and Wildlife Service Avian Knowledge Network (AKN) 
+- Member, Communications and Marketing Committee for the North American Breeding Bird Survey 2020 strategic plan
 
 ## Code and Software Peer Reviews  
 - *Journal of Open Source Software* (1), *ReScience* (1)
