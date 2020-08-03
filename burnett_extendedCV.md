@@ -428,11 +428,14 @@ Ecology & Conservation, University of Florida 2015
 
 # Organized Sessions & Symposia
 
-1.  Using the integrated modelling framework to bridge science and
+1.  Bridging the gap between science and decision-making through the
+    rapid prototyping of decision support tools. Co-organizer with D.
+    Valle and L.S. Wszola. Ecological Society of America conference 2020
+2.  Using the integrated modelling framework to bridge science and
     decision making: advances, applications, and opportunities.
     Co-organizer with J.A. Royle. Ecological Society of America
     conference 2020
-2.  Opportunities and Challenges in Big Data Ornithology. Co-organizer
+3.  Opportunities and Challenges in Big Data Ornithology. Co-organizer
     with F.A. LaSorte and C.A. Lepczyk. North American Ornithological
     Conference V, Washington, D.C. 2016
 
