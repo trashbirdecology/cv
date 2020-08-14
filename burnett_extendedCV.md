@@ -595,7 +595,7 @@ Ecology & Conservation, University of Florida 2015
   - Advisory committee member for the Fish and Wildlife Service Avian
     Knowledge Network (AKN)
   - Member, Communications and Marketing Committee for the North
-    American Breeding Bird Survey 2020 strategic plan
+    American Breeding Bird Survey 2020 Action Plan
 
 ## Code and Software Peer Reviews
 
