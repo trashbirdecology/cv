@@ -192,10 +192,10 @@ Smithsonian Migratory Bird Center, Gainesville, FL, USA
 1. **Burnett, J.L.**, X. Benito, and K. Braziunas. [`abruptdata`](http://github.com/regime-shifts/abruptdata). An R package and information repository for ecological datasets exhibiting abrupt change.
 
 # Research Grants
-## Under Review
-1. Wee, B., **J.L. Burnett**, S. Aulenbach, W. Teng, R.A. Modeling data and information needs for avian conservation using Neo4j. Earth Science Information Partners Lab \hfill
+<!-- ## Under Review -->
 
 ## Funded 
+1. Wee, B., **J.L. Burnett**, S. Aulenbach, W. Teng, R.A. Modeling data and information needs for avian conservation using Neo4j. Earth Science Information Partners Lab \hfill
 1. Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. __2020__. Creating a unified approach to evaluate regime shift detection methods. Canadian Institution for Ecology and Evolution (CIEE)  \hfill __$12,400 CAD__
 1. **J.L. Burnett**. __2019-21__. Mendenhall Postdoctoral Research, Core Science Systems Science Analytics and Synthesis, U.S. Geological Survey.  \hfill __~$222,000__
 1. International Institute for Applied Systems Analysis (IIASA) [Young Scholar Summer Program](https://iiasa.ac.at/web/home/education/yssp/Young_Scientists_Summer_Program.html). __2018__. Funding sources: National Academy of Sciences and University of Nebraska-Lincoln. \hfill __~$12,500__

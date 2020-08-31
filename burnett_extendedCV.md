@@ -281,22 +281,21 @@ Bulletin*
 
 # Research Grants
 
-## Under Review
+<!-- ## Under Review -->
+
+## Funded
 
 1.  Wee, B., **J.L. Burnett**, S. Aulenbach, W. Teng, R.A. Modeling data
     and information needs for avian conservation using Neo4j. Earth
     Science Information Partners Lab 
-
-## Funded
-
-1.  Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. **2020**.
+2.  Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. **2020**.
     Creating a unified approach to evaluate regime shift detection
     methods. Canadian Institution for Ecology and Evolution (CIEE)
     **$12,400 CAD**
-2.  **J.L. Burnett**. **2019-21**. Mendenhall Postdoctoral Research,
+3.  **J.L. Burnett**. **2019-21**. Mendenhall Postdoctoral Research,
     Core Science Systems Science Analytics and Synthesis, U.S.
     Geological Survey. **~$222,000**
-3.  International Institute for Applied Systems Analysis (IIASA) [Young
+4.  International Institute for Applied Systems Analysis (IIASA) [Young
     Scholar Summer
     Program](https://iiasa.ac.at/web/home/education/yssp/Young_Scientists_Summer_Program.html).
     **2018**. Funding sources: National Academy of Sciences and
