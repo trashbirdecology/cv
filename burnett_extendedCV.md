@@ -9,20 +9,15 @@
 **Ph.D., Natural Resource Sciences, Specialization Applied Ecology**
 2015 - 19  
 School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka
-USA
-
-<!-- - Dissertation: Regime Detection Methods for the Practical Ecologist -->
-
-<!-- - Prestigious funded summer research sabbatical at IIASA in Laxenburg, Austria  -->
-
-<!-- - Recipient of 2 university-wide fellowships  and Meritorious Doctoral Student award  -->
+USA - Dissertation: Regime Detection Methods for the Practical Ecologist
+- Prestigious international research fellowship at International
+Institute for Applied Systems Analysis - Recipient of 2 university
+fellowships and departmental Meritorious Doctoral Student award
 
 **M.Sc., Wildlife Ecology & Conservation** 2013 - 15  
 Department of Wildlife Ecology & Conservation, University of Florida,
-Florida
-USA
-
-<!-- - Thesis: House Sparrow *(Passer domesticus)* decline and distribution in North America  -->
+Florida USA
+<!-- - Thesis: House Sparrow *(Passer domesticus)* decline and distribution in North America -->
 
 **B.Sc. Wildlife Ecology & Conservation** 2010 - 13  
 Department of Wildlife Ecology & Conservation, University of Florida,
@@ -59,16 +54,33 @@ USA
 **Research Ecologist & Mendenhall Postdoctoral Fellow** September 2019 -
 present  
 Core Science Systems Science Analytics and Synthesis  
-U.S. Geological Survey, Lakewood, Colorado, USA
+U.S. Geological Survey, Lakewood, Colorado, USA  
+\- Co-produced knowledge management systems for North American bird
+conservation with partners including USFWS, NASA, USGS, North Carolina
+Wildlife Resources Commission, private consulting groups, USFS  
+\- Invited seminar presentation at University of Florida  
+\- Co-investigator of Earth Science Information Partners research
+grant  
+\- <!-- - Authored multiple research grant proposals and scient -->
+<!-- - Authored and co-authored 2 scientific research articles -->
 
 **Graduate Research Assistant** August 2015 - August 2019  
 Nebraska Cooperative Fish & Wildlife Research Unit  
 School of Natural Resources  
 Department of Agronomy & Horticulture  
-University of Nebraska-Lincoln, Nebraska,
-USA
-
-<!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
+University of Nebraska-Lincoln, Nebraska, USA  
+\- Advanced statistical methods for identifying abrupt change in
+ecological communities  
+\- Developed five software packages for statistical analyses of
+empirical and simulated ecological data  
+\- Published 8 peer-reviewed scientific articles and 1 invited book
+chapter  
+\- Co-creator of the University’s Association for Women in Science and
+the Natural Resources Diversity Initiative  
+\- Co-organizer of half-day research symposium at national conference
+(North American Ornithological Conference)  
+\- Invited talk at the Association for Women in Math Biology annual
+symposium
 
 <!-- - Authored 5 R packages: -->
 
@@ -86,18 +98,16 @@ USA
 
 <!-- - Designed and instructed of workshops for managing and analyzing ecological data using Program R -->
 
-<!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference) -->
-
-<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
-
 <!-- - Invited and hosted three departmental seminar guests -->
-
-<!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
 
 **Young Scholar** May 2018 - September 2018  
 Applied Systems Analysis Research Group  
-International Institute for Applied Systems Analysis Laxenburg,
-Austria
+International Institute for Applied Systems Analysis  
+Laxenburg, Austria  
+\- Conducted dissertation research with applied mathematician and
+systems scientists  
+\- Presented research to international
+audience
 
 <!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
 
@@ -107,47 +117,30 @@ Austria
 
 **Graduate Teaching Assistant** August 2013 - August 2015  
 Department of Wildlife Ecology & Conservation  
-University of Florida, Florida, USA
-
-<!-- - Published 2 peer-reviewed scientific articles -->
-
-<!-- - Invited lectures in citizen science data, wetland birds -->
+University of Florida, Florida, USA  
+\- Published 2 peer-reviewed scientific articles  
+\- Invited lectures in data analysis and avian ecology
 
 **Geospatial Analyst Intern** April 2012 - August 2012  
-Florida Fish and Wildlife Research Institute Gainesville, Florida,
-USA
-
-<!-- - Identified relationships among land cover and American Kestrel *(Falco sparverius)* nest success -->
-
-<!-- - Ground-truthed GIS data -->
-
-<!-- - Monitored Eastern Screech-Owl (*Megascops asio*) nests -->
+Florida Fish and Wildlife Research Institute Gainesville, Florida, USA  
+\- Identified relationships among land cover and American Kestrel nest
+success  
+\- Ground-truthed GIS data  
+\- Monitored Eastern Screech-Owl nests
 
 **Research Assistant** January 2011 - April 2012  
-Avian Ecology and Conservation Lab University of Florida, Gainesville,
-FL,
-USA
-
-<!-- - Managed bird banding database -->
-
-<!-- - Conducted avian behavioral field research - *Paridae* feeder behavior -->
-
-<!-- - Designed and implemented research project resulting in 1 peer-reviewed manuscript -->
+Avian Ecology and Conservation Lab  
+University of Florida, Gainesville, FL, USA  
+\- Managed bird banding database  
+\- Avian behavioral field research
 
 **Crew Leader, Smithsonian Fellow** April-September 2011 and
-April-September 2013  
-Neighborhood Nestwatch Program  
-Smithsonian Migratory Bird Center, Gainesville, FL, USA
-
-<!-- - Trained and led team of banding technicians -->
-
-<!-- - Managed bird banding database; data QA/QC -->
-
-<!-- - Recruited and trained citizen scientists -->
-
-<!-- - Banded and measured breeding birds in backyards using -->
-
-<!-- - Created monthly program newletters -->
+April-September 2013 Neighborhood Nestwatch Program  
+Smithsonian Migratory Bird Center, Gainesville, FL, USA  
+\- Trained and led team of banding technicians  
+\- Managed bird banding database; data QA/QC  
+\- Recruited and trained participatory scientists  
+\- Created outreach materials
 
 # Publications
 
@@ -387,43 +380,44 @@ Bulletin*
   - IFAS Extension Internship for Undergraduate Research, University of
     Florida **$2,200**
   - Ordway-Swisher Biological Station Undergraduate Research Grant,
-    University of Florida **$550**
+    University of Florida
+**$550**
 
-# Teaching
+<!-- # Teaching   -->
 
-## Course Development
+<!-- ## Course Development -->
 
-**Reproducible Research and Collaboration in Ecology**. Course materials
-can be found on
-[GitHub](https://github.com/TrashBirdEcology/courses/tree/master/rr_course).
+<!-- **Reproducible Research and Collaboration in Ecology**. Course materials can be found on [GitHub](https://github.com/TrashBirdEcology/courses/tree/master/rr_course). -->
 
-## Instruction
+<!-- ## Instruction -->
 
-**Co-instructor** Introduction to Applied Ecological Statistics,
-Kearney, NE 2017  
-\- Week-long workshop for employees of the Nebraska Game and Parks
-Commission employees
+<!-- **Co-instructor** Introduction to Applied Ecological Statistics, Kearney, NE \hfill 2017   -->
 
-**Instructor** Introduction to Prorgam R 2017  
-\- Designed and taught a series of half-day workshops for graduate
-students - Basics of data management and analysis using Program R
+<!-- - Week-long workshop for employees of the Nebraska Game and Parks Commission employees -->
 
-**Guest Lecturer** Module: using citizen science data to understand
-ecological invasions; Course: Avian Invasions 2016  
-\- Designed and taught series of lectures on citizen science data use
-and applications
+<!-- **Instructor** Introduction to Prorgam R \hfill 2017   -->
 
-**Teaching Assistant** Wildlife Population Ecology, Department of
-Wildlife Ecology & Conservation, University of Florida 2015  
-\- Led quantitative laboratory sessions
+<!-- - Designed and taught a series of half-day workshops for graduate students -->
 
-**Teaching Assistant** Ecological Statistics, Department of Wildlife
-Ecology & Conservation, University of Florida 2015  
-\- Led and moderate discussions - Provided statistical support
+<!-- - Basics of data management and analysis using Program R -->
 
-**Guest Lecturer** Wetland birds module, Florida Master Naturalist
-2013  
-\- Designed and taught module on wetland bird identification and ecology
+<!-- **Guest Lecturer** Module: using citizen science data to understand ecological invasions; Course: Avian Invasions  \hfill 2016   -->
+
+<!-- - Designed and taught series of lectures on citizen science data use and applications -->
+
+<!-- **Teaching Assistant** Wildlife Population Ecology, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015   -->
+
+<!-- - Led quantitative laboratory sessions -->
+
+<!-- **Teaching Assistant** Ecological Statistics, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2015     -->
+
+<!-- - Led and moderate discussions -->
+
+<!-- - Provided statistical support   -->
+
+<!-- **Guest Lecturer** Wetland birds module, Florida Master Naturalist \hfill 2013   -->
+
+<!-- - Designed and taught module on wetland bird identification and ecology -->
 
 # Organized Sessions & Symposia
 
@@ -643,20 +637,18 @@ Ecology & Conservation, University of Florida 2015
 
 # Reports
 
-## White Papers
+<!-- ## White Papers   -->
 
 1.  **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G.,
     Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher
     Information. Strategic Environmental Research and Development
-    Program (SERDP RC 25-10), Department of Defense.
-
-## Grant Reports
-
-1.  Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**,
+    Program (SERDP RC 25-10), Department of Defense.  
+    <!-- ## Grant Reports   -->
+2.  Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**,
     Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change,
     Vulnerability, and Resilience: Management Options for an Uncertain
     Future. Strategic Environmental Research and Development Program
     (SERDP), Department of Defense.  
-2.  Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M.,
+3.  Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M.,
     Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models
     (BpS) in the Great Plains. LANDFIRE Project.
