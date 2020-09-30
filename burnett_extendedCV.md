@@ -1,44 +1,34 @@
-<!-- *CV template adapted from* [S. Miller](https://github.com/svmiller/svm-r-markdown-templates) -->
-
-<!-- [PDF version available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf) -->
-
-<!-- Please edit the .RMD file, and not the .MD!!! -->
-
 # Education
 
-**Ph.D., Natural Resource Sciences, Specialization Applied Ecology**
-2015 - 19  
-School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka
-USA - Dissertation: Regime Detection Methods for the Practical Ecologist
-- Prestigious international research fellowship at International
-Institute for Applied Systems Analysis - Recipient of 2 university
-fellowships and departmental Meritorious Doctoral Student award
+**Ph.D.** Natural Resource Sciences Unviersity of Nebrsaka-Lincoln
+2019  
+**M.Sc.** Wildlife Ecology & Conservation, Unviersity of Florida 2015  
+**B.Sc.** Wildlife Ecology & Conservation Unviersity of Florida 2013  
+**A.A.** General studies Valencia Community College 2010
+<!-- **Ph.D., Natural Resource Sciences, Specialization Applied Ecology** \hfill 2015 - 19   -->
+<!-- School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka USA -->
 
-**M.Sc., Wildlife Ecology & Conservation** 2013 - 15  
-Department of Wildlife Ecology & Conservation, University of Florida,
-Florida USA
+<!-- - Dissertation: Regime Detection Methods for the Practical Ecologist -->
+
+<!-- - Prestigious international research fellowship at International Institute for Applied Systems Analysis -->
+
+<!-- - Recipient of 2 university fellowships and departmental Meritorious Doctoral Student award  -->
+
+<!-- **M.Sc., Wildlife Ecology & Conservation** \hfill 2013 - 15   -->
+
+<!-- Department of Wildlife Ecology & Conservation, University of Florida, Florida USA -->
+
 <!-- - Thesis: House Sparrow *(Passer domesticus)* decline and distribution in North America -->
 
-**B.Sc. Wildlife Ecology & Conservation** 2010 - 13  
-Department of Wildlife Ecology & Conservation, University of Florida,
-Florida
-USA
+<!-- **B.Sc. Wildlife Ecology & Conservation** \hfill 2010 - 13   -->
+
+<!-- Department of Wildlife Ecology & Conservation, University of Florida, Florida USA -->
 
 <!-- - Undergraduate research thesis published (avian playback methodology) -->
 
 <!-- - Internship with the Florida Wildlife Research Institute (GIS analyst) -->
 
-<!-- **A.A. Valencia Community College** \hfill 2008 - 10   -->
-
-<!-- # Education (BRIEF) -->
-
-<!-- Ph.D. Natural Resource Sciences  Unviersity of Nebrsaka-Lincoln \hfill *expected* 2019     -->
-
-<!-- M.Sc. Wildlife Ecology & Conservation, Unviersity of Florida \hfill 2015   -->
-
-<!-- B.Sc. Wildlife Ecology & Conservation Unviersity of Florida \hfill 2013     -->
-
-<!-- A.A. General studies Valencia Community College \hfill 2010   -->
+<!-- **A.A. Valencia Community College** \hfill 2008 - 10 -->
 
 # Skills Highlight
 
@@ -46,41 +36,35 @@ USA
   - Ecoinformatics
   - Applied statistics
   - Avian ecology and conservation
-  - Invasion ecology
-  - Languages: English, R, MatLab, LaTeX, HTML
+  - Invasion ecology <!-- - Languages: English, R, LaTeX, HTML -->
 
 # Professional Experience
 
 **Research Ecologist & Mendenhall Postdoctoral Fellow** September 2019 -
-present  
-Core Science Systems Science Analytics and Synthesis  
-U.S. Geological Survey, Lakewood, Colorado, USA  
-\- Co-produced knowledge management systems for North American bird
-conservation with partners including USFWS, NASA, USGS, North Carolina
-Wildlife Resources Commission, private consulting groups, USFS  
-\- Invited seminar presentation at University of Florida  
-\- Co-investigator of Earth Science Information Partners research
-grant  
-\- <!-- - Authored multiple research grant proposals and scient -->
-<!-- - Authored and co-authored 2 scientific research articles -->
+present
 
-**Graduate Research Assistant** August 2015 - August 2019  
+U.S. Geological Survey, Lakewood, Colorado, USA
+
+  - Co-produced knowledge management systems for North American bird
+    conservation
+  - Co-investigator of Earth Science Information Partners research grant
+  - Invited seminar presentation at University of Florida
+
+**Graduate Research Assistant** August 2015 - August 2019
+
 Nebraska Cooperative Fish & Wildlife Research Unit  
-School of Natural Resources  
-Department of Agronomy & Horticulture  
-University of Nebraska-Lincoln, Nebraska, USA  
-\- Advanced statistical methods for identifying abrupt change in
-ecological communities  
-\- Developed five software packages for statistical analyses of
-empirical and simulated ecological data  
-\- Published 8 peer-reviewed scientific articles and 1 invited book
-chapter  
-\- Co-creator of the University’s Association for Women in Science and
-the Natural Resources Diversity Initiative  
-\- Co-organizer of half-day research symposium at national conference
-(North American Ornithological Conference)  
-\- Invited talk at the Association for Women in Math Biology annual
-symposium
+University of Nebraska-Lincoln, Nebraska, USA
+
+  - Advanced statistical methods for identifying abrupt change in
+    ecological communities
+  - Developed five software packages for statistical analyses of
+    empirical and simulated ecological data
+  - Published 8 peer-reviewed scientific articles and 1 invited book
+    chapter
+  - Co-creator of the University’s Association for Women in Science and
+    the Natural Resources Diversity Initiative
+    <!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)   -->
+    <!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
 
 <!-- - Authored 5 R packages: -->
 
@@ -100,47 +84,46 @@ symposium
 
 <!-- - Invited and hosted three departmental seminar guests -->
 
-**Young Scholar** May 2018 - September 2018  
+**Young Scholar** May 2018 - September 2018
+
 Applied Systems Analysis Research Group  
-International Institute for Applied Systems Analysis  
-Laxenburg, Austria  
-\- Conducted dissertation research with applied mathematician and
-systems scientists  
-\- Presented research to international
-audience
+International Institute for Applied Systems Analysis, Austria
 
-<!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
-
-<!-- - Presented research in an international forum -->
-
-<!-- - Organized seminar on Network Analysis in Ecology -->
+  - Conducted dissertation research with applied mathematician and
+    systems scientists
+  - Presented research to international audience
+    <!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
+    <!-- - Presented research in an international forum -->
+    <!-- - Organized seminar on Network Analysis in Ecology -->
 
 **Graduate Teaching Assistant** August 2013 - August 2015  
 Department of Wildlife Ecology & Conservation  
-University of Florida, Florida, USA  
-\- Published 2 peer-reviewed scientific articles  
-\- Invited lectures in data analysis and avian ecology
+University of Florida, Florida, USA
+
+  - Published 2 peer-reviewed scientific articles
+  - Invited lectures in data analysis and avian ecology
 
 **Geospatial Analyst Intern** April 2012 - August 2012  
-Florida Fish and Wildlife Research Institute Gainesville, Florida, USA  
-\- Identified relationships among land cover and American Kestrel nest
-success  
-\- Ground-truthed GIS data  
-\- Monitored Eastern Screech-Owl nests
+Florida Fish and Wildlife Research Institute
+
+  - Identified relationships among land cover and American Kestrel nest
+    success
+  - Ground-truthed GIS data
+  - Monitored Eastern Screech-Owl nests
 
 **Research Assistant** January 2011 - April 2012  
-Avian Ecology and Conservation Lab  
-University of Florida, Gainesville, FL, USA  
-\- Managed bird banding database  
-\- Avian behavioral field research
+Avian Ecology and Conservation Lab, University of Florida
 
-**Crew Leader, Smithsonian Fellow** April-September 2011 and
-April-September 2013 Neighborhood Nestwatch Program  
-Smithsonian Migratory Bird Center, Gainesville, FL, USA  
-\- Trained and led team of banding technicians  
-\- Managed bird banding database; data QA/QC  
-\- Recruited and trained participatory scientists  
-\- Created outreach materials
+  - Managed bird banding database
+  - Avian behavioral field research
+
+**Crew Leader and Smithsonian Fellow** 2011 & 2013 Neighborhood
+Nestwatch Program, Florida
+
+  - Trained and led team of banding technicians
+  - Managed bird banding database
+  - Recruited and trained participatory scientists
+    <!-- - Created outreach materials   -->
 
 # Publications
 
