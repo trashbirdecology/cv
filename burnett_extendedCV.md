@@ -205,6 +205,8 @@ Bulletin*
 
 <!-- # Manuscripts in Preparation (primary author)  -->
 
+<!-- 1. **Burnett, J.L.**, et al. How to Create a Useful Web Application -->
+
 <!-- 1. **Burnett, J.L.**, et al. Great Tit (*Parus major*) range expansion in the Northern U.S. -->
 
 <!-- 1. **Burnett, J.L.**, N.B. Price, A.J. Tyre,  D.G. Angeler, T. Eason, D. Twidwell., and C.R. Allen. Deconstructing the steps for calculating Fisher Information as a measure of abrupt change in ecological systems. -->
@@ -215,7 +217,7 @@ Bulletin*
 
 <!-- 1. **Burnett, J.L.**, Z. Warren, M. Podebrovska, B. Dueker, K. Lamke, B. Seguin, D. Twidwell, and C.R. Allen. Sexual size dimorphism in mammalian communities of Mediterranean Australian regions. -->
 
-<!-- 1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-scale crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America.  -->
+<!-- 1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-scale crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America. -->
 
 <!-- 1. **Burnett, J.L.**, B.D. Fath, E. Rovenskaya, and A.J. Tyre. Effects of data quality and quantity on inference gained from regime shift detection methods.  -->
 
@@ -571,23 +573,21 @@ Bulletin*
 
 ## Department of Interior
 
-  - Peer reviewer \[Abstracts (2), Research Articles (1), Software/code
-    (1)\]
   - Advisory committee member for the Fish and Wildlife Service Avian
     Knowledge Network (AKN)
   - Member, Communications and Marketing Committee for the North
     American Breeding Bird Survey 2020 Action Plan
 
-## Code and Software Peer Reviews
+## Peer Review Activitiy
 
-  - *Journal of Open Source Software* (1), *ReScience* (1)
-
-## Peer Reviewers
-
-  - *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological
-    Informatics*, (2) *Ecological Modelling* (4), *Journal of Molluscan
-    Studies* (2), *PLOS One* (1), *ReScience* (pending), *Wilson Journal
-    of Ornithology* (3)
+  - Department of Interior: \[Abstracts (2), Research Articles (1),
+    Software/code (1)\]
+  - Code and software: *Journal of Open Source Software* (2),
+    *ReScience* (1)
+  - Scientific manuscripts: *Bioinvasions Records* (1), *Conservation
+    Biology* (1), *Ecological Informatics* (3) *Ecological Modelling*
+    (4), *Journal of Molluscan Studies* (2), *PLOS One* (1), *ReScience*
+    (pending), *Wilson Journal of Ornithology* (3)
 
 ## University of Nebraska-Lincoln
 
