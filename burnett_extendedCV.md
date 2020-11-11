@@ -307,13 +307,18 @@ Bulletin*
 
 # Fellowships, Honors & Awards
 
+### 2020
+
+  - Invited workshop participant, Future of Synthesis in Ecology, NCEAS
+
 ### 2019
 
   - School of Natural Resources, University of Nebraska-Lincoln **$750**
   - University of Nebraska Graduate Travel Fund **$750**
   - Association for Women in Mathematical Biology **$650**
   - School of Natural Resources, University of Nebraska-Lincoln
-    **$1050**
+    **$1050**  
+  - USGS Mendenhall Postdoctoral Fellowship
 
 ### 2018
 
@@ -321,8 +326,8 @@ Bulletin*
     Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp) award,
     School of Natural Resources, UNL **$500**
   - National Academy of Sciences research award **$5,500**
-  - Participant, [Research Collaboration Workshop for Women in
-    Mathematical Biology,
+  - Invited workshop participant, [Research Collaboration Workshop for
+    Women in Mathematical Biology,
     NIMBIOS](http://www.nimbios.org/education/WS_wwmb) **$900**
   - National Science Foundation & NimBios **$550**
   - Nelson Memorial Fellowship, University of Nebraska-Lincoln *(3x
