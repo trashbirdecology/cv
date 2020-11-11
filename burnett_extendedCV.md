@@ -582,10 +582,10 @@ Bulletin*
 
   - Department of Interior: \[Abstracts (2), Research Articles (1),
     Software/code (1)\]
-  - Code and software: *Journal of Open Source Software* (2),
+  - Code and software: *Journal of Open Source Software* (3),
     *ReScience* (1)
   - Scientific manuscripts: *Bioinvasions Records* (1), *Conservation
-    Biology* (1), *Ecological Informatics* (3) *Ecological Modelling*
+    Biology* (1), *Ecological Informatics* (4) *Ecological Modelling*
     (4), *Journal of Molluscan Studies* (2), *PLOS One* (1), *ReScience*
     (pending), *Wilson Journal of Ornithology* (3)
 
