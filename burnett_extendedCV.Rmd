@@ -384,3 +384,14 @@ France, 2017
 <!-- ## Grant Reports   -->
 1. Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**, Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change, Vulnerability, and Resilience: Management Options for an Uncertain Future. Strategic Environmental Research and Development Program (SERDP), Department of Defense.   
 1. Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M., Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models (BpS) in the Great Plains. LANDFIRE Project.   
+
+<!-- # DOI training, workshops (w/ CPE hours) -->
+<!-- ## 2020 -->
+<!-- USGS Principled Centered Leadership (USGS-PCL) \hfill 2020 November -->
+<!-- Defining Alternative Solutions to a Problem \hfill 2020 November -->
+<!-- Aligning Goals and Priorities to Manage Time \hfill 2020 November -->
+<!-- Gauging Your Leadership Performance \hfill 2020 November -->
+<!-- High Performance Computing in R and Python \hfill 2020 November -->
+<!-- Structured Decision Making Workshop - Observers and Mentees \hfill 2020 November -->
+ <!-- \hfill 2020 November -->
+ 
