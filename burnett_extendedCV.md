@@ -43,28 +43,32 @@
 **Research Ecologist & Mendenhall Postdoctoral Fellow** September 2019 -
 present
 
-U.S. Geological Survey, Lakewood, Colorado, USA
+U.S. Geological Survey, Lakewood, Colorado,
+USA
 
-  - Co-produced knowledge management systems for North American bird
-    conservation
-  - Co-investigator of Earth Science Information Partners research grant
-  - Invited seminar presentation at University of Florida
+<!-- - Co-produced knowledge management systems for North American bird conservation -->
+
+<!-- - Co-investigator of Earth Science Information Partners research grant -->
+
+<!-- - Invited seminar presentation at University of Florida -->
 
 **Graduate Research Assistant** August 2015 - August 2019
 
 Nebraska Cooperative Fish & Wildlife Research Unit  
-University of Nebraska-Lincoln, Nebraska, USA
+University of Nebraska-Lincoln, Nebraska,
+USA
 
-  - Advanced statistical methods for identifying abrupt change in
-    ecological communities
-  - Developed five software packages for statistical analyses of
-    empirical and simulated ecological data
-  - Published 8 peer-reviewed scientific articles and 1 invited book
-    chapter
-  - Co-creator of the University’s Association for Women in Science and
-    the Natural Resources Diversity Initiative
-    <!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)   -->
-    <!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
+<!-- - Advanced statistical methods for identifying abrupt change in ecological communities -->
+
+<!-- - Developed five software packages for statistical analyses of empirical and simulated ecological data -->
+
+<!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
+
+<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
+
+<!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)   -->
+
+<!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
 
 <!-- - Authored 5 R packages: -->
 
@@ -87,43 +91,54 @@ University of Nebraska-Lincoln, Nebraska, USA
 **Young Scholar** May 2018 - September 2018
 
 Applied Systems Analysis Research Group  
-International Institute for Applied Systems Analysis, Austria
+International Institute for Applied Systems Analysis,
+Austria
 
-  - Conducted dissertation research with applied mathematician and
-    systems scientists
-  - Presented research to international audience
-    <!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
-    <!-- - Presented research in an international forum -->
-    <!-- - Organized seminar on Network Analysis in Ecology -->
+<!-- - Conducted dissertation research with applied mathematician and systems scientists -->
+
+<!-- - Presented research to international audience -->
+
+<!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
+
+<!-- - Presented research in an international forum -->
+
+<!-- - Organized seminar on Network Analysis in Ecology -->
 
 **Graduate Teaching Assistant** August 2013 - August 2015  
 Department of Wildlife Ecology & Conservation  
 University of Florida, Florida, USA
 
-  - Published 2 peer-reviewed scientific articles
-  - Invited lectures in data analysis and avian ecology
+<!-- - Published 2 peer-reviewed scientific articles -->
+
+<!-- - Invited lectures in data analysis and avian ecology -->
 
 **Geospatial Analyst Intern** April 2012 - August 2012  
-Florida Fish and Wildlife Research Institute
+Florida Fish and Wildlife Research
+Institute
 
-  - Identified relationships among land cover and American Kestrel nest
-    success
-  - Ground-truthed GIS data
-  - Monitored Eastern Screech-Owl nests
+<!-- - Identified relationships among land cover and American Kestrel nest success -->
+
+<!-- - Ground-truthed GIS data -->
+
+<!-- - Monitored Eastern Screech-Owl nests -->
 
 **Research Assistant** January 2011 - April 2012  
 Avian Ecology and Conservation Lab, University of Florida
 
-  - Managed bird banding database
-  - Avian behavioral field research
+<!-- - Managed bird banding database -->
+
+<!-- - Avian behavioral field research -->
 
 **Crew Leader and Smithsonian Fellow** 2011 & 2013 Neighborhood
 Nestwatch Program, Florida
 
-  - Trained and led team of banding technicians
-  - Managed bird banding database
-  - Recruited and trained participatory scientists
-    <!-- - Created outreach materials   -->
+<!-- - Trained and led team of banding technicians -->
+
+<!-- - Managed bird banding database -->
+
+<!-- - Recruited and trained participatory scientists -->
+
+<!-- - Created outreach materials   -->
 
 # Publications
 
@@ -586,7 +601,7 @@ Bulletin*
 ## Peer Review Activitiy
 
   - Department of Interior: \[Abstracts (2), Research Articles (1),
-    Software/code (1)\]
+    Software/code (1), Reports (1)\]
   - Code and software: *Journal of Open Source Software* (3),
     *ReScience* (1)
   - Scientific manuscripts: *Bioinvasions Records* (1), *Conservation
@@ -644,4 +659,23 @@ Bulletin*
     (SERDP), Department of Defense.  
 3.  Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M.,
     Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models
-    (BpS) in the Great Plains. LANDFIRE Project.
+    (BpS) in the Great Plains. LANDFIRE
+Project.
+
+<!-- # DOI training, workshops (w/ CPE hours) -->
+
+<!-- ## 2020 -->
+
+<!-- USGS Principled Centered Leadership (USGS-PCL) \hfill 2020 November -->
+
+<!-- Defining Alternative Solutions to a Problem \hfill 2020 November -->
+
+<!-- Aligning Goals and Priorities to Manage Time \hfill 2020 November -->
+
+<!-- Gauging Your Leadership Performance \hfill 2020 November -->
+
+<!-- High Performance Computing in R and Python \hfill 2020 November -->
+
+<!-- Structured Decision Making Workshop - Observers and Mentees \hfill 2020 November -->
+
+<!-- \hfill 2020 November -->

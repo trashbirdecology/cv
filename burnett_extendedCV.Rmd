@@ -64,19 +64,19 @@ linkcolor: maroon
 
 U.S. Geological Survey, Lakewood, Colorado, USA  
 
-- Co-produced knowledge management systems for North American bird conservation
-- Co-investigator of Earth Science Information Partners research grant
-- Invited seminar presentation at University of Florida
+<!-- - Co-produced knowledge management systems for North American bird conservation -->
+<!-- - Co-investigator of Earth Science Information Partners research grant -->
+<!-- - Invited seminar presentation at University of Florida -->
 
 **Graduate Research Assistant**   \hfill August 2015 - August 2019  
 
 Nebraska Cooperative Fish & Wildlife Research Unit    
 University of Nebraska-Lincoln, Nebraska, USA  
 
-- Advanced statistical methods for identifying abrupt change in ecological communities
-- Developed five software packages for statistical analyses of empirical and simulated ecological data
-- Published 8 peer-reviewed scientific articles and 1 invited book chapter
-- Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative
+<!-- - Advanced statistical methods for identifying abrupt change in ecological communities -->
+<!-- - Developed five software packages for statistical analyses of empirical and simulated ecological data -->
+<!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
+<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
 <!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)   -->
 <!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
 
@@ -95,8 +95,8 @@ University of Nebraska-Lincoln, Nebraska, USA
 Applied Systems Analysis Research Group  
 International Institute for Applied Systems Analysis, Austria
 
-- Conducted dissertation research with applied mathematician and systems scientists
-- Presented research to international audience
+<!-- - Conducted dissertation research with applied mathematician and systems scientists -->
+<!-- - Presented research to international audience -->
 <!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
 <!-- - Presented research in an international forum -->
 <!-- - Organized seminar on Network Analysis in Ecology -->
@@ -105,28 +105,28 @@ International Institute for Applied Systems Analysis, Austria
 Department of Wildlife Ecology & Conservation   
 University of Florida, Florida, USA
 
-- Published 2 peer-reviewed scientific articles
-- Invited lectures in data analysis and avian ecology
+<!-- - Published 2 peer-reviewed scientific articles -->
+<!-- - Invited lectures in data analysis and avian ecology -->
 
 **Geospatial Analyst Intern**  \hfill April 2012 -  August 2012  
 Florida Fish and Wildlife Research Institute
 
-- Identified relationships among land cover and American Kestrel nest success
-- Ground-truthed GIS data
-- Monitored Eastern Screech-Owl nests
+<!-- - Identified relationships among land cover and American Kestrel nest success -->
+<!-- - Ground-truthed GIS data -->
+<!-- - Monitored Eastern Screech-Owl nests -->
 
 **Research Assistant**  \hfill January 2011 -  April 2012    
 Avian Ecology and Conservation Lab, University of Florida
 
-- Managed bird banding database
-- Avian behavioral field research
+<!-- - Managed bird banding database -->
+<!-- - Avian behavioral field research -->
 
 **Crew Leader and Smithsonian Fellow**  \hfill 2011 & 2013 
 Neighborhood Nestwatch Program, Florida
 
-- Trained and led team of banding technicians
-- Managed bird banding database
-- Recruited and trained participatory scientists
+<!-- - Trained and led team of banding technicians -->
+<!-- - Managed bird banding database -->
+<!-- - Recruited and trained participatory scientists -->
 <!-- - Created outreach materials   -->
 
 # Publications 
@@ -355,7 +355,7 @@ France, 2017
 - Member, Communications and Marketing Committee for the North American Breeding Bird Survey 2020 Action Plan
 
 ## Peer Review Activitiy  
-- Department of Interior: [Abstracts (2), Research Articles (1), Software/code (1)]
+- Department of Interior: [Abstracts (2), Research Articles (1), Software/code (1), Reports (1)]
 - Code and software: *Journal of Open Source Software* (3), *ReScience* (1)
 - Scientific manuscripts: *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological Informatics* (4) *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *PLOS One* (1), *ReScience* (pending),  *Wilson Journal of Ornithology* (3)
 
