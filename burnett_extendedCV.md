@@ -331,8 +331,7 @@ Bulletin*
   - University of Nebraska Graduate Travel Fund **$750**
   - Association for Women in Mathematical Biology **$650**
   - School of Natural Resources, University of Nebraska-Lincoln
-    **$1050**  
-  - USGS Mendenhall Postdoctoral Fellowship
+    **$1050**
 
 ### 2018
 
