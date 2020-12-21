@@ -161,7 +161,7 @@ Neighborhood Nestwatch Program, Florida
 4.  **Burnett, J.L.**, K.L. Pope, A. Wong, C.R. Allen, D.M. Haak, B.J.
     Stephen, and D.R. Uden. 2018. Thermal tolerance limits of the
     invasive Chinese mysterysnail *Bellamya chinensis* and implications
-    for management". *American Malacological Bulletin* 36(1): 140-144
+    for management. *American Malacological Bulletin* 36(1): 140-144
     <DOI:10.4003/006.036.0106>
 
 5.  Roberts, C.P., D. Twidwell, **J.L. Burnett**, V.M. Donovan, C.
