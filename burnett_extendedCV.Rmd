@@ -26,9 +26,9 @@ urlcolor: blue(munsell)
 linkcolor: maroon
 ---
 # Education
-**Ph.D.** Natural Resource Sciences  Unviersity of Nebrsaka-Lincoln \hfill 2019  
-**M.Sc.** Wildlife Ecology & Conservation, Unviersity of Florida \hfill 2015  
-**B.Sc.** Wildlife Ecology & Conservation Unviersity of Florida \hfill 2013  
+**Ph.D.** Natural Resource Sciences  University of Nebrsaka-Lincoln \hfill 2019  
+**M.Sc.** Wildlife Ecology & Conservation, University of Florida \hfill 2015  
+**B.Sc.** Wildlife Ecology & Conservation University of Florida \hfill 2013  
 **A.A.** General studies Valencia Community College \hfill 2010
 <!-- **Ph.D., Natural Resource Sciences, Specialization Applied Ecology** \hfill 2015 - 19   -->
 <!-- School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka USA -->
@@ -52,11 +52,12 @@ linkcolor: maroon
 
 
 # Skills Highlight
-- Reproducibility and open science
-- Ecoinformatics
 - Applied statistics
-- Avian ecology and conservation
-- Invasion ecology
+- Ecoinformatics
+- Ecological modeling
+- Reproducibility and open science
+<!-- - Avian ecology and conservation -->
+<!-- - Invasion ecology -->
 <!-- - Languages: English, R, LaTeX, HTML -->
 
 # Professional Experience
@@ -64,9 +65,9 @@ linkcolor: maroon
 
 U.S. Geological Survey, Lakewood, Colorado, USA  
 
-<!-- - Co-produced knowledge management systems for North American bird conservation -->
-<!-- - Co-investigator of Earth Science Information Partners research grant -->
-<!-- - Invited seminar presentation at University of Florida -->
+- Co-produced knowledge management systems for North American bird conservation
+- Co-investigator of Earth Science Information Partners research grant
+- Invited seminar presentation at University of Florida
 
 **Graduate Research Assistant**   \hfill August 2015 - August 2019  
 
@@ -130,7 +131,7 @@ Neighborhood Nestwatch Program, Florida
 <!-- - Created outreach materials   -->
 
 # Publications 
-1. Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner, and L. Hsu (in review at _Natural Resource Modeling_). Paths to computational fluency for natural resource managemers and researchers. 
+1. Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner, and L. Hsu (in review at _Natural Resource Modeling_). Paths to computational fluency for natural resource managers and researchers. 
 
 1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019. bbsAssistant: An R package for downloading and handling data and information from the North American Breeding Bird Survey. Journal of Open Source Software, 4(44), 1768, DOI: [10.21105/joss.01768](https://doi.org/10.21105/joss.01768)
 
@@ -159,7 +160,7 @@ Neighborhood Nestwatch Program, Florida
 
 1. **Burnett, J.L.**, R. Wilcox, B. Stephen, D. Haak, D. Uden, C.R. Allen, and K. Pope. Shell strength does not limit predation of an invasive snail species (Bellamya chinensis) by native fish. *under review at Malacological Bulletin*
 
-<!-- # Manuscripts in Preparation (primary author)  -->
+<!-- # Manuscripts in Preparation (primary author) -->
 <!-- 1. **Burnett, J.L.**, et al. How to Create a Useful Web Application -->
 <!-- 1. **Burnett, J.L.**, et al. Great Tit (*Parus major*) range expansion in the Northern U.S. -->
 

@@ -1,9 +1,9 @@
 # Education
 
-**Ph.D.** Natural Resource Sciences Unviersity of Nebrsaka-Lincoln
+**Ph.D.** Natural Resource Sciences University of Nebrsaka-Lincoln
 2019  
-**M.Sc.** Wildlife Ecology & Conservation, Unviersity of Florida 2015  
-**B.Sc.** Wildlife Ecology & Conservation Unviersity of Florida 2013  
+**M.Sc.** Wildlife Ecology & Conservation, University of Florida 2015  
+**B.Sc.** Wildlife Ecology & Conservation University of Florida 2013  
 **A.A.** General studies Valencia Community College 2010
 <!-- **Ph.D., Natural Resource Sciences, Specialization Applied Ecology** \hfill 2015 - 19   -->
 <!-- School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka USA -->
@@ -32,25 +32,25 @@
 
 # Skills Highlight
 
-  - Reproducibility and open science
-  - Ecoinformatics
   - Applied statistics
-  - Avian ecology and conservation
-  - Invasion ecology <!-- - Languages: English, R, LaTeX, HTML -->
+  - Ecoinformatics
+  - Ecological modeling
+  - Reproducibility and open science
+    <!-- - Avian ecology and conservation -->
+    <!-- - Invasion ecology -->
+    <!-- - Languages: English, R, LaTeX, HTML -->
 
 # Professional Experience
 
 **Research Ecologist & Mendenhall Postdoctoral Fellow** September 2019 -
 present
 
-U.S. Geological Survey, Lakewood, Colorado,
-USA
+U.S. Geological Survey, Lakewood, Colorado, USA
 
-<!-- - Co-produced knowledge management systems for North American bird conservation -->
-
-<!-- - Co-investigator of Earth Science Information Partners research grant -->
-
-<!-- - Invited seminar presentation at University of Florida -->
+  - Co-produced knowledge management systems for North American bird
+    conservation
+  - Co-investigator of Earth Science Information Partners research grant
+  - Invited seminar presentation at University of Florida
 
 **Graduate Research Assistant** August 2015 - August 2019
 
@@ -144,8 +144,7 @@ Nestwatch Program, Florida
 
 1.  Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner,
     and L. Hsu (in review at *Natural Resource Modeling*). Paths to
-    computational fluency for natural resource managemers and
-    researchers.
+    computational fluency for natural resource managers and researchers.
 
 2.  **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019.
     bbsAssistant: An R package for downloading and handling data and
@@ -218,7 +217,7 @@ Nestwatch Program, Florida
     review at Malacological
 Bulletin*
 
-<!-- # Manuscripts in Preparation (primary author)  -->
+<!-- # Manuscripts in Preparation (primary author) -->
 
 <!-- 1. **Burnett, J.L.**, et al. How to Create a Useful Web Application -->
 
