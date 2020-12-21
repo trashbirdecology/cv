@@ -129,8 +129,8 @@ Avian Ecology and Conservation Lab, University of Florida
 
 <!-- - Avian behavioral field research -->
 
-**Crew Leader and Smithsonian Fellow** 2011 & 2013 Neighborhood
-Nestwatch Program, Florida
+**Crew Leader and Smithsonian Fellow** 2011 & 2013  
+Neighborhood Nestwatch Program, Florida
 
 <!-- - Trained and led team of banding technicians -->
 
