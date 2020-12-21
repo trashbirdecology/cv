@@ -1,0 +1,14 @@
+jobId,position.desc,employer.desc,category,descId,accomplishments
+9,Senior Data Scientist,ICF,data science,b,Researched and developed statistical methods for energy disaggregation
+9,Senior Data Scientist,ICF,data science,a,Developed cloud infrastructure and data science processes for scalable analysis of billions of records of utility smart meter data
+7,Post-doctoral Research Associate,University of Nebraska-Lincoln,"data science, marketing",a,Developed new method to predict customer retention and purchase probabilities with individual level granularity (applied to 1.2 million purchase records)
+7,Post-doctoral Research Associate,University of Nebraska-Lincoln,"data science, marketing",b,"Designed, developed, and deployed web-based data analysis application in R for exploratory data analysis of SQL customer database"
+6,Graduate Research Assistant,University of Florida,"data science, engineering",a,"Integrated machine learning (e.g., Gaussian process) and optimization to design engineering systems considering uncertainty in future decision making process"
+6,Graduate Research Assistant,University of Florida,"data science, engineering",b,Collaboratively developed optimization-based solution to The NASA Langley Multidisciplinary Uncertainty Quantification Challenge (2014)
+5,Ph.D. Student Researcher,ONERA,"data science, engineering",a,Developed a novel method for optimal design of sounding rocket under uncertainty that incorporated risk of future redesign into design optimization
+4,Undergraduate Research Assistant,University of Florida,"data science, engineering",a,"Analyzed effects of patient variability and design variations on safety of Biomet rigid sternal fixation device (Python, FEA)"
+4,Undergraduate Research Assistant,University of Florida,"data science, engineering",b,Awarded Biomedical Engineering Society (BMES) Design and Research Award and Knox T. Millsaps Outstanding Undergraduate Paper Award
+3,Launch Engineer Intern,SpaceX,engineering,a,Performed maintenance of launch vehicle ground systems
+3,Launch Engineer Intern,SpaceX,engineering,b,Team member for rollout and launch of Falcon 9 and Dragon spacecraft
+2,Engineer Intern,"E&S Consulting, Inc.",engineering,a,"Assisted with failure analysis investigations (inspections, materials testing, reports, research)"
+1,Undergraduate Research Assistant,University of Florida,data science,a,Developed Matlab code for compliance correction of compression / tensile strength test data

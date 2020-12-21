@@ -1,0 +1,9 @@
+projectId,description,accomplishments
+1,Created web-based data analysis application,Developed and deployed application for exploratory data analysis of SQL customer database
+1,Created web-based data analysis application,"Advanced data filters, interactive graphics, customize and export plots, download data summaries"
+2,Predicted retention and purchase probabilities for all Nebraska anglers,Developed novel statistical method for analyzing repeat-purchase data
+2,Predicted retention and purchase probabilities for all Nebraska anglers,Applied method to predict purchasing behavior of 1.2 million anglers with individual-level granularity
+3,Optimized sounding rocket design under uncertainty,Developed method to tradeoff between expected design performance and risk of future redesign while  achieving target reliability
+3,Optimized sounding rocket design under uncertainty,Applied method to conceptual design of a sounding rocket to reduce gross lift off weight while achieving target altitude
+4,Analyzed effects of patient variability on safety of medical device,"Created model to predict sternum displacement given patient variability (e.g., bone strength) and implant design (e.g, screw length)"
+4,Analyzed effects of patient variability on safety of medical device,Awarded Biomedical Engineering Society Design and Research Award and Knox T. Millsaps Outstanding Undergraduate Paper Award

@@ -1,0 +1,5 @@
+projectId,begin,end,project,duration,position,employer,partner,languages,skills
+1,9/1/16,,Web-based data analysis application,2 year,Data Scientist,University of Nebraska-Lincoln,Nebraska Game and Parks Commission,"R, SQL","exploratory data analysis, interactive visualization, version control, UNIX shell, data wrangling"
+2,9/1/16,,Buying behavior of Nebraska hunters and anglers,1 year,Data Scientist ,University of Nebraska-Lincoln,Nebraska Game and Parks Commission,"SQL, R","generalized linear models, maximum likelihood estimation, simulation-based model checking"
+3,8/16/12,7/31/16,Optimal sounding rocket design under uncertainty,1 year,PhD Student Researcher,"University of Florida, ONERA",ONERA - The French Aerospace Lab,Matlab,"optimization, machine learning (e.g., Gaussian process), Monte Carlo simulation"
+4,9/16/11,8/2/12,Effects of patient variability on safety of a medical implant,1 year,Undergraduate Researcher,University of Florida ,Biomet,Python,"numerical methods, finite element analysis"
