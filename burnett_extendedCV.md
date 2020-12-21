@@ -55,54 +55,38 @@ U.S. Geological Survey, Lakewood, Colorado, USA
 **Graduate Research Assistant** August 2015 - August 2019
 
 Nebraska Cooperative Fish & Wildlife Research Unit  
-University of Nebraska-Lincoln, Nebraska,
-USA
+University of Nebraska-Lincoln, Nebraska, USA
 
-<!-- - Advanced statistical methods for identifying abrupt change in ecological communities -->
-
-<!-- - Developed five software packages for statistical analyses of empirical and simulated ecological data -->
-
-<!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
-
-<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
-
-<!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)   -->
-
-<!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
-
-<!-- - Authored 5 R packages: -->
-
-<!--     - [`bbsAssistant`](http://github.com/trashbirdecology/bbsAssistant): An R package containing helper functions for downloading and munging data and metadata from the North American Breeding Bird Survey FTP -->
-
-<!--     - [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods): An R package for calculating various regime detection measures -->
-
-<!--     - [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM): An R package for calculating various regime detection measures using the North American Breeding Bird Survey data -->
-
-<!-- - Co-authored two R packages: -->
-
-<!--     - [`radsets`](https://github.com/natbprice/radsets): An R package for interactive, network-based visualizations of overlapping sets -->
-
-<!--     - [`TVdiff`](https://github.com/natbprice/tvdiff): An R package for implementing numerical differentiation of noisy, non-smooth data -->
-
-<!-- - Designed and instructed of workshops for managing and analyzing ecological data using Program R -->
-
-<!-- - Invited and hosted three departmental seminar guests -->
+  - Advanced statistical methods for identifying abrupt change in
+    ecological communities
+  - Authored and maintained 5 scientific software packages:
+  - Invited talk at Association for Women in Math Biology annual
+    symposium
+  - Published 8 peer-reviewed scientific articles and 1 invited book
+    chapter
+  - Co-creator of the University’s Association for Women in Science and
+    the Natural Resources Diversity Initiative
+    <!-- - Developed five software packages for statistical analyses of empirical and simulated ecological data -->
+    <!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)   -->
+    <!--     - [`bbsAssistant`](http://github.com/trashbirdecology/bbsAssistant): An R package containing helper functions for downloading and munging data and metadata from the North American Breeding Bird Survey FTP -->
+    <!--     - [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods): An R package for calculating various regime detection measures -->
+    <!--     - [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM): An R package for calculating various regime detection measures using the North American Breeding Bird Survey data -->
+    <!-- - Co-authored two R packages: -->
+    <!--     - [`radsets`](https://github.com/natbprice/radsets): An R package for interactive, network-based visualizations of overlapping sets -->
+    <!--     - [`TVdiff`](https://github.com/natbprice/tvdiff): An R package for implementing numerical differentiation of noisy, non-smooth data -->
+    <!-- - Designed and instructed of workshops for managing and analyzing ecological data using Program R -->
+    <!-- - Invited and hosted three departmental seminar guests -->
 
 **Young Scholar** May 2018 - September 2018
 
 Applied Systems Analysis Research Group  
-International Institute for Applied Systems Analysis,
-Austria
+International Institute for Applied Systems Analysis, Austria
 
-<!-- - Conducted dissertation research with applied mathematician and systems scientists -->
-
-<!-- - Presented research to international audience -->
-
-<!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
-
-<!-- - Presented research in an international forum -->
-
-<!-- - Organized seminar on Network Analysis in Ecology -->
+  - Conducted dissertation research with applied mathematician and
+    systems scientists
+  - Presented research in an international forum
+    <!-- - Organized seminar on Network Analysis in Ecology -->
+    <!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
 
 **Graduate Teaching Assistant** August 2013 - August 2015  
 Department of Wildlife Ecology & Conservation  

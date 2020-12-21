@@ -74,14 +74,13 @@ U.S. Geological Survey, Lakewood, Colorado, USA
 Nebraska Cooperative Fish & Wildlife Research Unit    
 University of Nebraska-Lincoln, Nebraska, USA  
 
-<!-- - Advanced statistical methods for identifying abrupt change in ecological communities -->
+- Advanced statistical methods for identifying abrupt change in ecological communities
+- Authored and maintained 5 scientific software packages:
+- Invited talk at Association for Women in Math Biology annual symposium
+- Published 8 peer-reviewed scientific articles and 1 invited book chapter
+- Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative
 <!-- - Developed five software packages for statistical analyses of empirical and simulated ecological data -->
-<!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
-<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
 <!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)   -->
-<!-- - Invited talk at the Association for Women in Math Biology annual symposium -->
-
-<!-- - Authored 5 R packages: -->
 <!--     - [`bbsAssistant`](http://github.com/trashbirdecology/bbsAssistant): An R package containing helper functions for downloading and munging data and metadata from the North American Breeding Bird Survey FTP -->
 <!--     - [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods): An R package for calculating various regime detection measures -->
 <!--     - [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM): An R package for calculating various regime detection measures using the North American Breeding Bird Survey data -->
@@ -96,11 +95,10 @@ University of Nebraska-Lincoln, Nebraska, USA
 Applied Systems Analysis Research Group  
 International Institute for Applied Systems Analysis, Austria
 
-<!-- - Conducted dissertation research with applied mathematician and systems scientists -->
-<!-- - Presented research to international audience -->
-<!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
-<!-- - Presented research in an international forum -->
+- Conducted dissertation research with applied mathematician and systems scientists
+- Presented research in an international forum
 <!-- - Organized seminar on Network Analysis in Ecology -->
+<!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
 
 **Graduate Teaching Assistant**   \hfill August 2013 - August 2015   
 Department of Wildlife Ecology & Conservation   
