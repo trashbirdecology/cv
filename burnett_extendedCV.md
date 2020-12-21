@@ -97,32 +97,25 @@ University of Florida, Florida, USA
 <!-- - Invited lectures in data analysis and avian ecology -->
 
 **Geospatial Analyst Intern** April 2012 - August 2012  
-Florida Fish and Wildlife Research
-Institute
+Florida Fish and Wildlife Research Institute
 
-<!-- - Identified relationships among land cover and American Kestrel nest success -->
-
-<!-- - Ground-truthed GIS data -->
-
-<!-- - Monitored Eastern Screech-Owl nests -->
+  - Data ground-truthing
+  - Geospatial analysis of bird nest locations and success
+    <!-- - Monitored Eastern Screech-Owl nests -->
 
 **Research Assistant** January 2011 - April 2012  
 Avian Ecology and Conservation Lab, University of Florida
 
-<!-- - Managed bird banding database -->
-
-<!-- - Avian behavioral field research -->
+  - Managed bird banding database
+  - Avian behavioral field research
 
 **Crew Leader and Smithsonian Fellow** 2011 & 2013  
 Neighborhood Nestwatch Program, Florida
 
-<!-- - Trained and led team of banding technicians -->
-
-<!-- - Managed bird banding database -->
-
-<!-- - Recruited and trained participatory scientists -->
-
-<!-- - Created outreach materials   -->
+  - Trained and led team of banding technicians
+  - Managed bird banding database
+  - Recruited and trained participatory scientists
+  - Created outreach materials
 
 # Publications
 

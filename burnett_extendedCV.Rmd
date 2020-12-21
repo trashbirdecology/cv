@@ -110,23 +110,23 @@ University of Florida, Florida, USA
 **Geospatial Analyst Intern**  \hfill April 2012 -  August 2012  
 Florida Fish and Wildlife Research Institute
 
-<!-- - Identified relationships among land cover and American Kestrel nest success -->
-<!-- - Ground-truthed GIS data -->
+- Data ground-truthing
+- Geospatial analysis of bird nest locations and success
 <!-- - Monitored Eastern Screech-Owl nests -->
 
 **Research Assistant**  \hfill January 2011 -  April 2012    
 Avian Ecology and Conservation Lab, University of Florida
 
-<!-- - Managed bird banding database -->
-<!-- - Avian behavioral field research -->
+- Managed bird banding database
+- Avian behavioral field research
 
 **Crew Leader and Smithsonian Fellow**  \hfill 2011 & 2013   
 Neighborhood Nestwatch Program, Florida
 
-<!-- - Trained and led team of banding technicians -->
-<!-- - Managed bird banding database -->
-<!-- - Recruited and trained participatory scientists -->
-<!-- - Created outreach materials   -->
+- Trained and led team of banding technicians
+- Managed bird banding database
+- Recruited and trained participatory scientists
+- Created outreach materials
 
 # Publications 
 1. Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner, and L. Hsu (in review at _Natural Resource Modeling_). Paths to computational fluency for natural resource managers and researchers. 
