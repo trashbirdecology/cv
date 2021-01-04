@@ -92,9 +92,8 @@ International Institute for Applied Systems Analysis, Austria
 Department of Wildlife Ecology & Conservation  
 University of Florida, Florida, USA
 
-<!-- - Published 2 peer-reviewed scientific articles -->
-
-<!-- - Invited lectures in data analysis and avian ecology -->
+  - Published 2 peer-reviewed scientific articles
+  - Invited lectures in data analysis and avian ecology
 
 **Geospatial Analyst Intern** April 2012 - August 2012  
 Florida Fish and Wildlife Research Institute
