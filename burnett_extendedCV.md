@@ -180,10 +180,10 @@ Neighborhood Nestwatch Program, Florida
 
 # Book Chapters
 
-1.  **Burnett, J.L.** and C.R. Allen. 2020. Continental Analysis of
-    Invasive Birds: North America *in* Downs, C.T. and Hart, L.A. (eds)
-    Global trends and impacts of alien invasive birds. CABI,
-    Wallingford, U.K., pp. XX-XX.
+1.  **Burnett, J.L.** and C.R. Allen. 2020. Continental analysis of
+    invasive Birds: North America *in* Downs, C.T. and Hart, L.A. (eds)
+    Invasive Birds: Global Trends and Impacts. CABI International,
+    Wallingford, UK, pp. 278-294.
 
 # Manuscripts Under Review (primary author)
 
