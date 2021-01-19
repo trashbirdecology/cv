@@ -152,6 +152,7 @@ Neighborhood Nestwatch Program, Florida
 1. **Burnett, J.L.** and M.P. Moulton. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172   
 
 # Book Chapters
+
 1. **Burnett, J.L.** and C.R. Allen. 2020. Continental analysis of invasive Birds:  North America *in* Downs, C.T. and Hart, L.A. (eds) Invasive Birds: Global Trends and Impacts. CABI International, Wallingford, UK, pp. 278-294. 
 
 
@@ -279,8 +280,8 @@ Neighborhood Nestwatch Program, Florida
 <!-- - Designed and taught module on wetland bird identification and ecology -->
 
 # Organized Sessions & Symposia  
-1. Bridging the gap between science and decision-making through the rapid prototyping of decision support tools. Co-organizer with D. Valle and L.S. Wszola. Ecological Society of America conference \hfill 2020
 1. Using the integrated modelling framework to bridge science and decision making: advances, applications, and opportunities. Co-organizer with J.A. Royle. Ecological Society of America conference \hfill 2020
+1. Bridging the gap between science and decision-making through the rapid prototyping of decision support tools. Co-organizer with D. Valle and L.S. Wszola. Ecological Society of America conference \hfill 2020
 1. Opportunities and Challenges in Big Data Ornithology. Co-organizer with F.A. LaSorte and C.A. Lepczyk. North American Ornithological Conference V, Washington, D.C. \hfill 2016
 
 # Presentations (primary author)  
