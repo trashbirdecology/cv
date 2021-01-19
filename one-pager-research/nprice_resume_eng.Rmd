@@ -1,0 +1,212 @@
+---
+name: Nathaniel Price
+docname: "Resume"
+fontawesome: yes
+position: "Data Scientist"
+address: "Lakewood, Colorado"
+phone: "+1 904 315 2486"
+email: "natbprice@gmail.com"
+www: "natbprice.github.io"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: function(...) vitae::cv_document(..., template = "pricetemplate.tex", citation_package = "biblatex")
+---
+
+```{r setup, include=FALSE}
+# To save log files
+# rmarkdown::render("resume/nprice_resume.Rmd", clean = FALSE)
+
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE, 
+                      message = FALSE)
+
+library(tidyverse)
+library(vitae)
+library(lubridate)
+library(glue)
+library(rlang)
+```
+
+```{r loadData}
+
+# Education
+education <- read_csv("../data/education.csv",
+                      col_types = cols(
+                        begin = col_date("%m/%d/%y"),
+                        end = col_date("%m/%d/%y")
+                        )
+                      )
+
+# Job titles
+job.titles <- read_csv("../data/job-titles.csv",
+                      col_types = cols(
+                        begin = col_date("%m/%d/%y"),
+                        end = col_date("%m/%d/%y")
+                        )
+)
+
+# Job descriptions
+job.descriptions <- read_csv("../data/job-descriptions.csv")
+
+# Awards
+awards <- read_csv("../data/awards.csv")
+
+```
+
+# Education
+```{r}
+
+# Helper function from vitae
+`%missing%` <- function(x, y) {
+  if (rlang::is_missing(x)) y else x
+}
+
+# Helper function from vitae
+`%empty%` <- function(x, y) {
+  if (length(x) == 0) y else x
+}
+
+# Custom detailed entries function
+my_detailed_entries <- function (data, what, when, with, where, with2, why, 
+                                 .protect = TRUE) 
+{
+    edu_exprs <- list(
+      what = enexpr(what) %missing% NA, 
+      when = enexpr(when) %missing% NA,
+      with = enexpr(with) %missing% NA, 
+      where = enexpr(where) %missing% NA,
+      with2 = enexpr(with2) %missing% NA, 
+      why = enexpr(why) %missing% NA)
+    
+    data <- dplyr::group_by(data, !!!edu_exprs[-6])
+    out <- dplyr::distinct(data, !!!syms(names(edu_exprs)[-6]))
+    data <- dplyr::summarise(data, `:=`("why", vitae:::compact_list(!!edu_exprs[["why"]])))
+    out <- dplyr::left_join(out, data, by = names(edu_exprs[-6]))
+    structure(out, preserve = names(edu_exprs), protect = .protect, 
+        class = c("vitae_detailed2", "vitae_preserve", class(data)))
+}
+
+# Custom detailed entries print method
+knit_print.vitae_detailed2 <- function(x, options) {
+  x[is.na(x)] <- ""
+  
+  protect_tex_input <- vitae:::protect_tex_input
+  if(!(x%@%"protect")){
+    protect_tex_input <- identity
+  }
+
+  x <- dplyr::mutate(
+    x,
+    "why" := map_chr(!!sym("why"), function(x) {
+      glue_collapse(
+        glue("\\item{<<protect_tex_input(x)>>}", .open = "<<", .close = ">>")
+      ) %empty% "\\empty"
+    })
+  )
+
+  out <- glue_data(x,
+    "\\detaileditem{<<protect_tex_input(what)>>}{<<protect_tex_input(when)>>}{<<protect_tex_input(with)>>}{<<protect_tex_input(where)>>}{<<protect_tex_input(with2)>>}{<<why>>}",
+    .open = "<<", .close = ">>"
+  )
+
+  knitr::asis_output(glue("\\detailedsection{<<glue_collapse(out)>>}",
+    .open = "<<", .close = ">>"
+  ))
+}
+```
+
+```{r education, results = "asis"}
+
+# Merge joint PhD entries
+education2 <- education %>%
+  arrange(desc(end), begin) %>%
+  group_by(degree) %>%
+  mutate(where = if_else(
+  n() > 1,
+  as.character(glue(
+  "{nth(city, 1)}, {nth(region, 1)}, {nth(country,1)} and
+  {nth(city, 2)}, {nth(region, 2)}, {nth(country,2)}"
+  )),
+  as.character(glue("{nth(city, 1)}, {nth(region, 1)}, {nth(country,1)}")
+  ))) %>% 
+  ungroup()
+
+
+education2 %>%
+  filter(country != "France") %>% 
+  my_detailed_entries(
+    what = degree,
+    when = year(end),
+    with = university,
+    with2 = university2,
+    where = where,
+    .protect = T
+  )
+```
+
+# Experience
+
+```{r experience}
+job.titles %>% 
+  # Only jobs that ended less than 5 years ago
+  filter(is.na(end) | interval(end, Sys.Date())/years(1) <= 10) %>%
+  # Join job descriptions
+  left_join(job.descriptions) %>% 
+  # Arrange by descending begin date
+  arrange(desc(begin), descId) %>% 
+  # Format as detailed entries
+  my_detailed_entries(
+    what = position,
+    when = as.character(
+      glue("{month(begin, label = TRUE, abbr = TRUE)} {year(begin)} - 
+           {if_else(!is.na(end), 
+           paste(month(end, label = TRUE, abbr = TRUE), year(end)), 'present')}")),
+    with = employer,
+    where = glue("{city}, {region}, {country}"),
+    why = accomplishments)
+
+```
+
+
+```{r awards, eval = FALSE}
+
+awards %>% 
+  filter(grepl("BMES|Knox|AIAA", title)) %>%
+  brief_entries(
+    what = title,
+    when = year)
+```
+
+
+# Select Publications
+
+```{r pubSetup}
+posters <- c("price_design_2012", "price_effects_2012")
+software <- c("price_tvdiff_2019")
+```
+
+```{r selectPubs}
+bibliography_entries("publications.bib") %>%
+  filter(key %in% c("balesdent_advanced_2016",
+                    "chaudhuri_nasa_2015")) %>% 
+  arrange(desc(year), author)
+```
+
+```{r software, eval = FALSE}
+bibliography_entries("publications.bib") %>%
+  filter(key %in% software) %>%
+  arrange(desc(year), author)
+```
+
+```{r, eval = FALSE}
+job.titles %>% 
+  # Jobs that ended more than 5 years ago
+  filter(interval(end, Sys.Date())/years(1) > 5) %>%
+  # Arrange by descending begin date
+  arrange(desc(begin)) %>% 
+  # Format as brief entries
+  brief_entries(
+    what = glue("{position}, {employer}, {city}, {region}, {country}"),
+    when = as.character(
+      glue("{year(begin)} - {if_else(!is.na(end), as.character(year(end)), 'present')}")))
+
+```

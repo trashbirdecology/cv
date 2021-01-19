@@ -30,14 +30,14 @@ a template by Steven Miller (http://svmiller.com/blog/2016/03/svm-r-markdown-cv/
 
 <!-- # Example -->
 <!-- ```{r} -->
-<!-- # Job titles -->
-<!-- job.titles <- read_csv("data/job-titles.csv", -->
-<!--                       locale = locale(encoding = 'ISO-8859-1'), -->
-<!--                       col_types = cols( -->
-<!--                         begin = col_date("%m/%d/%y"), -->
-<!--                         end = col_date("%m/%d/%y") -->
-<!--                         ) -->
-<!-- ) -->
+# Job titles
+job.titles <- read_csv("data/job-titles.csv",
+                      locale = locale(encoding = 'ISO-8859-1'),
+                      col_types = cols(
+                        begin = col_date("%m/%d/%y"),
+                        end = col_date("%m/%d/%y")
+                        )
+)
 
 <!-- # Job descriptions -->
 <!-- job.descriptions <- read_csv("data/job-descriptions.csv", -->
