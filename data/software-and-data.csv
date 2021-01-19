@@ -1,0 +1,8 @@
+﻿title,subtitle,lifecycle,maintainer,authors,type,type2,year,link,description,languages,doi
+abruptdata,An R package and information repository for ecological datasets exhibiting abrupt change,experimental,TRUE,"Burnett, J L, X Benito, K Braziunas, T Spanbauer",software,data package,in prep,,,R,
+USAvian,An interactive mapfor connecting and visuaiizing the bird conseration and management networks in the US,experimental,TRUE,"Burnett, J L",software,data synthesis,in prep,github.com/trashbirdecology/usavian,,R,
+regimeDetectionMeasures,A R package for calculating univariate and multivariate regime detection methods using community time series,archived,TRUE,"Burnett, J L, N B Price",software,,in prep,,,,
+tvdiff,"An R package for numerical differentiation of noisy, non-smooth data",maturing,FALSE,"Price, N B, J L Burnett, C Chizinski",software,,in prep,github.com/natbprice/tvdiff,,R,
+distanceTravelled,An R package for calculating the distance travelled by a multispecies community time series,archived,TRUE,"Burnett, J L, N B Price, A J Tyre",software,,,github.com/trashbirdecology/distancetravelled,,R,
+radsets,"An R package for interactive, network-based visualizations of overlapping sets.",maturing,TRUE,"Price, N B, C Chizinski, J L Burnett",software,,in prep,,,R,
+bbsAssistant,"An R package for interactive, network-based visualizations of overlapping sets.",stable,TRUE,"Burnett, J L, L S Wszola, G Palomo-Munoz",software,,in prep,,,R,https://doi.org/10.5066/P93W0EAW
