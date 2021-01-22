@@ -260,7 +260,7 @@ Bulletin*
 
 1.  Wee, B., **J.L. Burnett**, S. Aulenbach, W. Teng, R.A. Modeling data
     and information needs for avian conservation using Neo4j. Earth
-    Science Information Partners Lab 
+    Science Information Partners Lab $3388
 2.  Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. **2020**.
     Creating a unified approach to evaluate regime shift detection
     methods. Canadian Institution for Ecology and Evolution (CIEE)
