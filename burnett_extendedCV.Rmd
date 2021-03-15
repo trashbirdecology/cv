@@ -354,7 +354,7 @@ France, 2017
 - Advisory committee member for the Fish and Wildlife Service Avian Knowledge Network (AKN) 
 - Member, Communications and Marketing Committee for the North American Breeding Bird Survey 2020 Action Plan
 
-## Peer Review Activitiy  
+## Peer Review Activity  
 - Department of Interior: [Abstracts (2), Research Articles (1), Software/code (1), Reports (1)]
 - Code and software: *Journal of Open Source Software* (3), *ReScience* (1)
 - Scientific manuscripts: *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological Informatics* (4) *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *Landscape and Urban Planning* (1 pending), *PLOS One* (1), *Wilson Journal of Ornithology* (3)
