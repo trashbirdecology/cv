@@ -378,6 +378,8 @@ France, 2017
 
 <!-- - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16   -->
 
+<!-- # Miscellaneous -->
+<!-- - Abstract reviewer for ESA 2021 conferene -->
 # Reports  
 <!-- ## White Papers   -->
 1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher Information. Strategic Environmental Research and Development Program (SERDP RC 25-10), Department of Defense.  
