@@ -119,8 +119,16 @@ Neighborhood Nestwatch Program, Florida
 # Publications
 
 1.  Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner,
-    and L. Hsu (in review at *Natural Resource Modeling*). Paths to
-    computational fluency for natural resource managers and researchers.
+    and L. Hsu (2021). Paths to computational fluency for natural
+    resource educators, researchers, and managers. *Natural Resource
+    Modeling*
+    <!-- \item \textbf{Erickson RA}, Burnett JL, Wiltermuth MT, Bulliner EA, -->
+    <!--   Hsu L. Paths to computational fluency for natural resource -->
+    <!--   educators, researchers, and managers. \textit{Invited Perspective to} -->
+    <!--   \textbf{Natrual Resource Modeling}. \\ -->
+    <!--   IP-124147, BAO Signed  03/17/2021\\ -->
+    <!--   Concept: 750\%; Data: 0\%; Interpretation: 75\%; Writing: 75\%\\ -->
+    <!--   \label{PathComFlu} -->
 
 2.  **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019.
     bbsAssistant: An R package for downloading and handling data and
@@ -572,7 +580,7 @@ Bulletin*
   - Member, Communications and Marketing Committee for the North
     American Breeding Bird Survey 2020 Action Plan
 
-## Peer Review Activitiy
+## Peer Review Activity
 
   - Department of Interior: \[Abstracts (2), Research Articles (1),
     Software/code (1), Reports (1)\]
@@ -617,6 +625,10 @@ Bulletin*
 <!-- - Ecological Society of America   \hfill 2014 -->
 
 <!-- - Student liaison, [Urban Ecosystem Ecology Section](http://www.esa.org/urbanecology/), Ecological Society of America \hfill 2015 - 16   -->
+
+<!-- # Miscellaneous -->
+
+<!-- - Abstract reviewer for ESA 2021 conferene -->
 
 # Reports
 

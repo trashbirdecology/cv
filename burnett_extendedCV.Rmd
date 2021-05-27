@@ -129,7 +129,14 @@ Neighborhood Nestwatch Program, Florida
 - Created outreach materials
 
 # Publications 
-1. Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner, and L. Hsu (in review at _Natural Resource Modeling_). Paths to computational fluency for natural resource managers and researchers. 
+1. Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner, and L. Hsu (2021). Paths to computational fluency for natural resource educators, researchers, and managers. _Natural Resource Modeling_
+<!-- \item \textbf{Erickson RA}, Burnett JL, Wiltermuth MT, Bulliner EA, -->
+<!--   Hsu L. Paths to computational fluency for natural resource -->
+<!--   educators, researchers, and managers. \textit{Invited Perspective to} -->
+<!--   \textbf{Natrual Resource Modeling}. \\ -->
+<!--   IP-124147, BAO Signed  03/17/2021\\ -->
+<!--   Concept: 750\%; Data: 0\%; Interpretation: 75\%; Writing: 75\%\\ -->
+<!--   \label{PathComFlu} -->
 
 1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019. bbsAssistant: An R package for downloading and handling data and information from the North American Breeding Bird Survey. Journal of Open Source Software, 4(44), 1768, DOI: [10.21105/joss.01768](https://doi.org/10.21105/joss.01768)
 
