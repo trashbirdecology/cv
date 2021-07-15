@@ -1,3 +1,15 @@
+# Skills Highlight
+
+  - Applied statistics
+  - Ecoinformatics
+  - Ecological modeling
+  - Reproducibility and open science
+    <!-- - Avian ecology and conservation -->
+    <!-- - Invasion ecology --> \# Programming Languages
+  - *Advanced*: R, LaTeX, HTML
+  - *Proficient*: Cypher
+  - *Basic*: Python
+
 # Education
 
 **Ph.D.** Natural Resource Sciences University of Nebrsaka-Lincoln
@@ -29,16 +41,6 @@
 <!-- - Internship with the Florida Wildlife Research Institute (GIS analyst) -->
 
 <!-- **A.A. Valencia Community College** \hfill 2008 - 10 -->
-
-# Skills Highlight
-
-  - Applied statistics
-  - Ecoinformatics
-  - Ecological modeling
-  - Reproducibility and open science
-    <!-- - Avian ecology and conservation -->
-    <!-- - Invasion ecology -->
-    <!-- - Languages: English, R, LaTeX, HTML -->
 
 # Professional Experience
 
@@ -122,13 +124,7 @@ Neighborhood Nestwatch Program, Florida
     and L. Hsu (2021). Paths to computational fluency for natural
     resource educators, researchers, and managers. *Natural Resource
     Modeling*
-    <!-- \item \textbf{Erickson RA}, Burnett JL, Wiltermuth MT, Bulliner EA, -->
-    <!--   Hsu L. Paths to computational fluency for natural resource -->
-    <!--   educators, researchers, and managers. \textit{Invited Perspective to} -->
-    <!--   \textbf{Natrual Resource Modeling}. \\ -->
-    <!--   IP-124147, BAO Signed  03/17/2021\\ -->
-    <!--   Concept: 750\%; Data: 0\%; Interpretation: 75\%; Writing: 75\%\\ -->
-    <!--   \label{PathComFlu} -->
+    [DOI: 10.1111/nrm.12318](https://onlinelibrary.wiley.com/doi/10.1111/nrm.12318?af=R)
 
 2.  **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019.
     bbsAssistant: An R package for downloading and handling data and
