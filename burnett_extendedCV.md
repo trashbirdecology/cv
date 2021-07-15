@@ -5,7 +5,10 @@
   - Ecological modeling
   - Reproducibility and open science
     <!-- - Avian ecology and conservation -->
-    <!-- - Invasion ecology --> \# Programming Languages
+    <!-- - Invasion ecology -->
+
+# Programming Languages
+
   - *Advanced*: R, LaTeX, HTML
   - *Proficient*: Cypher
   - *Basic*: Python
