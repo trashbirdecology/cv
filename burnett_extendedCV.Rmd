@@ -24,18 +24,20 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue(munsell)
 linkcolor: maroon
+linkedin: burnettjl
+jobtitle: Research Ecologist
 ---
-# Skills Highlight
-- Applied statistics
+# Research Interests and Expertise
 - Ecoinformatics
-- Ecological modeling
 - Reproducibility and open science
+- Applied statistics
+- Knowledge management
 <!-- - Avian ecology and conservation -->
 <!-- - Invasion ecology -->
 
 # Programming Languages
-- *Advanced*: R, LaTeX, HTML
-- *Proficient*: Cypher
+- *Advanced*: R
+- *Proficient*: Cypher, LaTeX, HTML
 - *Basic*: Python 
 
 # Education
@@ -65,24 +67,25 @@ linkcolor: maroon
 
 
 # Professional Experience
-**Research Ecologist & Mendenhall Postdoctoral Fellow**  \hfill September 2019 - present
+**Research Ecologist & Mendenhall Postdoctoral Fellow** (GS-12) \hfill September 2019 - present
 
 U.S. Geological Survey, Lakewood, Colorado, USA  
 
-- Co-produced knowledge management systems for North American bird conservation
-- Co-investigator of Earth Science Information Partners research grant
-- Invited seminar presentation at University of Florida
+<!-- - Develop knowledge management systems for North American bird conservation -->
+<!-- - Performance award, FY21 -->
+<!-- - Co-investigator, Earth Science Information Partners research grant -->
+<!-- - Invited seminar presentation at University of Florida -->
 
-**Graduate Research Assistant**   \hfill August 2015 - August 2019  
+**Graduate Research Assistant**  \hfill August 2015 - August 2019  
 
 Nebraska Cooperative Fish & Wildlife Research Unit    
 University of Nebraska-Lincoln, Nebraska, USA  
 
-- Advanced statistical methods for identifying abrupt change in ecological communities
-- Authored and maintained 5 scientific software packages:
-- Invited talk at Association for Women in Math Biology annual symposium
-- Published 8 peer-reviewed scientific articles and 1 invited book chapter
-- Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative
+<!-- - Advanced statistical methods for identifying abrupt change in ecological communities -->
+<!-- - Authored and maintained 5 scientific software packages: -->
+<!-- - Invited talk at Association for Women in Math Biology annual symposium -->
+<!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
+<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
 <!-- - Developed five software packages for statistical analyses of empirical and simulated ecological data -->
 <!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)   -->
 <!--     - [`bbsAssistant`](http://github.com/trashbirdecology/bbsAssistant): An R package containing helper functions for downloading and munging data and metadata from the North American Breeding Bird Survey FTP -->
@@ -99,8 +102,8 @@ University of Nebraska-Lincoln, Nebraska, USA
 Applied Systems Analysis Research Group  
 International Institute for Applied Systems Analysis, Austria
 
-- Conducted dissertation research with applied mathematician and systems scientists
-- Presented research in an international forum
+<!-- - Conducted dissertation research with applied mathematician and systems scientists -->
+<!-- - Presented research in an international forum -->
 <!-- - Organized seminar on Network Analysis in Ecology -->
 <!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
 
@@ -108,35 +111,37 @@ International Institute for Applied Systems Analysis, Austria
 Department of Wildlife Ecology & Conservation   
 University of Florida, Florida, USA
 
-- Published 2 peer-reviewed scientific articles
-- Invited lectures in data analysis and avian ecology
+<!-- - Published 2 peer-reviewed scientific articles -->
+<!-- - Invited lectures in data analysis and avian ecology -->
 
 **Geospatial Analyst Intern**  \hfill April 2012 -  August 2012  
 Florida Fish and Wildlife Research Institute
 
-- Data ground-truthing
-- Geospatial analysis of bird nest locations and success
+<!-- - Data ground-truthing -->
+<!-- - Geospatial analysis of bird nest locations and success -->
 <!-- - Monitored Eastern Screech-Owl nests -->
 
 **Research Assistant**  \hfill January 2011 -  April 2012    
 Avian Ecology and Conservation Lab, University of Florida
 
-- Managed bird banding database
-- Avian behavioral field research
+<!-- - Managed bird banding database -->
+<!-- - Avian behavioral field research -->
 
 **Crew Leader and Smithsonian Fellow**  \hfill 2011 & 2013   
 Neighborhood Nestwatch Program, Florida
 
-- Trained and led team of banding technicians
-- Managed bird banding database
-- Recruited and trained participatory scientists
-- Created outreach materials
+<!-- - Trained and led team of banding technicians -->
+<!-- - Managed bird banding database -->
+<!-- - Recruited and trained participatory scientists -->
+<!-- - Created outreach materials -->
 
 # Publications 
+1. **J.L. Burnett**, R Dale, C.Y. Hou, G. Palomo-Muñoz, K.S. Whitney, S. Aulenbach, R.S. Bristol, D. Valle, and T. Wellman (*minor revisions*). Ten Simple Rules for Creating a Scientific Web Application.  _PLoS Computational Biology_
+
 1. Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner, and L. Hsu (2021). Paths to computational fluency for natural resource educators, researchers, and managers. _Natural Resource Modeling_ [DOI: 10.1111/nrm.12318](https://onlinelibrary.wiley.com/doi/10.1111/nrm.12318?af=R)
 
 
-1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Munoz. 2019. bbsAssistant: An R package for downloading and handling data and information from the North American Breeding Bird Survey. Journal of Open Source Software, 4(44), 1768, DOI: [10.21105/joss.01768](https://doi.org/10.21105/joss.01768)
+1. **Burnett, J.L.**, L.S. Wszola, and G. Palomo-Muñoz. 2019. bbsAssistant: An R package for downloading and handling data and information from the North American Breeding Bird Survey. Journal of Open Source Software, 4(44), 1768, DOI: [10.21105/joss.01768](https://doi.org/10.21105/joss.01768)
 
 1. Donovan, V.M., **J.L. Burnett**, C.H. Bielski, H.E. Birge, R. Bevans, D. Twidwell, and C.R. Allen. 2018. Social-ecological landscape patterns predict woody encroachment from native tree plantings in a temperate grassland *Ecology and Evolution* 8(19): 9624-9632 DOI:10.1002/ece3.4340
 
@@ -227,10 +232,10 @@ Neighborhood Nestwatch Program, Florida
 ### 2018  
 - [Meritorious Graduate Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp) award, School of Natural Resources, UNL \hfill __$500__
 - National Academy of Sciences research award  \hfill __$5,500__
-- Invited workshop participant, [Research Collaboration Workshop for Women in Mathematical Biology, NIMBIOS](http://www.nimbios.org/education/WS_wwmb)  \hfill __$900__
+- Invited Participant, [Workshop for Women in Mathematical Biology, NIMBIOS](http://www.nimbios.org/education/WS_wwmb)  \hfill __$900__
 - National Science Foundation & NimBios \hfill __$550__
-- Nelson Memorial Fellowship, University of Nebraska-Lincoln *(3x recipient, 2016, 17, 18)*  \hfill  __totaling $3,217__ 
-- Center for Great Plains Studies travel award, University of Nebraska-Lincoln *(4x recipient; 2015, 2016, 2017, 2018)*  \hfill __totaling $3,000__  
+- Nelson Memorial Fellowship, University of Nebraska-Lincoln *(3x recipient)*  \hfill  __totaling $3,217__ 
+- Center for Great Plains Studies travel award, University of Nebraska-Lincoln *(4x recipient)*  \hfill __totaling $3,000__  
 
 ### 2017  
 - Kellogg Biological Station, Michigan State University \hfill __$500__
@@ -356,23 +361,22 @@ France, 2017
 
 # Service 
 ## Department of Interior  
-- Advisory committee member for the Fish and Wildlife Service Avian Knowledge Network (AKN) 
+- Member, Federal Advisory Committee for Avian Knowledge Network (AKN)
 - Member, Communications and Marketing Committee for the North American Breeding Bird Survey 2020 Action Plan
 
 ## Peer Review Activity  
-- Department of Interior: [Abstracts (2), Research Articles (1), Software/code (1), Reports (1)]
+- Department of Interior: Abstracts (2), Research Articles (1), Software/code (1), Reports (2)
 - Code and software: *Journal of Open Source Software* (3), *ReScience* (1)
-- Scientific manuscripts: *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological Informatics* (4) *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *Landscape and Urban Planning* (1 pending), *PLOS One* (1), *Wilson Journal of Ornithology* (3)
+- Scientific manuscripts: *Bioinvasions Records* (1), *Conservation Biology* (1), *Ecological Informatics* (5), *Ecological Modelling* (4), *Journal of Molluscan Studies* (2), *Landscape and Urban Planning* (1), *PLOS One* (1), *Wilson Journal of Ornithology* (3)
 
-
-## University of Nebraska-Lincoln 
+## Other Selected Service
 - Co-founder, Natural Resources Diversity Initiative committee, School of Natural Resources \hfill 2017
 - Co-founder, [Institutional membership to the Association for Women in Science](http://news.unl.edu/newsrooms/today/article/university-is-institutional-partner-with-association-for-women-in-science/) \hfill 2016
-- [Faculty Advisory Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp), School of Natural Resources \hfill 2016-18 
-- Digital Team, School of Natural Resources \hfill 2016
-- Organizer, Association for Women in Science [Mentor Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop) \hfill 2016
-- [Seminar](http://unlcms.unl.edu/snr/gsa/snr-gsa-seminar-coordinators) Coordinator, School of Natural Resources  \hfill 2016
-- Department Representative, UNL Graduate Student Association  \hfill 2015 - 16
+- [Faculty Advisory Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp), School of Natural Resources \hfill 2016-18
+<!-- - Digital Team, School of Natural Resources \hfill 2016 -->
+<!-- - Organizer, Association for Women in Science [Mentor Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop) \hfill 2016 -->
+<!-- - [Seminar](http://unlcms.unl.edu/snr/gsa/snr-gsa-seminar-coordinators) Coordinator, School of Natural Resources  \hfill 2016 -->
+<!-- - Department Representative, UNL Graduate Student Association  \hfill 2015 - 16 -->
 
 <!-- # Professional Memberships (since)    -->
 <!-- - Association for Women in Mathematics  \hfill 2018 -->
@@ -402,3 +406,8 @@ France, 2017
 <!-- Structured Decision Making Workshop - Observers and Mentees \hfill 2020 November -->
  <!-- \hfill 2020 November -->
  
+
+# Notable Trainings and Certifications
+- Leadership and Management Skills for Non-managers, Management Concepts\hfill 2021 
+- Basic Wildland Firefighting (SF-1390, SF-190) \hfill 2014
+- Basic FirstAid (annual recertification) \hfill 2020

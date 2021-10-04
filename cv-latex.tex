@@ -252,15 +252,13 @@ $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
 $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
 \moveleft.5\hoffset\centerline{ 
 %github
-$if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\color{black} $github$} \hspace{1 mm} $endif$  
-%github
-% $if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{http://twitter.com/$twitter$}{\color{black} $twitter$} \hspace{1 mm} $endif$  
+$if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{https://github.com/$github$}{\color{black} $github$} \hspace{1 mm} $endif$  
 %phone
 $if(phone)$$if(fontawesome)$ \faMobile \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ 
 %email
 $if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\color{black} $email$} \hspace{1 mm}$endif$ 
 %website
-$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$ $if(updated)$ | \emph{Updated:} \today$endif$}
+$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{https://$web$}{\tt $web$}  $endif$ $if(updated)$ | \emph{Updated:} \today$endif$}
 
 
 \vspace{2 mm}
