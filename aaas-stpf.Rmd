@@ -57,7 +57,7 @@ May 2018 - September 2018
 - Developed novel method for detecting regime shifts in paleoecological data (system velocity). 
 - Conducted research with an international team of applied mathematicians and systems scientists. Presented research in an international forum.
 - Organized seminar on Network Analysis in Ecology. 
-- 1 of 32 scholars accepted from ~300 international applicants.
+- 1 of 51 scholars from 27 countries of ~400 applicants.
 
 
 **Graduate Teaching Assistant**, Department of Wildlife Ecology & Conservation, University of Florida, Florida, USA  
@@ -134,10 +134,10 @@ May - July 2012 & April - August 2013
 
 # Research Grants
 ## Funded 
-1. Wee, B., **J.L. Burnett**, S. Aulenbach, W. Teng, R.A. Modeling data and information needs for avian conservation using Neo4j. Earth Science Information Partners Lab \hfill **$3,388**
-1. Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. __2020__. Creating a unified approach to evaluate regime shift detection methods. Canadian Institution for Ecology and Evolution (CIEE)  \hfill __$12,400 CAD__
-1. **J.L. Burnett**. __2019-21__. Mendenhall Postdoctoral Research, Core Science Systems Science Analytics and Synthesis, U.S. Geological Survey.  \hfill __~$222,000__
-1. International Institute for Applied Systems Analysis (IIASA) [Young Scholar Summer Program](https://iiasa.ac.at/web/home/education/yssp/Young_Scientists_Summer_Program.html). __2018__. Funding sources: National Academy of Sciences and University of Nebraska-Lincoln. \hfill __~$12,500__
+1. Wee, B., **J.L. Burnett**, S. Aulenbach, W. Teng, R.A. Modeling data and information needs for avian conservation using Neo4j. Earth Science Information Partners Lab  (__$3,388__)
+1. Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. __2020__. Creating a unified approach to evaluate regime shift detection methods. Canadian Institution for Ecology and Evolution (CIEE)  (__$10,000__)
+1. **J.L. Burnett**. __2019-21__. Mendenhall Postdoctoral Research, Core Science Systems Science Analytics and Synthesis, U.S. Geological Survey. (__$222,000__)
+1. International Institute for Applied Systems Analysis (IIASA) [Young Scholar Summer Program](https://iiasa.ac.at/web/home/education/yssp/Young_Scientists_Summer_Program.html). __2018__. Funding sources: National Academy of Sciences and University of Nebraska-Lincoln.  (__$12,500__)
 
 ## Not Funded  
 1. Pedersen, E., **J.L. Burnett**, G. Simpson, C. Bahlai. Creating a unified approach to evaluate regime shift detection methods. Powell Center Synthesis Working Group, U.S. Geological Survey \hfill 2020  <!--__$166,642__  --> 
@@ -287,15 +287,14 @@ France, 2017
 1. **Burnett, J.L.** and Sieving, K.E. Perceived predation risks of small forest birds. *Association of Field Ornithologists Annual Conference*, Poster presentation. Venus, FL, 2013
 
 
-# Notable Trainings and Certifications
+# Certifications, Workshops, and Professional Development Training
 - Leadership and Management Skills for Non-managers, Management Concepts \hfill 2021 
 - Participant in year-long USGS Mentoring Program \hfill 2020-21 
-- USGS Principled Centered Leadership (USGS-PCL) \hfill 2020 November
-- Defining Alternative Solutions to a Problem \hfill 2020 November
-- Aligning Goals and Priorities to Manage Time \hfill 2020 November
-- Gauging Your Leadership Performance \hfill 2020 November
-- High Performance Computing in R and Python \hfill 2020 November
-- Structured Decision Making Workshop - Observers and Mentees \hfill 2020 November
-\hfill 2020 November
+- USGS Principled Centered Leadership (USGS-PCL) \hfill   2020
+- Defining Alternative Solutions to a Problem \hfill   2020
+- Aligning Goals and Priorities to Manage Time \hfill   2020
+- Gauging Your Leadership Performance \hfill 2020
+- High Performance Computing in R and Python \hfill 2020
+- Structured Decision Making Workshop (observer) \hfill 2020
 - Basic Wildland Firefighting (SF-1390, SF-190) \hfill 2014
  

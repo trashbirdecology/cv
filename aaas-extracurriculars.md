@@ -2,18 +2,18 @@
 
 ## Community Involvement
 
--   Letters to a Pre-scientist, United States -present
--   Skype a Scientist, United States -present
--   Secured a grant to develop on-site nature trail and wildlife viewing
-    opportunities at the Reichert House, Gainesville, FL -15
+-   Letters to a Pre-scientist, United States (2019-present)
+-   Skype a Scientist, United States (2017-present)
+-   Secured grant to develop on-site nature trail and wildlife viewing
+    opportunities at the Reichert House in Florida (2014-15)
 -   Organized hands-on wildlife handling events for students of the
-    Reichert House, Gainesville, FL -15
+    Reichert House, Gainesville, FL (2014-15)
 -   Birdwatching and live banding demonstrations for K-12 students, A
-    Girls’ Place, Gainesville, FL -15
+    Girls’ Place, Gainesville, FL (2013-15)
 -   Science, mathematics and reading tutor for middle and high school
-    students, Friends of the Micanopy Library, FL -13
+    students, Friends of the Micanopy Library, FL (2011-13)
 -   Learning assistant and tutor for mathematics students, Valencia
-    Community College, Orlando, FL -10
+    Community College, Orlando, FL (2008-10)
 
 ## Blogs
 
@@ -45,9 +45,12 @@
 
 ## Department of Interior
 
--   Member, Federal Advisory Committee for Avian Knowledge Network (AKN)
+-   Co-author, FEVS Analysis Team for Core Science Systems Science
+    Analytics and Synthesis orgazniation (2021)
+-   Member, Federal Advisory Committee for Avian Knowledge Network
+    (2019-present)
 -   Member, Communications and Marketing Committee for the North
-    American Breeding Bird Survey 2020 Action Plan
+    American Breeding Bird Survey 2020 Action Plan (2020-21)
 
 ## Peer Review Activity
 
@@ -62,20 +65,36 @@
 
 ## Service at the University of Nebraska-Lincoln
 
--   Conference abstract reviewer, Ecological Society of America
+-   Conference abstract reviewer, Ecological Society of America (2021
 -   Co-founder, Natural Resources Diversity Initiative committee, School
-    of Natural Resources
+    of Natural Resources (2017
+-   [Faculty Advisory
+    Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp),
+    School of Natural Resources (2016-18
+-   Student Representative, Committee for Urban Forestry Professor of
+    Practice Position, University of Nebraska-Lincoln (2016-17
 -   Co-founder, [Institutional membership to the Association for Women
     in
     Science](http://news.unl.edu/newsrooms/today/article/university-is-institutional-partner-with-association-for-women-in-science/)
--   [Faculty Advisory
-    Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp),
-    School of Natural Resources -18
--   Digital Team, School of Natural Resources
+    (2016
+-   Digital Team, School of Natural Resources (2016
 -   Organizer, Association for Women in Science [Mentor
     Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop)
--   Seminar Coordinator, School of Natural Resources
--   Department Representative, UNL Graduate Student Association  - 16
--   Student liaison, [Urban Ecosystem Ecology
+    (2016
+-   Seminar Coordinator, School of Natural Resources (2016
+-   Department Representative, UNL Graduate Student Association (2015 -
+    16
+-   Student Liaison, [Urban Ecosystem Ecology
     Section](http://www.esa.org/urbanecology/), Ecological Society of
-    America  - 16
+    America (2015 - 16
+
+## Service at the University of Florida
+
+-   Chair, Student Travel Grant Award Committee, Dept. of Wildlife
+    Ecology and Conservation (2012-13)
+-   Contributed feedback on applicants to 3 faculty positions in the
+    department, University of Florida (2012-13)
+-   Treasurer, Student Graduate Association, Dept. of Wildlife Ecology
+    and Conservation, (2011-13)
+-   Member, Natural Resources Diversity Initiative (2011-13)
+-   Member, EcoThinkTank Graduate Student Group (2011-13)
