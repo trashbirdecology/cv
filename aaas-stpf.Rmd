@@ -14,10 +14,9 @@ author: JESSICA L. BURNETT
 orcid:  0000-0002-0896-5099
 fontawesome: yes
 email: jburnett@usgs.gov
-github: trashbirdecology
-twitter: trashbirdecol
-phone: "+1 352 792 5425"
-updated: yes
+# github: trashbirdecology
+phone: "+1 720-730-0974"
+# updated: no
 keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -25,115 +24,71 @@ fontsize: 11pt
 urlcolor: blue(munsell)
 linkcolor: maroon
 linkedin: burnettjl
-jobtitle: Research Ecologist
+jobtitle: Research Ecologist & Mendenhall Postdoctoral Fellow
 ---
-# Research Interests and Expertise
-- Ecoinformatics
-- Reproducibility and open science
-- Applied statistics
-- Knowledge management
-<!-- - Avian ecology and conservation -->
-<!-- - Invasion ecology -->
-
-# Programming Languages
-- *Advanced*: R
-- *Proficient*: Cypher, LaTeX, HTML
-- *Basic*: Python 
-
 # Education
-**Ph.D.** Natural Resource Sciences  University of Nebraska-Lincoln \hfill 2019  
+**Ph.D.** Natural Resource Sciences (Applied Ecology), University of Nebraska-Lincoln \hfill 2019  
 **M.Sc.** Wildlife Ecology & Conservation, University of Florida \hfill 2015  
 **B.Sc.** Wildlife Ecology & Conservation University of Florida \hfill 2013  
 **A.A.** General studies Valencia Community College \hfill 2010
-<!-- **Ph.D., Natural Resource Sciences, Specialization Applied Ecology** \hfill 2015 - 19   -->
-<!-- School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka USA -->
 
-<!-- - Dissertation: Regime Detection Methods for the Practical Ecologist -->
-<!-- - Prestigious international research fellowship at International Institute for Applied Systems Analysis -->
-<!-- - Recipient of 2 university fellowships and departmental Meritorious Doctoral Student award  -->
+# Research Experience
+**Research Ecologist** (GS-12), U.S. Geological Survey, Lakewood, Colorado, USA   
+September 2019 - present  
 
-<!-- **M.Sc., Wildlife Ecology & Conservation** \hfill 2013 - 15   -->
-<!-- Department of Wildlife Ecology & Conservation, University of Florida, Florida USA -->
+- Developed knowledge graph for improving the provenance of U.S. bird conservation and management.
+- Developed framework for evaluating the users and uses of a USGS data program using informatics and social science methods. Made recmmendations to program administrations for improving value of agency's data assets to stakeholders.
+- Co-led grant application(funded) to Canadian Institute for Ecology and Evolution to fund a year-long working group. Developed software and database for analyzing environmental data for abrupt change and regime shifts.
+- Co-led grant application (funded) for Earth Science Information Partnership working group. Developed knowledge graph for data and information management for developing U.S. State Wildlife Action Plans.
+- Authored 2 peer-reviewed research articles, 1 federal agency report, and 3 R packages. 
 
-<!-- - Thesis: House Sparrow *(Passer domesticus)* decline and distribution in North America -->
+**Graduate Research Assistant**, Nebraska Cooperative Fish & Wildlife Research Unit, University of Nebraska-Lincoln, Nebraska 
+August 2015 - August 2019  
 
-<!-- **B.Sc. Wildlife Ecology & Conservation** \hfill 2010 - 13   -->
-<!-- Department of Wildlife Ecology & Conservation, University of Florida, Florida USA -->
+- Developed and evaluated statistical methods for detecting abrupt change in ecological and paleoecological communities.
+- Worked closely with Designed research projects to meet needs of land managers on U.S. military bases. 
+- Published 8 peer-reviewed research articles, 1 book chapter, 3 reports, and 5 R packages.
+- Developed and taught scientific programming to state wildlife agency practitioners and university students.  
+- Co-founder of the university's Chapter of the Association for Women in Science (AWIS). Worked closely with university administration to initiate institutional membership in AWIS. Organized mentoring workshop. 
 
-<!-- - Undergraduate research thesis published (avian playback methodology) --> 
-<!-- - Internship with the Florida Wildlife Research Institute (GIS analyst) -->  
+**Young Scholar**, Applied Systems Analysis Research Group, International Institute for Applied Systems Analysis (IIASA), Austria
+May 2018 - September 2018  
 
-<!-- **A.A. Valencia Community College** \hfill 2008 - 10 -->
+- Developed novel method for detecting regime shifts in paleoecological data (system velocity). 
+- Conducted research with an international team of applied mathematicians and systems scientists. Presented research in an international forum.
+- Organized seminar on Network Analysis in Ecology. 
 
-
-# Professional Experience
-**Research Ecologist & Mendenhall Postdoctoral Fellow** (GS-12) \hfill September 2019 - present
-
-U.S. Geological Survey, Lakewood, Colorado, USA  
-
-<!-- - Develop knowledge management systems for North American bird conservation -->
-<!-- - Performance award, FY21 -->
-<!-- - Co-investigator, Earth Science Information Partners research grant -->
-<!-- - Invited seminar presentation at University of Florida -->
-
-**Graduate Research Assistant**  \hfill August 2015 - August 2019  
-
-Nebraska Cooperative Fish & Wildlife Research Unit    
-University of Nebraska-Lincoln, Nebraska, USA  
-
-<!-- - Advanced statistical methods for identifying abrupt change in ecological communities -->
-<!-- - Authored and maintained 5 scientific software packages: -->
-<!-- - Invited talk at Association for Women in Math Biology annual symposium -->
-<!-- - Published 8 peer-reviewed scientific articles and 1 invited book chapter -->
-<!-- - Co-creator of the University's Association for Women in Science and the Natural Resources Diversity Initiative -->
-<!-- - Developed five software packages for statistical analyses of empirical and simulated ecological data -->
-<!-- - Co-organizer of half-day research symposium at national conference (North American Ornithological Conference)   -->
-<!--     - [`bbsAssistant`](http://github.com/trashbirdecology/bbsAssistant): An R package containing helper functions for downloading and munging data and metadata from the North American Breeding Bird Survey FTP -->
-<!--     - [`regimeDetectionMethods`](http://github.com/trashbirdecology/regimeDetectionMethods): An R package for calculating various regime detection measures -->
-<!--     - [`bbsRDM`](http://github.com/trashbirdecology/bbsRDM): An R package for calculating various regime detection measures using the North American Breeding Bird Survey data -->
-<!-- - Co-authored two R packages: -->
-<!--     - [`radsets`](https://github.com/natbprice/radsets): An R package for interactive, network-based visualizations of overlapping sets -->
-<!--     - [`TVdiff`](https://github.com/natbprice/tvdiff): An R package for implementing numerical differentiation of noisy, non-smooth data -->
-<!-- - Designed and instructed of workshops for managing and analyzing ecological data using Program R -->
-<!-- - Invited and hosted three departmental seminar guests -->
-
-**Young Scholar**    \hfill May 2018 - September 2018  
-
-Applied Systems Analysis Research Group  
-International Institute for Applied Systems Analysis, Austria
-
-<!-- - Conducted dissertation research with applied mathematician and systems scientists -->
-<!-- - Presented research in an international forum -->
-<!-- - Organized seminar on Network Analysis in Ecology -->
-<!-- - Research sabbatical advised by applied mathematician (E. Rovenskaya) and systems ecologist (B. Fath) -->
 
 **Graduate Teaching Assistant**   \hfill August 2013 - August 2015   
 Department of Wildlife Ecology & Conservation   
 University of Florida, Florida, USA
 
-<!-- - Published 2 peer-reviewed scientific articles -->
-<!-- - Invited lectures in data analysis and avian ecology -->
+- Taught population ecology, invasion ecology, and scientific programming to university students. 
+- Published 2 peer-reviewed scientific articles. 
+- Led grant application to develop nature trail and receive nature-based educational materials for a local, non-profit organized aimed to reduce recidivism among community youth. Organzied afterschool activities of hands-on wildlife interactions with youth. 
+
 
 **Geospatial Analyst Intern**  \hfill April 2012 -  August 2012  
 Florida Fish and Wildlife Research Institute
 
-<!-- - Data ground-truthing -->
-<!-- - Geospatial analysis of bird nest locations and success -->
-<!-- - Monitored Eastern Screech-Owl nests -->
+- Designed and completed geospatial analysis of raptor and owl nest locations and nesting success. 
+- Performed ground-truthing of habitat data. 
 
-**Research Assistant**  \hfill January 2011 -  April 2012    
-Avian Ecology and Conservation Lab, University of Florida
 
-<!-- - Managed bird banding database -->
-<!-- - Avian behavioral field research -->
+**Undergraduate Research Assistant**, Avian Ecology and Conservation Lab, University of Florida
+January 2011 -  April 2012    
 
-**Crew Leader and Smithsonian Fellow**  \hfill 2011 & 2013   
-Neighborhood Nestwatch Program, Florida
+- Developed and published field method for improved detection of Red-shouldered Hawk (*Buteo lineatus*).  
+- Managed laboratory's bird banding database. 
 
-<!-- - Trained and led team of banding technicians -->
-<!-- - Managed bird banding database -->
-<!-- - Recruited and trained participatory scientists -->
-<!-- - Created outreach materials -->
+**Crew Leader and Smithsonian Fellow**, Neighborhood Nestwatch Program, Gainesville, Florida
+May - July 2012 & April - August 2013   
+
+- Trained and led team of 3 bird banding technicians. 
+- Led community outreach programs for youth in state-sponsored afterschool and summer programs. 
+- Recruited and trained participatory scientists. 
+- Created and distributed outreach materials for program participants. 
+
 
 # Publications 
 1. **J.L. Burnett**, R Dale, C.Y. Hou, G. Palomo-Muñoz, K.S. Whitney, S. Aulenbach, R.S. Bristol, D. Valle, and T. Wellman (*minor revisions*). Ten Simple Rules for Creating a Scientific Web Application.  _PLoS Computational Biology_
@@ -220,6 +175,8 @@ Neighborhood Nestwatch Program, Florida
 1. **Burnett, J.L.** NSF Graduate Research Fellowship   \hfill 2013  
 
 # Fellowships, Honors & Awards
+- Performance award FY21
+
 ### 2020
 - Invited workshop participant, Future of Synthesis in Ecology, NCEAS
 
