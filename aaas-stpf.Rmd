@@ -37,7 +37,7 @@ jobtitle: Research Ecologist & Mendenhall Postdoctoral Fellow
 September 2019 - present   
 
 - Developed knowledge graph for improving the provenance of U.S. bird conservation and management.
-- Developed framework for evaluating the users and uses of a USGS data program using informatics and social science methods. Made recmmendations to program administrations for improving value of agency's data assets to stakeholders.
+- Developed framework for evaluating the users and uses of a USGS data program using informatics and social science methods. Made recommendations to program administrations for improving value of agency's data assets to stakeholders.
 - Co-led grant application(funded) to Canadian Institute for Ecology and Evolution to fund a year-long working group. Developed software and database for analyzing environmental data for abrupt change and regime shifts.
 - Co-led grant application (funded) for Earth Science Information Partnership working group. Developed knowledge graph for data and information management for developing U.S. State Wildlife Action Plans.
 - Authored 2 peer-reviewed research articles, 1 federal agency report, and 3 R packages. 
@@ -46,9 +46,9 @@ September 2019 - present
 August 2015 - August 2019  
 
 - Developed and evaluated statistical methods for detecting abrupt change in ecological and paleoecological communities.
-- Worked closely with Designed research projects to meet needs of land managers on U.S. military bases. 
+- Worked closely with U.S. military base land managers to meet research needs and communicate results. 
 - Published 7 peer-reviewed articles, 1 book chapter, 3 reports, and 5 software packages.
-- Developed and taught scientific programming to state wildlife agency practitioners and university students.
+- Co-developed and taught week-long scientific programming workshop to state wildlife agency practitioners and university students.
 - Co-founder of the university's Chapter of the Association for Women in Science (AWIS). Worked closely with university administration to initiate institutional membership in AWIS. Organized mentoring workshop. 
 
 **Young Scholar**, Applied Systems Analysis Research Group, International Institute for Applied Systems Analysis (IIASA), Austria  
@@ -65,7 +65,7 @@ August 2013 - August 2015
 
 - Taught population ecology, invasion ecology, and scientific programming to university students. 
 - Published 2 peer-reviewed scientific articles. 
-- Led grant application to develop nature trail and receive nature-based educational materials for a local, non-profit organized aimed to reduce recidivism among community youth. Organzied afterschool activities of hands-on wildlife interactions with youth. 
+- Led grant application to develop nature trail and receive nature-based educational materials for a local, non-profit organized aimed to reduce recidivism among community youth. Organized after school activities of hands-on wildlife interactions with youth. 
 
 
 **Geospatial Analyst Intern**, Florida Fish and Wildlife Research Institute, Gainesville, FL  
@@ -86,7 +86,7 @@ January 2011 -  April 2012
 May - July 2012 & April - August 2013   
 
 - Trained and led team of 3 bird banding technicians. 
-- Led community outreach programs for youth in state-sponsored afterschool and summer programs. 
+- Led community outreach programs for youth in state-sponsored after school and summer programs. 
 - Recruited and trained participatory scientists. 
 - Created and distributed outreach materials for program participants. 
 
