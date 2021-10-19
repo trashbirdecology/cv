@@ -93,7 +93,7 @@ May - July 2012 & April - August 2013
 
 # Publications 
 
-1. **J.L. Burnett**, R Dale, C.Y. Hou, G. Palomo-Muñoz, K.S. Whitney, S. Aulenbach, R.S. Bristol, D. Valle, and T. Wellman (*accepted with minor revisions, awaiting final agency approval*). Ten Simple Rules for Creating a Scientific Web Application.  _PLoS Computational Biology_
+1. **J.L. Burnett**, R. Dale, C.Y. Hou, G. Palomo-Muñoz, K.S. Whitney, S. Aulenbach, R.S. Bristol, D. Valle, and T. Wellman (*accepted*). Ten Simple Rules for Creating a Scientific Web Application.  _PLoS Computational Biology_
 
 1. Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner, and L. Hsu (2021). Paths to computational fluency for natural resource educators, researchers, and managers. _Natural Resource Modeling_ [DOI: 10.1111/nrm.12318](https://onlinelibrary.wiley.com/doi/10.1111/nrm.12318?af=R)
 
