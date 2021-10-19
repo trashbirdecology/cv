@@ -2,15 +2,15 @@
 
 ## Community Involvement
 
--   Letters to a Pre-scientist, United States (2019-present)
--   Skype a Scientist, United States (2017-present)
+-   Letters to a Pre-scientist (2018-present)
+-   Skype a Scientist, Virtual (2017-present)
 -   Secured grant to develop on-site nature trail and wildlife viewing
     opportunities at the Reichert House in Florida (2014-15)
 -   Organized hands-on wildlife handling events for students of the
     Reichert House, Gainesville, FL (2014-15)
--   Birdwatching and live banding demonstrations for K-12 students, A
-    Girls’ Place, Gainesville, FL (2013-15)
--   Science, mathematics and reading tutor for middle and high school
+-   Live bird banding demonstrations and bird watching activities for
+    K-12 students, A Girls’ Place, Gainesville, FL (2013-15)
+-   Science, mathematics, and reading tutor for middle and high school
     students, Friends of the Micanopy Library, FL (2011-13)
 -   Learning assistant and tutor for mathematics students, Valencia
     Community College, Orlando, FL (2008-10)
@@ -46,7 +46,7 @@
 ## Department of Interior
 
 -   Co-author, FEVS Analysis Team for Core Science Systems Science
-    Analytics and Synthesis orgazniation (2021)
+    Analytics and Synthesis (2021)
 -   Member, Federal Advisory Committee for Avian Knowledge Network
     (2019-present)
 -   Member, Communications and Marketing Committee for the North
