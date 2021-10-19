@@ -38,8 +38,8 @@ September 2019 - present
 
 - Developed knowledge graph for improving the provenance of U.S. bird conservation and management.
 - Developed framework for evaluating the users and uses of a USGS data program using informatics and social science methods. Made recommendations to program administrations for improving value of agency's data assets to stakeholders.
-- Co-led grant application(funded) to Canadian Institute for Ecology and Evolution to fund a year-long working group. Developed software and database for analyzing environmental data for abrupt change and regime shifts.
-- Co-led grant application (funded) for Earth Science Information Partnership working group. Developed knowledge graph for data and information management for developing U.S. State Wildlife Action Plans.
+- Co-led grant application (funded) to Canadian Institute for Ecology and Evolution to fund a year-long working group. Developed software and database for analyzing environmental data for abrupt change and regime shifts.
+- Co-led grant application (funded) for Earth Science Information Partnership working group. Developed knowledge graph for assisting with the documentation and development of U.S. State Wildlife Action Plans.
 - Authored 2 peer-reviewed research articles, 1 federal agency report, and 3 R packages. 
 
 **Graduate Research Assistant**, Nebraska Cooperative Fish & Wildlife Research Unit, University of Nebraska-Lincoln, Nebraska  
