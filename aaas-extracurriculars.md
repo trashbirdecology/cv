@@ -67,13 +67,12 @@
 -   [Faculty Advisory
     Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp),
     School of Natural Resources (2016-18)
--   Student Representative, Committee for Urban Forestry Professor of
-    Practice Position, University of Nebraska-Lincoln (2016-17
+-   Student Representative, Faculty search committee for Urban Forestry
+    position, University of Nebraska-Lincoln (2016-17)
 -   Co-founder, [Institutional membership to the Association for Women
     in
-    Science](http://news.unl.edu/newsrooms/today/article/university-is-institutional-partner-with-association-for-women-in-science/)
-    (2016
--   Digital Team, School of Natural Resources (2016
+    Science](http://news.unl.edu/newsrooms/today/article/university-is-institutional-partner-with-association-for-women-in-science/) (2016)
+-   Digital Team, School of Natural Resources (2016)
 -   Organizer, Association for Women in Science [Mentor
     Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop) (2016)
 -   Seminar Coordinator, School of Natural Resources (2016)
