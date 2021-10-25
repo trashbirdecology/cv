@@ -1,4 +1,4 @@
-# Outreach
+# STEM Outreach
 
 ## Community Involvement
 
@@ -21,24 +21,20 @@
     perspective](https://envirobites.org/2017/10/17/connecting-to-nature-and-understanding-ecosystem-services-the-urban-perspective/),
     Envirobites
 -   [Big data, big
-    problems](http://resilience2017.org/blog/big-data-big-problems/),
-    Resilience Alliance
+    problems](http://resilience2017.org/blog/big-data-big-problems/)
 -   [Panarchy in the
-    Anthropocene](http://resilience2017.org/blog/panarchy-in-the-anthropocene/),
-    Resilience Alliance - [Regime shifts, traps and how to deal with
-    them](http://resilience2017.org/blog/regime-shifts-traps-and-how-to-deal-with-them/),
-    Resilience Alliance
+    Anthropocene](http://resilience2017.org/blog/panarchy-in-the-anthropocene/) -
+    [Regime shifts, traps and how to deal with
+    them](http://resilience2017.org/blog/regime-shifts-traps-and-how-to-deal-with-them/)
 -   [Connecting to nature and understanding ecosystem services: the
     urban
-    perspective](http://resilience2017.org/blog/connecting-to-nature-and-understanding-ecosystem-services-the-urban-perspective/),
-    Resilience Alliance
+    perspective](http://resilience2017.org/blog/connecting-to-nature-and-understanding-ecosystem-services-the-urban-perspective/)
 -   [Leadership resilience and your
-    workplace](http://resilience2017.org/blog/leadership-resilience-and-your-workplace/),
-    Resilience Alliance
+    workplace](http://resilience2017.org/blog/leadership-resilience-and-your-workplace/)
 
-## Radio
+## Podcasts
 
--   [House Sparrow declines in North American, Urban Wildlife
+-   [House Sparrow declines in North America, Urban Wildlife
     Podcast](http://www.urbanwildlifecast.com/?p=139)
 
 # Service
@@ -55,22 +51,22 @@
 ## Peer Review Activity
 
 -   Journal articles: *Bioinvasions Records* (1), *Conservation Biology*
-    (1), *Ecological Informatics* (5), *Ecological Modelling* (4),
+    (1), *Ecological Informatics* (6), *Ecological Modelling* (4),
     *Journal of Molluscan Studies* (2), *Landscape and Urban Planning*
     (2), *PLOS One* (1), *Wilson Journal of Ornithology* (3)
 -   Code and software: *Journal of Open Source Software* (3),
     *ReScience* (1)
--   Department of Interior: Abstracts (2), Research Articles (1),
+-   Department of Interior: Abstracts (2), Research Articles (2),
     Software/code (1), Reports (2)
 
 ## Service at the University of Nebraska-Lincoln
 
--   Conference abstract reviewer, Ecological Society of America (2021
+-   Conference abstract reviewer, Ecological Society of America (2021)
 -   Co-founder, Natural Resources Diversity Initiative committee, School
-    of Natural Resources (2017
+    of Natural Resources (2017)
 -   [Faculty Advisory
     Committee](http://snr.unl.edu/employeeinfo/people/committee/facultyadvisory.asp),
-    School of Natural Resources (2016-18
+    School of Natural Resources (2016-18)
 -   Student Representative, Committee for Urban Forestry Professor of
     Practice Position, University of Nebraska-Lincoln (2016-17
 -   Co-founder, [Institutional membership to the Association for Women
@@ -79,14 +75,12 @@
     (2016
 -   Digital Team, School of Natural Resources (2016
 -   Organizer, Association for Women in Science [Mentor
-    Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop)
-    (2016
--   Seminar Coordinator, School of Natural Resources (2016
+    Workshop](http://snr.unl.edu/registration/AWISMentor/MentorMenteeRegistrationAttendanceCap.aspx?utm_source=Google&utm_medium=email&utm_term=&utm_content=&utm_campaign=AWIS+Workshop) (2016)
+-   Seminar Coordinator, School of Natural Resources (2016)
 -   Department Representative, UNL Graduate Student Association (2015 -
-    16
--   Student Liaison, [Urban Ecosystem Ecology
-    Section](http://www.esa.org/urbanecology/), Ecological Society of
-    America (2015 - 16
+    16)
+-   Student Liaison, Urban Ecosystem Ecology Section, Ecological Society
+    of America (2015 - 16)
 
 ## Service at the University of Florida
 
