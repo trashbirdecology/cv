@@ -9,7 +9,7 @@ knit: (function(inputFile, encoding) {
         rmarkdown::render(inputFile, encoding = encoding,
          output_format = "all") })
 geometry: margin=.7in
-title: "Extended CV"
+title: "Extracurriculars for AAAS"
 author: JESSICA L. BURNETT
 orcid:  0000-0002-0896-5099
 fontawesome: yes
