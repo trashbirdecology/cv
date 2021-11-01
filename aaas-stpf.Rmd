@@ -42,7 +42,7 @@ September 2019 - present
 - Co-led grant application (funded) for Earth Science Information Partnership working group. Developed knowledge graph for assisting with the documentation and development of U.S. State Wildlife Action Plans.
 - Authored 2 peer-reviewed research articles, 1 federal agency report, and 3 R packages. 
 
-**Graduate Research Assistant**, Nebraska Cooperative Fish & Wildlife Research Unit, University of Nebraska-Lincoln, Nebraska  
+**Graduate Research Assistant**, Nebraska Cooperative Fish & Wildlife Research Unit, University of Nebraska-Lincoln (UNL), Nebraska  
 August 2015 - August 2019  
 
 - Developed and evaluated statistical methods for detecting abrupt change in ecological and paleoecological communities.
@@ -127,9 +127,9 @@ May - July 2012 & April - August 2013
 1. **Burnett, J.L.** and M.P. Moulton. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172   
 
 
-## Lead authored, in review
+<!-- ## Lead authored, in review -->
 
-1. **Burnett, J.L.**, R. Wilcox, B. Stephen, D. Haak, D. Uden, C.R. Allen, and K. Pope. Shell strength does not limit predation of an invasive snail species (Bellamya chinensis) by native fish. *In review at Malacological Bulletin*
+<!-- 1. **Burnett, J.L.**, R. Wilcox, B. Stephen, D. Haak, D. Uden, C.R. Allen, and K. Pope. Shell strength does not limit predation of an invasive snail species (Bellamya chinensis) by native fish. *In review at Malacological Bulletin* -->
 
 
 # Research Grants
@@ -142,14 +142,14 @@ May - July 2012 & April - August 2013
 1. **Burnett, J.L.** __2013__. Ordway-Swisher Biological Station Undergraduate Research Grant, University of Florida. (__$550__)
 
 
-## Not Funded  
-1. Pedersen, E., **Burnett, J.L.**, G. Simpson, C. Bahlai. Creating a unified approach to evaluate regime shift detection methods. Powell Center Synthesis Working Group, U.S. Geological Survey \hfill 2020  <!--__$166,642__  --> 
-1. Informing the design and deployment of a conservation tool, USAvian: learning through co-production, synthesizing lessons learned. Community for Data Integration, U.S. Geological Survey \hfill 2020 <!--  __$70,539__  -->
-1. Benito, X., C. Bahlai, **J.L., Burnett**, E. Pedersen, and G. Simpson. SESYNC working group proposal.  \hfill  2019  
-1. **Burnett, J.L.**. Population Biology Program of Excellence (PoE) Postdoctoral Fellowship, University of Nebraska-Lincoln \hfill 2018  
-1. **Burnett, J.L.**, C.R. Allen, G. Sugihara, and H. Ye. Scale mismatches in ecological research and management: consequences and solutions through data management. Powell Center Synthesis Working Group, U.S. Geological Survey   \hfill 2018  
-1. **Burnett, J.L.** Mozilla Fellowship for Science \hfill 2016  
-1. **Burnett, J.L.** NSF Graduate Research Fellowship   \hfill 2012, 2013  
+<!-- ## Not Funded   -->
+<!-- 1. Pedersen, E., **Burnett, J.L.**, G. Simpson, C. Bahlai. Creating a unified approach to evaluate regime shift detection methods. Powell Center Synthesis Working Group, U.S. Geological Survey \hfill 2020  <!--__$166,642__  -->  
+<!-- 1. Informing the design and deployment of a conservation tool, USAvian: learning through co-production, synthesizing lessons learned. Community for Data Integration, U.S. Geological Survey \hfill 2020 <!--  __$70,539__  --> 
+<!-- 1. Benito, X., C. Bahlai, **J.L., Burnett**, E. Pedersen, and G. Simpson. SESYNC working group proposal.  \hfill  2019   -->
+<!-- 1. **Burnett, J.L.**. Population Biology Program of Excellence (PoE) Postdoctoral Fellowship, University of Nebraska-Lincoln \hfill 2018   -->
+<!-- 1. **Burnett, J.L.**, C.R. Allen, G. Sugihara, and H. Ye. Scale mismatches in ecological research and management: consequences and solutions through data management. Powell Center Synthesis Working Group, U.S. Geological Survey   \hfill 2018   -->
+<!-- 1. **Burnett, J.L.** Mozilla Fellowship for Science \hfill 2016   -->
+<!-- 1. **Burnett, J.L.** NSF Graduate Research Fellowship   \hfill 2012, 2013   -->
 
 # Scientific Software and Source Code 
 ### Lifecycle: maturing, stable
@@ -166,52 +166,36 @@ May - July 2012 & April - August 2013
 ### Lifecycle: dormant
 1. **Burnett, J.L.**, N.B. Price. [`regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimedetectionmeasures). An R package for calculating univariate and multivariate regime detection methods using community time series.  
 
-# Honors & Awards
-### 2021
-- USGS FY2021 Performance Award
-- Invited focus group participant, NSF Missing Millions
-
-### 2020
-- Invited workshop participant, Future of Synthesis in Ecology, NCEAS
-
-### 2019  
-- School of Natural Resources, University of Nebraska-Lincoln \hfill __$750__
-- University of Nebraska Graduate Travel Fund                 \hfill __$750__
-- Association for Women in Mathematical Biology               \hfill __$650__
-- School of Natural Resources, University of Nebraska-Lincoln \hfill __$1050__
-
-### 2018  
-- [Meritorious Graduate Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp) award, School of Natural Resources, UNL \hfill __$500__
-- National Academy of Sciences research award  \hfill __$5,500__
-- Invited Participant, [Workshop for Women in Mathematical Biology, NIMBIOS](http://www.nimbios.org/education/WS_wwmb)  \hfill __$900__
-- National Science Foundation & NimBios \hfill __$550__
-- Nelson Memorial Fellowship, University of Nebraska-Lincoln *(3x recipient)*  \hfill  __totaling $3,217__ 
-- Center for Great Plains Studies, University of Nebraska-Lincoln *(3x recipient)* \hfill __totaling $3,000__  
-
-### 2017  
-- Kellogg Biological Station, Michigan State University \hfill __$500__
-- Big Ten Academic Alliance Traveling Scholar
-
-### 2016  
-- 2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition \hfill __$300__ 
-- American Ornithologists' Union travel award  \hfill __$250__ 
-- Fling Fellow, University of Nebraska-Lincoln  \hfill __$20,000__ 
-- Othmer Fellow (1 university recipient annually), University of Nebraska-Lincoln  \hfill __$24,000__ 
-- AAAS/Science Program for Excellence in Science Award
-- Graduate Fellow, Center for Great Plains Studies, University of Nebraska 
-
-### 2015
+# Select Honors & Awards
+- USGS FY2021 Performance Award (2021)
+- Invited focus group participant, NSF Missing Millions (2021)
+- USGS FY2020 Performance Award (2020)
+- Invited workshop participant, Future of Synthesis in Ecology, NCEAS (2020)
+<!-- - School of Natural Resources, UNL (2019) \hfill __$750__ -->
+<!-- - University of Nebraska Graduate Travel Fund (2019)                \hfill __$750__ -->
+<!-- - Association for Women in Mathematical Biology (2019)               \hfill __$650__ -->
+<!-- - School of Natural Resources travel award, UNL (2019) \hfill __$1050__ -->
+- [Meritorious Graduate Student](http://snr.unl.edu/aboutus/what/awardscomplete.asp) award, School of Natural Resources, UNL (2018) \hfill __$500__
+- National Academy of Sciences research award  (2018) \hfill __$5,500__
+- Invited Participant, [Workshop for Women in Mathematical Biology, NIMBIOS](http://www.nimbios.org/education/WS_wwmb) (2018) \hfill __$900__
+<!-- - National Science Foundation & NimBios (2018) \hfill __$550__ -->
+<!-- - Center for Great Plains Studies, UNL *(3x recipient)* (2017-18) \hfill __totaling $3,000__  -->
+<!-- - Kellogg Biological Station, Michigan State University (2017) \hfill __$500__ -->
+- Big Ten Academic Alliance Traveling Scholar (2017)
+<!-- - Nelson Memorial Fellowship, UNL *(3x recipient)* (2016-18) \hfill  __totaling $3,217__  -->
+<!-- - 2<sup>nd</sup> place, School of Natural Resources Elevator Speech Competition (2016) \hfill __$300__  -->
+<!-- - American Ornithologists' Union travel award (2016)  \hfill __$250__  -->
+- Fling Fellow, UNL (2016)  \hfill __$20,000__ 
+- Othmer Fellow (1 university-wide recipient annually), UNL (2016) \hfill __$24,000__ 
+<!-- - AAAS/Science Program for Excellence in Science Award (2016) -->
+- Graduate Fellow, Center for Great Plains Studies,UNL (2016)
 - Resilience Alliance Young Scholar, The Resilience Alliance (2015-2017) \hfill
-- NSF Diversity Travel Award, Southeastern Ecology and Evolution Conference \hfill __$650__
-- Graduate Student Council travel award, University of Florida \hfill __$350__
-- Office of Research, University of Florida  \hfill __$350__
-
-### 2014
-- Department of Wildlife Ecology & Conservation travel award, University of Florida *(2x recipient)*   \hfill __$500__
-
-### 2013
-- Office of the Dean, Institute of Food and Agricultural Sciences, University of Florida  \hfill __$750__
-- American Ornithologists' Union Undergraduate Student Membership Award \hfill 
+<!-- - NSF Diversity Travel Award, Southeastern Ecology and Evolution Conference (2015) \hfill __$650__ -->
+<!-- - Graduate Student Council travel award, University of Florida (2015) \hfill __$350__ -->
+<!-- - Office of Research, University of Florida (2015)  \hfill __$350__ -->
+<!-- - Department of Wildlife Ecology & Conservation travel award, University of Florida *(2x recipient)* (2014)   \hfill __$500__ -->
+<!-- - Office of the Dean, Institute of Food and Agricultural Sciences, University of Florida (2013) \hfill __$750__ -->
+<!-- - American Ornithologists' Union Undergraduate Student Membership Award (2013) \hfill  -->
 
 <!-- # Teaching   -->
 <!-- ## Course Development -->
@@ -238,54 +222,53 @@ May - July 2012 & April - August 2013
 <!-- **Guest Lecturer** Wetland birds module, Florida Master Naturalist \hfill 2013   -->
 <!-- - Designed and taught module on wetland bird identification and ecology -->
 
-# Organized Sessions & Symposia  
-1. Using the integrated modelling framework to bridge science and decision making: advances, applications, and opportunities. Co-organizer with J.A. Royle. Ecological Society of America conference \hfill 2020
-1. Bridging the gap between science and decision-making through the rapid prototyping of decision support tools. Co-organizer with D. Valle and L.S. Wszola. Ecological Society of America conference \hfill 2020
-1. Opportunities and Challenges in Big Data Ornithology. Co-organizer with F.A. LaSorte and C.A. Lepczyk. North American Ornithological Conference V, Washington, D.C. \hfill 2016
+# Conference Symposia and Special Session Organizer  
+1. Using the integrated modelling framework to bridge science and decision making: advances, applications, and opportunities. Co-organizer with J.A. Royle. Ecological Society of America conference (2020)
+1. Bridging the gap between science and decision-making through the rapid prototyping of decision support tools. Co-organizer with D. Valle and L.S. Wszola. Ecological Society of America conference (2020)
+1. Opportunities and Challenges in Big Data Ornithology. Co-organizer with F.A. LaSorte and C.A. Lepczyk. North American Ornithological Conference V, Washington, D.C. (2016)
 
-# Presentations (primary author)  
+# Select Presentations (last 5 years)
 ## Invited 
-1. Integrating data and information to enhance the digital efficiency of wildlife conservation and management. North American Ornithological Conference \hfill 2020
+1. Integrating data and information to enhance the digital efficiency of wildlife conservation and management. North American Ornithological Conference  (2020)
 
-1. Invited Seminar Speaker, Regime Detection Measures for the Practical Ecologist, Department of Wildlife Ecology & Conservation, University of Florida \hfill 2019
+1. Invited Seminar Speaker, Regime Detection Measures for the Practical Ecologist, Department of Wildlife Ecology & Conservation, University of Florida (2019)
 
-1. Detecting abrupt change in bird community time series using distance traveled. *Association for Women in Math Biology Symposium*, Special session "Current Challenges in Mathematical Biology ", Houston, TX  \hfill 2019
+1. Detecting abrupt change in bird community time series using distance traveled. *Association for Women in Math Biology Symposium*, Special session "Current Challenges in Mathematical Biology ", Houston, TX  (2019)
 
-1. Decline of the Once-Ubiquitous House Sparrow in North America. *Nebraska Invasive Species Council*, Lincoln, NE  \hfill 2015     
+<!-- 1. Decline of the Once-Ubiquitous House Sparrow in North America. *Nebraska Invasive Species Council*, Lincoln, NE  (2015)      -->
 
 ## Contributed
-1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. A novel method for tracking ecosystem trajectory and abrupt change in space-time: distance traveled. *International Association for Landscape Ecology*, Oral presentation. Fort Collins, CO, 2019
+1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. A novel method for tracking ecosystem trajectory and abrupt change in space-time: distance traveled. *International Association for Landscape Ecology*, Oral presentation. Fort Collins, CO (2019)
 
-1. **Burnett, J.L.**, R. Crystal-Ornelas, D. Fogarty, K. Hogan, C.R. Allen, M. Bomberger Brown, D. Twidwell, and C.A. Lepczyk. Impacts of non-native birds on native wildlife in urban ecosystems: where is the evidence?  *Natural Areas Conference*, Oral presentation. Indiana, 2018
+1. **Burnett, J.L.**, R. Crystal-Ornelas, D. Fogarty, K. Hogan, C.R. Allen, M. Bomberger Brown, D. Twidwell, and C.A. Lepczyk. Impacts of non-native birds on native wildlife in urban ecosystems: where is the evidence?  *Natural Areas Conference*, Oral presentation. Indiana (2018)
 
-1. **Burnett, J.L.**. Advances in ecological regime shift detection, *International Institute for Applied Systems Analysis*, Oral presentation. Laxenburg, Austria, 2018
+1. **Burnett, J.L.**. Advances in ecological regime shift detection, *International Institute for Applied Systems Analysis*, Oral presentation. Laxenburg, Austria  (2018)
 
-1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, T. A. Eason, D.G. Angeler,and D. Twidwell. Community velocity as a regime shift detection method. *Great Plains Grassland Summit*, Poster presentation. Denver, Colorado, 2018
+1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, T. A. Eason, D.G. Angeler,and D. Twidwell. Community velocity as a regime shift detection method. *Great Plains Grassland Summit*, Poster presentation. Denver, Colorado (2018)
 
-1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J.P. Carroll.  Gray partridge distribution in North America: Changing landscapes and environment for an introduced species. Perdix XIV and IUGB, Oral presentation by JPC, Montpellier,
-France, 2017
+1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J.P. Carroll (presenter).  Gray partridge distribution in North America: Changing landscapes and environment for an introduced species. Perdix XIV and IUGB, Oral presentation by JPC, Montpellier, France (2017)
 
-1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, T. A. Eason, D.G. Angeler,and D. Twidwell. System trajectory and Fisher information as early-warning indicators of ecological regime shifts. *Resilience 2017: Resilience Frontiers for Global Sustainability*, Poster presentation. Stockholm, Sweden, 2017
+1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, T. A. Eason, D.G. Angeler,and D. Twidwell. System trajectory and Fisher information as early-warning indicators of ecological regime shifts. *Resilience 2017: Resilience Frontiers for Global Sustainability*, Poster presentation. Stockholm, Sweden (2017)
 
-1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, T. A. Eason, D.G. Angeler,and D. Twidwell. System trajectory and Fisher information as early-warning indicators of ecological regime shifts. *Ecological Society of America*, Poster presentation. Portland, OR, 2017
+<!-- 1. **Burnett, J.L.**, N.B. Price, A.J. Tyre, T.J. Hefley, C.R. Allen, T. A. Eason, D.G. Angeler,and D. Twidwell. System trajectory and Fisher information as early-warning indicators of ecological regime shifts. *Ecological Society of America*, Poster presentation. Portland, OR (2017) -->
 
-1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D., and Tyre, A.J. Ecological Regime Shifts in the Central Great Plains. *Great Plains Symposium*, Oral presentation. Nebraska Innovation Campus, Lincoln, NE, 2017
+<!-- 1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D., and Tyre, A.J. Ecological Regime Shifts in the Central Great Plains. *Great Plains Symposium*, Oral presentation. Nebraska Innovation Campus, Lincoln, NE (2017) -->
 
-1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D., and Tyre, A.J. Using Big Data to Detect Regime Shifts in Space and Time. *North American Ornithological Conference VI*, Poster presentation. Smithsonian Migratory Bird Institute, Washington, D.C., 2016
+<!-- 1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D., and Tyre, A.J. Using Big Data to Detect Regime Shifts in Space and Time. *North American Ornithological Conference VI*, Poster presentation. Smithsonian Migratory Bird Institute, Washington, D.C. (2016) -->
 
-1. **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M., and Robinson, S.K. Are House Sparrow declines a byproduct of urban greening? Southeastern Ecology and Evolution Conference, Oral presentation. University of Georgia, Athens, GA, 2015  
+<!-- 1. **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M., and Robinson, S.K. Are House Sparrow declines a byproduct of urban greening? Southeastern Ecology and Evolution Conference, Oral presentation. University of Georgia, Athens, GA (2015)   -->
 
-1. **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M.L., and Robinson, S.K. Are House Sparrow declines a byproduct of urban greening? *American Ornithologists' Union and Cooper Ornithological Society Annual Meeting*, Poster presentation. Norman, OK, 2015  
+<!-- 1. **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M.L., and Robinson, S.K. Are House Sparrow declines a byproduct of urban greening? *American Ornithologists' Union and Cooper Ornithological Society Annual Meeting*, Poster presentation. Norman, OK (2015)   -->
 
-1. **Burnett, J.L.**, Moulton, M.P., and Sieving, K.E. House sparrow: the decline of a once ubiquitous, invasive species. *Florida Chapter of The Wildlife Society Annual Conference*, Poster presentation. Safety Harbor, FL, 2014.
+<!-- 1. **Burnett, J.L.**, Moulton, M.P., and Sieving, K.E. House sparrow: the decline of a once ubiquitous, invasive species. *Florida Chapter of The Wildlife Society Annual Conference*, Poster presentation. Safety Harbor, FL (2014) -->
 
-1. **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M.L., and Robinson, S.K. House Sparrow decline and distribution in North Central Florida. *Florida Cooperative Fish and Wildlife Research Unit annual cooperators meeting*, Poster presentation. Gainesville, FL, 2014  
+<!-- 1. **Burnett, J.L.**, Moulton, M. P., Sieving, K.E., Avery, M.L., and Robinson, S.K. House Sparrow decline and distribution in North Central Florida. *Florida Cooperative Fish and Wildlife Research Unit annual cooperators meeting*, Poster presentation. Gainesville, FL (2014)   -->
 
-1. **Burnett, J.L.** and Sieving, K.E. Detecting birds of prey using tufted titmouse distress calls. *USGS Florida Cooperative Fish and Wildlife Research Unit Committee Meeting*, Poster presentation. Gainesville, FL, 2013
+<!-- 1. **Burnett, J.L.** and Sieving, K.E. Detecting birds of prey using tufted titmouse distress calls. *USGS Florida Cooperative Fish and Wildlife Research Unit Committee Meeting*, Poster presentation. Gainesville, FL, (2013) -->
 
-1. **Burnett, J.L.** and Sieving, K.E. Do actual and perceived risks of small forest birds align? *Florida Ornithological Society Conference, Oral presentation*, St. Petersburg, FL, 2013
+<!-- 1. **Burnett, J.L.** and Sieving, K.E. Do actual and perceived risks of small forest birds align? *Florida Ornithological Society Conference, Oral presentation*, St. Petersburg, FL (2013) -->
 
-1. **Burnett, J.L.** and Sieving, K.E. Perceived predation risks of small forest birds. *Association of Field Ornithologists Annual Conference*, Poster presentation. Venus, FL, 2013
+<!-- 1. **Burnett, J.L.** and Sieving, K.E. Perceived predation risks of small forest birds. *Association of Field Ornithologists Annual Conference*, Poster presentation. Venus, FL (2013) -->
 
 
 # Select Certifications, Workshops, and Professional Development Training
