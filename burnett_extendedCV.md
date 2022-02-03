@@ -545,8 +545,7 @@ Neighborhood Nestwatch Program, Florida
     *ReScience* (1)
 -   Scientific manuscripts: *Bioinvasions Records* (1), *Conservation
     Biology* (1), *Ecological Informatics* (5), *Ecological Modelling*
-    (4), *Journal of Molluscan Studies* (2), *Landscape and Urban
-    Planning* (1), *PLOS One* (1), *Wilson Journal of Ornithology* (3)
+    (4), *Journal of Molluscan Studies* (2), *Landscape and Urban Planning* (1), *PLOS One* (2), *Wilson Journal of Ornithology* (3),  *Methods in Ecology and Evolution* (1 in prep)
 
 ## Other Selected Service
 

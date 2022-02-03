@@ -7,31 +7,12 @@
 .DS_Store
 
 
-# build ignores
-burnett_extendedCV.log
-burnett_extendedCV.out
-burnett_extendedCV.utf8.md
-burnett_extendedCV.knit.md
-burnett_extendedCV.aux
-burnett_2pg_lter2019.pdf
-archived/burnett_CV_2page_20190310.pdf
-publications_list.pdf
-burnett_extendedCV.txt
-burnett_extendedCV.html
-burnett_extendedCV.md
+*.pdf
+*.log
+*.out
+*.aux
+nul 
+*.tex
+*.md
+!cv-latex.tex
 
-burnett_nceas-3pg.pdf
-data/coding-and-transcription-budget.xlsx
-letters/usfs_20210104.html
-letters/usfs_rmrs_20210104.pdf
-letters/blm_20210218.pdf
-aaas-stpf.log
-aaas-stpf.md
-aaas-extracurriculars.log
-aaas-extracurriculars.md
-aaas-extracurriculars.tex
-aaas-extracurriculars.log
-aaas-extracurriculars.md
-aaas-extracurriculars.tex
-aaas-stpf.tex
-aaas-extracurriculars.docx
