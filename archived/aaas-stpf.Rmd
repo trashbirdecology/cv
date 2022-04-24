@@ -36,11 +36,11 @@ jobtitle: Research Ecologist & Mendenhall Postdoctoral Fellow
 **Research Ecologist** (GS-12), U.S. Geological Survey, Lakewood, Colorado, USA   
 September 2019 - present   
 
-- Developed knowledge graph for improving the provenance of U.S. bird conservation and management.
-- Developed framework for evaluating the users and uses of a USGS data program using informatics and social science methods. Made recommendations to program administrations for improving value of agency's data assets to stakeholders.
+- Developed integrated Bayesian modeling framework and workflow for estimating abundance and trends of birds in North America. 
+- Evaluated the users and uses of a USGS data program using informatics and social science methods. Made recommendations to program administrations for improving value of agency's data assets to stakeholders.
 - Co-led grant application (funded) to Canadian Institute for Ecology and Evolution to fund a year-long working group. Developed software and database for analyzing environmental data for abrupt change and regime shifts.
 - Co-led grant application (funded) for Earth Science Information Partnership working group. Developed knowledge graph for assisting with the documentation and development of U.S. State Wildlife Action Plans.
-- Authored 2 peer-reviewed research articles, 1 federal agency report, and 3 R packages. 
+- Authored and co-authored 3 peer-reviewed research articles, 1 federal agency report, and multiple R packages. 
 
 **Graduate Research Assistant**, Nebraska Cooperative Fish & Wildlife Research Unit, University of Nebraska-Lincoln (UNL), Nebraska  
 August 2015 - August 2019  
@@ -93,7 +93,7 @@ May - July 2012 & April - August 2013
 
 # Publications 
 
-1. **Burnett, J.L.**, R. Dale, C.Y. Hou, G. Palomo-Muñoz, K.S. Whitney, S. Aulenbach, R.S. Bristol, D. Valle, and T. Wellman (*accepted*). Ten Simple Rules for Creating a Scientific Web Application.  _PLoS Computational Biology_
+1. **Burnett, J.L.**, R. Dale, C.Y. Hou, G. Palomo-Muñoz, K.S. Whitney, S. Aulenbach, R.S. Bristol, D. Valle, and T. Wellman (2021). Ten Simple Rules for Creating a Scientific Web Application.  _PLoS Computational Biology_
 
 1. Erickson, R.A., **Burnett, J.L.**, M.T. Wiltermuth, E.A. Bulliner, and L. Hsu (2021). Paths to computational fluency for natural resource educators, researchers, and managers. _Natural Resource Modeling_ [DOI: 10.1111/nrm.12318](https://onlinelibrary.wiley.com/doi/10.1111/nrm.12318?af=R)
 
@@ -159,6 +159,8 @@ May - July 2012 & April - August 2013
 1. Price, N.B. and **Burnett, J.L.**. `tvdiff`.  An R package for numerical differentiation of noisy, non-smooth data. [Github:natbprice/tvdiff](https://github.com/natbprice/tvdiff) 
 
 ### Lifecycle: experimental
+1. **Burnett, J.L.**, J.A. Royle, P. Howell [`bbsebird`](https://github.com/TrashBirdEcology/USAvian/): data integrated and Bayesian modeling of North American BBS and eBird data.
+
 1. **Burnett, J.L.**, K.R. Burgio, A. Fournier [`USAvian`](https://github.com/TrashBirdEcology/USAvian/): An interactive map for connecting and visualizing the bird conservation and management networks in the U.S. 
 
 1. **Burnett, J.L.**, X. Benito, and K. Braziunas. [`abruptdata`](http://github.com/regime-shifts/abruptdata). An R package and information repository for ecological datasets exhibiting abrupt change.
