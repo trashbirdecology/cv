@@ -16,12 +16,12 @@ fontawesome: yes
 email: jburnett@usgs.gov
 # github: trashbirdecology
 phone: "+1 720-730-0974"
-# updated: no
+updated: no
 keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
-urlcolor: blue(munsell)
+# urlcolor: blue(munsell)
 linkcolor: maroon
 linkedin: burnettjl
 jobtitle: Research Ecologist & Mendenhall Postdoctoral Fellow
@@ -37,7 +37,7 @@ jobtitle: Research Ecologist & Mendenhall Postdoctoral Fellow
 September 2019 - present   
 
 - Developed integrated Bayesian modeling framework and workflow for estimating abundance and trends of birds in North America. 
-- Evaluated the users and uses of a USGS data program using informatics and social science methods. Made recommendations to program administrations for improving value of agency's data assets to stakeholders.
+- Evaluated the users and uses of a USGS data program using informatics and social science methods.
 - Co-led grant application (funded) to Canadian Institute for Ecology and Evolution to fund a year-long working group. Developed software and database for analyzing environmental data for abrupt change and regime shifts.
 - Co-led grant application (funded) for Earth Science Information Partnership working group. Developed knowledge graph for assisting with the documentation and development of U.S. State Wildlife Action Plans.
 - Authored and co-authored 3 peer-reviewed research articles, 1 federal agency report, and multiple R packages. 
@@ -57,7 +57,7 @@ May 2018 - September 2018
 - Developed novel method for detecting regime shifts in paleoecological data (system velocity). 
 - Conducted research with an international team of applied mathematicians and systems scientists. Presented research in an international forum.
 - Organized seminar on Network Analysis in Ecology. 
-- 1 of 51 scholars from 27 countries of ~400 applicants.
+<!-- - 1 of 51 scholars from 27 countries of ~400 applicants. -->
 
 
 **Graduate Teaching Assistant**, Department of Wildlife Ecology & Conservation, University of Florida, Florida, USA  
@@ -72,15 +72,15 @@ August 2013 - August 2015
 April 2012 -  August 2012  
 
 - Designed and completed geospatial analysis of raptor and owl nest locations and nesting success. 
-- Performed ground-truthing of habitat data. 
-
+- Performed ground-truthing of land use/land cover data. 
 
 **Undergraduate Research Assistant**, Avian Ecology and Conservation Lab, University of Florida  
 January 2011 - April 2012    
 
-- Developed and published field method for improved detection of Red-shouldered Hawk (*Buteo lineatus*). 
+- Developed and published field method for improved detection of Red-shouldered Hawk.
+<!-- (*Buteo lineatus*).  -->
 - Managed laboratory's bird banding database. 
-- After school tutor for low-income middle school students at local library. 
+- Tutored low-income middle school students at local library in Math, English, and Science. 
 
 **Crew Leader and Smithsonian Fellow**, Neighborhood Nestwatch Program, Gainesville, Florida   
 May - July 2012 & April - August 2013   
@@ -169,9 +169,8 @@ May - July 2012 & April - August 2013
 1. **Burnett, J.L.**, N.B. Price. [`regimeDetectionMeasures`](https://github.com/TrashBirdEcology/regimedetectionmeasures). An R package for calculating univariate and multivariate regime detection methods using community time series.  
 
 # Select Honors & Awards
-- USGS FY2021 Performance Award (2021)
+- USGS Annual Performance Awards (FY21, FY20)
 - Invited focus group participant, NSF Missing Millions (2021)
-- USGS FY2020 Performance Award (2020)
 - Invited workshop participant, Future of Synthesis in Ecology, NCEAS (2020)
 <!-- - School of Natural Resources, UNL (2019) \hfill __$750__ -->
 <!-- - University of Nebraska Graduate Travel Fund (2019)                \hfill __$750__ -->
