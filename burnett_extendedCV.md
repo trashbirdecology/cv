@@ -14,7 +14,7 @@
 
 # Education
 
-**Ph.D.** Natural Resource Sciences University of Nebrsaka-Lincoln   
+**Ph.D.** Natural Resource Sciences University of Nebraska-Lincoln   
 **M.Sc.** Wildlife Ecology & Conservation, University of Florida   
 **B.Sc.** Wildlife Ecology & Conservation University of Florida   
 **A.A.** General studies Valencia Community College
@@ -107,9 +107,10 @@ Neighborhood Nestwatch Program, Florida
 # Publications
 
 1.  **J.L. Burnett**, R Dale, C.Y. Hou, G. Palomo-Muñoz, K.S.
-    Whitney, S. Aulenbach, R.S. Bristol, D. Valle, and T. Wellman
-    (*minor revisions*). Ten Simple Rules for Creating a Scientific Web
-    Application. *PLoS Computational Biology*
+    Whitney, S. Aulenbach, R.S. Bristol, D. Valle, and T. Wellman (*in
+    press*). Ten Simple Rules for Creating a Scientific Web Application.
+    *PLoS Computational Biology*
+    [DOI:10.1371/journal.pcbi.1009574](https://doi.org/10.1371/journal.pcbi.1009574)
 
 2.  Erickson, R.A., **J.L. Burnett**, M.T. Wiltermuth, E.A. Bulliner,
     and L. Hsu (2021). Paths to computational fluency for natural
@@ -545,7 +546,8 @@ Neighborhood Nestwatch Program, Florida
     *ReScience* (1)
 -   Scientific manuscripts: *Bioinvasions Records* (1), *Conservation
     Biology* (1), *Ecological Informatics* (5), *Ecological Modelling*
-    (4), *Journal of Molluscan Studies* (2), *Landscape and Urban Planning* (1), *PLOS One* (2), *Wilson Journal of Ornithology* (3),  *Methods in Ecology and Evolution* (1 in prep)
+    (4), *Journal of Molluscan Studies* (2), *Landscape and Urban
+    Planning* (1), *PLOS One* (1), *Wilson Journal of Ornithology* (3)
 
 ## Other Selected Service
 

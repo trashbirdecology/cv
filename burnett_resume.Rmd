@@ -1,0 +1,67 @@
+---
+output: 
+  pdf_document:
+      latex_engine: pdflatex
+      template: cv-latex.tex
+  md_document:
+    variant: gfm
+knit: (function(inputFile, encoding) {
+        rmarkdown::render(inputFile, encoding = encoding,
+         output_format = "all") })
+geometry: margin=.7in
+title: "Extended CV"
+author: JESSICA L. BURNETT
+orcid:  0000-0002-0896-5099
+fontawesome: yes
+email: jburnett0011@gmail.com
+phone: "+1 720 730 0974"
+updated: yes
+keywords: R Markdown, academic CV, template
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue(munsell)
+linkcolor: maroon
+linkedin: burnettjl
+jobtitle: 
+---
+# Programming Languages
+- *Advanced*: R
+- *Proficient*: Cypher, LaTeX, HTML
+- *Basic*: Python 
+
+# Education
+**Ph.D.** Natural Resource Sciences  University of Nebraska-Lincoln \hfill 2019  
+**M.Sc.** Wildlife Ecology & Conservation, University of Florida \hfill 2015  
+**B.Sc.** Wildlife Ecology & Conservation University of Florida \hfill 2013  
+**A.A.** General studies Valencia Community College \hfill 2010
+
+# Relevant Experience
+1. Program Management
+- Lead the strategic direction, planning, and management of the Water Resources program
+- Oversee investment opportunities, engagements with users and scientific communities,
+market research, priority setting, partnerships, project portfolios, and results communication
+- Oversee budget, schedule, and performance
+- Lead activities with private sector organizations, nonprofits, agencies, and philanthropies
+ADVANCE NOTICE | OFFICIAL JOB ANNOUNCEMENT FORTHCOMING ON USAJOBS
+As of 2/27/2023
+2. Program Applications Lead for Satellite Missions
+- Serve as the Program Applications Lead for select NASA satellite missions
+- Liaise with applications user communities to bring perspectives into mission planning and
+development
+- Coordinate with ESD Program Executives, Program Scientists, and mission teams
+3. Community Interactions
+- Engage management, business, policy, Earth science communities to discuss and identify
+opportunities
+- Maintain knowledge of latest Earth science research, applications, and technology advances
+- Maintain knowledge of policy topics, business issues, trends, and management challenges and
+priorities within user communities
+4. Interagency and International Committees
+- Represent Earth Science Division, NASA, and United States on select interagency and
+international committees
+5. Inclusion and Coordination
+- Lead efforts to advance inclusion, equity, and diversity in all roles and activities
+- Engage with all parts of ESD to support coordination in decisions and planning
+- Lead efforts to bring feedback and perspectives from user communities into ESD
+
+# Notable Achievements

@@ -13,10 +13,9 @@ title: "Extended CV"
 author: JESSICA L. BURNETT
 orcid:  0000-0002-0896-5099
 fontawesome: yes
-email: jburnett@usgs.gov
+email: jburnett0011@gmail.com
 github: trashbirdecology
-twitter: trashbirdecol
-phone: "+1 352 792 5425"
+phone: "+1 720 730 0974"
 updated: yes
 keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
@@ -25,7 +24,7 @@ fontsize: 11pt
 urlcolor: blue(munsell)
 linkcolor: maroon
 linkedin: burnettjl
-jobtitle: Research Ecologist
+jobtitle: Ecologist
 ---
 # Research Interests and Expertise
 - Ecoinformatics
