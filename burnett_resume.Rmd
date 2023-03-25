@@ -1,67 +1,207 @@
 ---
-output: 
+name: Jessica Burnett, Ph.D.
+address: Washington, D.C.
+phone: +1 720 730 0974
+email: jessica.burnett@nasa.gov
+# website: https://github.com/trashbirdecology
+geometry: left=1in,right=1in,top=1in,bottom=1in
+bibliography: data/publications.bib
+nocite: |
+  @test
+knit: (function(input, ...) {
+    c(rmarkdown::render(
+      input,
+      output_format = "github_document",
+      output_file = "README",
+      envir = globalenv()
+    ),
+    rmarkdown::render(
+      input,
+      output_format = "pdf_document",
+      output_file = "burnett_resume",
+      envir = globalenv()
+    ))
+  })
+output:
   pdf_document:
-      latex_engine: pdflatex
-      template: cv-latex.tex
-  md_document:
-    variant: gfm
-knit: (function(inputFile, encoding) {
-        rmarkdown::render(inputFile, encoding = encoding,
-         output_format = "all") })
-geometry: margin=.7in
-title: "Extended CV"
-author: JESSICA L. BURNETT
-orcid:  0000-0002-0896-5099
-fontawesome: yes
-email: jburnett0011@gmail.com
-phone: "+1 720 730 0974"
-updated: yes
-keywords: R Markdown, academic CV, template
-fontfamily: mathpazo
-fontfamilyoptions: sc, osf
-fontsize: 11pt
-urlcolor: blue(munsell)
-linkcolor: maroon
-linkedin: burnettjl
-jobtitle: 
+    extra_dependencies:
+      fontawesome: null
+      carlito: sfdefault
+      fancyhdr: null
+  github_document: default
 ---
-# Programming Languages
-- *Advanced*: R
-- *Proficient*: Cypher, LaTeX, HTML
-- *Basic*: Python 
 
-# Education
-**Ph.D.** Natural Resource Sciences  University of Nebraska-Lincoln \hfill 2019  
-**M.Sc.** Wildlife Ecology & Conservation, University of Florida \hfill 2015  
-**B.Sc.** Wildlife Ecology & Conservation University of Florida \hfill 2013  
-**A.A.** General studies Valencia Community College \hfill 2010
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(fontawesome)
+library(rmarkdown)
+```
 
-# Relevant Experience
-1. Program Management
-- Lead the strategic direction, planning, and management of the Water Resources program
-- Oversee investment opportunities, engagements with users and scientific communities,
-market research, priority setting, partnerships, project portfolios, and results communication
-- Oversee budget, schedule, and performance
-- Lead activities with private sector organizations, nonprofits, agencies, and philanthropies
-ADVANCE NOTICE | OFFICIAL JOB ANNOUNCEMENT FORTHCOMING ON USAJOBS
-As of 2/27/2023
-2. Program Applications Lead for Satellite Missions
-- Serve as the Program Applications Lead for select NASA satellite missions
-- Liaise with applications user communities to bring perspectives into mission planning and
-development
-- Coordinate with ESD Program Executives, Program Scientists, and mission teams
-3. Community Interactions
-- Engage management, business, policy, Earth science communities to discuss and identify
-opportunities
-- Maintain knowledge of latest Earth science research, applications, and technology advances
-- Maintain knowledge of policy topics, business issues, trends, and management challenges and
-priorities within user communities
-4. Interagency and International Committees
-- Represent Earth Science Division, NASA, and United States on select interagency and
-international committees
-5. Inclusion and Coordination
-- Lead efforts to advance inclusion, equity, and diversity in all roles and activities
-- Engage with all parts of ESD to support coordination in decisions and planning
-- Lead efforts to bring feedback and perspectives from user communities into ESD
+\vspace*{-0.75in}
+\thispagestyle{empty}
+\centerline{\huge \bf `r metadata$name`}
+\vspace{5pt}
+\centerline{
+\faicon{map-marker} `r metadata$address` \hspace{2 pt}
+\faicon{phone} \href{tel:`r gsub("[[:space:]]", "", metadata$phone)`}{`r metadata$phone`} \hspace{2 pt}
+\faicon{envelope} \href{mailto:`r metadata$email`}{`r metadata$email`} \hspace{2 pt}
+\faicon{home} \href{https://`r metadata$website`}{`r metadata$website`}
+}
+\vspace{5pt}
+\hrule
 
-# Notable Achievements
+\pagestyle{fancy}
+\fancyhead[L]{\textcolor[gray]{0.4}{Resume: `r metadata$name`}}
+\fancyfoot[L]{\textcolor[gray]{0.4}{Document compiled on `r Sys.Date()` (\href{https://www.github.com/trashbirdecology/cv}{github.com/trashbirdecology/cv})}}
+\pagenumbering{gobble}
+
+```{r, results='asis', eval = knitr::is_html_output()}
+cat("# ", metadata$name, "\n")
+fa("map-marker")
+cat("&nbsp;&nbsp;&nbsp;", metadata$address, "&nbsp;&nbsp;&nbsp;")
+fa("phone")
+cat("&nbsp;&nbsp;&nbsp;", metadata$phone, "&nbsp;&nbsp;&nbsp;")
+fa("envelope")
+cat("&nbsp;&nbsp;&nbsp;", metadata$email, "&nbsp;&nbsp;&nbsp;")
+fa("home")
+cat('&nbsp;&nbsp;&nbsp;<a href="https://',
+  metadata$website,
+  '">',
+  metadata$website,
+  "</a>",
+  "&nbsp;&nbsp;&nbsp;",
+  sep = ""
+)
+cat("<hr/>")
+```
+
+## Education
+
+**Doctorate | Natural Resources Science** \
+*University of Nebraska-Lincoln*, Lincoln, Nebraska, US | 2019 \
+
+**Master of Science | Wildlife Ecology & Conservation** \
+*University of Florida*, Gainesville, Florida, US | 2015
+
+**Bachelor of Science | Wildlife Ecology & Conservation** \
+*University of Florida*, Gainesville, Florida, US  | 2013
+
+**Associate of Arts | General Studies** \
+*Valencia Community College*, Orlando, Florida, US  | 2010
+
+
+## Key Skills
+- Demonstrated experience in strategic relationships with federal and state partners
+- Sought-after partner of U.S. state and federal natural resource management agencies and non-governmental conservation organizations  
+- Strategic thinker
+- Proven steward of federal ?
+<!-- Program/Project Management -->
+<!-- Geospatial Science and Technologies -->
+<!-- Strategic Thinking -->
+<!-- Earth Science Applications Research -->
+<!-- Partnering -->
+<!-- Financial Management -->
+<!-- Technical Competence -->
+
+
+## Professional Experience
+<!-- SKills, evidence, why it matters -->
+**National Aeronautics and Space Administration**, Washington, D.C., US \
+*Associate Program Manager* | August 2022 - Present \
+
+- One of two NASA fellows (of over XXXX applicants) AAAS Science & Technology Policy Fellowship
+- Established key interagency relationships with key U.S. federal, state, and non-governmental conservation organization resulting in increased awareness of NASA Earth Science Division 
+- Designed and conducted targeted outreach to U.S. federal, state, and non-governmental organizations resulting in a two-fold increase in number of proposal submissions
+- Initiated and led efforts to develop strategic plan for maximizing program investments 
+- Represented NASA on interagency science and technology committees to enable application of NASA data and investments by federal partners
+- Mentored undergraduate and high school students from traditionally underrepresented backgrounds to conduct projects resulting in actionable intelligence for program evaluation and outreach to 
+- Served as technical expert for conservation issues on data and information calls from the White House Office of Science and Technology Policy
+- Provided technical expertise on NASA Open Science Data Policy (SPD-41a) communications documents
+
+
+**U.S. Geological Survey, Biogeographic Sciences Branch**, Washington, D.C., US \
+*Research Ecologist* | August 2019 - August 2022 \
+
+- Key player in establishing and facilitating cross-cutting relationships to broaden and enable partner use of agency Earth Science assets, including remotely sensed biogeographic data products, high performance computing resources, and technical expertise
+- Published 3 peer-reviewed papers in top Earth Science journals, including 1 influential article outlining key priorities for synthesis in environmental research 
+- Designed, developed, and published well-known open-source software to enable applications of agency's foundational data for science and applications     
+- Awarded multiple performance bonuses (with SF-50 documentation) 
+
+
+**University of Nebraska-Lincoln**, Lincoln, Nebraska, US \
+*Graduate Research Assistant* | August 2015 - July 2019
+
+- Developed and conducted collaborative, international research resulting in X publications and 1 book chapter
+- Developed the University's first Association for Women in Science chapter, resulting in the University President's investment as an institutional member, several professional development workshops, and a sustained membership
+- Delivered several scientific presentations for a diversity of audiences in local, national, and international forums
+
+
+**University of Florida**, Gainesville, Florida, US \
+*Graduate Research Assistant* | August 2013 - August 2015 
+
+- Designed and conducted research resulting in X publications
+- Sought and received funding to for an after school program to enable nature-based activities for at-risk-of-recidivism youth after-school program
+
+
+**University of Florida**, Gainesville, Florida, US \
+*Undergraduate Research Assistant* | August 2011 - August 2013 
+
+- Did some field work, published a paper on that work
+- Was trusted with key data and permitting processes for a lab PI
+- Setup another PIs lab..?
+
+
+**Smithsonian Institution**, Gainesville, Florida, US \
+*Neighborhood Nestwatch Program* | August 2011 - August 2013 
+
+- Led team of bird banders to conduct field work in cooperation with and in the backyards of local citizens
+- Mentored and trained early career professionals on bird banding, bird identification, and data management skills
+- Established program relationship with local girls youth program to conduct hands-on bird handling and viewing activities 
+
+
+**Valencia Community College**, Orlando, Florida, US \
+*Teaching Assistant & Tutor for Mathematics* | August 2008 - May 2010 
+
+- Embedded in mathematics classes to encourage and facilitate learning of mathematics for community college students
+- Organized and developed targeted, after-class tutoring sessions for small and large groups
+- Served as Vice President of the college's student government
+
+**Bakely's Restaurant**, Winter Haven, Florida, US \
+*Front of House Manager and Server* | August 2008 - May 2010 
+
+- Promoted to Front of House Manager within 3 months of joining as a novice restaurant server
+- Hired and managed the front of house, including a team of hosts and servers, stocking, and facilities
+- Managed relationships between front of house staff and kitchen personnel
+- Developed and managed team schedules
+
+**Numerous hotel jobs....**, Various , US \
+** | August 2008 - May 2010 
+- Can speak about varioushotel jobs, including 1 where i was promoted to a Sales position
+- been working since i was 14.....
+
+
+
+## Other Interests
+- Volunteering at animal- and conservation-focused local organizations
+- Competitive sand, grass, and indoor volleyball player
+- Avid board, card, and video gamer
+
+## Publications
+- Will list here in reverse chronological or by topic....
+<!-- ```{r, results = "asis"} -->
+<!-- fa('book') -->
+<!-- cat("&nbsp;&nbsp;&nbsp;2 book chapters&nbsp;&nbsp;&nbsp;") -->
+<!-- fa('scroll') -->
+<!-- cat("&nbsp;&nbsp;&nbsp;5 peer-reviewed journal publications&nbsp;&nbsp;&nbsp;") -->
+<!-- fa('file-alt') -->
+<!-- cat("&nbsp;&nbsp;&nbsp;5 conference papers&nbsp;&nbsp;&nbsp;") -->
+<!-- ``` -->
+
+
+Full List Available On Google Scholar: https://scholar.google.com/citations?user=rXaKU0EAAAAJ&hl=en
+
+**Select Publications:**
+
+<div id="refs"></div>
+## Presentations
+- Will list here (rev. chron. vs topical vs. invited/contributed?)
