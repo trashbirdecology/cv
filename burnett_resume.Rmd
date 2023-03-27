@@ -6,10 +6,18 @@ email: jessica.burnett@nasa.gov
 # website: https://github.com/trashbirdecology
 geometry: left=1in,right=1in,top=1in,bottom=1in
 bibliography: data/publications.bib
+csl: csl/science.csl
 nocite: |
   @halpern2023priorities, @burnett2021ten, @erickson2021paths, @burnett2020introduced, @burnett2019bbsassistant, @allen2019serdp, @burnett2019regime, @roberts2018early, @donovan2018social,  @lasorte2018opportunities, @chuang2018enhancing, @burnett2018thermal, @burnett2017range, @allen2016avoiding, @burnett2016songbird, @burnett2015recent
 knit: (function(input, ...) {
-    c(rmarkdown::render(
+    c(
+    rmarkdown::render(
+      input,
+      output_format = "pdf_document",
+      output_file = "burnett_resume",
+      envir = globalenv()
+    ),
+      rmarkdown::render(
       input,
       output_format = "github_document",
       output_file = "README",
@@ -20,15 +28,11 @@ knit: (function(input, ...) {
       output_format = "word_document",
       output_file = "burnett_resume",
       envir = globalenv()
-    ),
-    rmarkdown::render(
-      input,
-      output_format = "pdf_document",
-      output_file = "burnett_resume",
-      envir = globalenv()
-    ))
+    )
+    )
   })
 output:
+  output:
   pdf_document:
     extra_dependencies:
       fontawesome: null
@@ -102,19 +106,19 @@ cat("<hr/>")
 
 **Ph.D. | Natural Resource Sciences** \
 *University of Nebraska-Lincoln*, Lincoln, Nebraska | 2019 \
-15 credit hours of life sciences coursework, 52 credit hours of research 
+15 credit hours of life sciences coursework, 52 credit hours of research \ 
 
 **M.S. | Wildlife Ecology & Conservation** \
 *University of Florida*, Gainesville, Florida | 2015 \
-30 credit hours of life sciences coursework, 20 credit hours of research 
+30 credit hours of life sciences coursework, 20 credit hours of research \
 
-**B.S. | Wildlife Ecology & Conservation** \
-*University of Florida*, Gainesville, Florida  | 2013 \
-74 credit hours of life sciences coursework, 5 credit hours of research 
+**B.S. | Wildlife Ecology & Conservation**\
+*University of Florida*, Gainesville, Florida  | 2013\
+74 credit hours of life sciences coursework, 5 credit hours of research\
 
 **A.A. | General Studies** \
-*Valencia Community College*, Orlando, Florida | 2010 \
-42 credit hours of life sciences coursework \
+*Valencia Community College*, Orlando, Florida | 2010
+42 credit hours of life sciences coursework 
 
 
 ## Professional Experience
@@ -192,16 +196,18 @@ cat("<hr/>")
 ## Publications
 ```{r, results = "asis"}
 fa('scroll')
-cat("&nbsp;&nbsp;&nbsp;14 peer-reviewed journal publications&nbsp;&nbsp;&nbsp;")
+cat("&nbsp;&nbsp;&nbsp;14 peer-reviewed publications in Earth and life science journals&nbsp;&nbsp;&nbsp;")
 fa('book')
 cat("&nbsp;&nbsp;&nbsp;1 book chapter&nbsp;&nbsp;&nbsp;")
 fa('file-alt')
-cat("&nbsp;&nbsp;&nbsp;4 conference papers and symposia&nbsp;&nbsp;&nbsp;")
+cat("&nbsp;&nbsp;&nbsp;4 conference papers&nbsp;&nbsp;&nbsp;")
 ```
 
 <!-- Full List Available On Google Scholar: https://scholar.google.com/citations?user=L0t-rQoAAAAJ&hl=en&oi=ao -->
 
-<div id="refs"></div>
+<div id="refs">
+</div>
+
 
 ## Presentations
 ### Invited 
@@ -219,7 +225,7 @@ cat("&nbsp;&nbsp;&nbsp;4 conference papers and symposia&nbsp;&nbsp;&nbsp;")
 1. Detecting abrupt change in bird community time series using distance traveled. *Association for Women in Math Biology Symposium*, Special session "Current Challenges in Mathematical Biology ", Houston, TX , 2019
 
 1. Decline of the Once-Ubiquitous House Sparrow in North America. *Nebraska Invasive Species Council*, Lincoln, NE , 2015     
-
+{: reversed="reversed"}
 ### Contributed
 1. **Burnett, J.L.**, N.B. Price, and A.J. Tyre. A novel method for tracking ecosystem trajectory and abrupt change in space-time: distance traveled. *International Association for Landscape Ecology*, Oral presentation. Fort Collins, CO, 2019
 
