@@ -75,7 +75,7 @@ research
 Washington, D.C., U.S.  
 *Program Coordinator, Ecological Conservation Applications Area* \|
 August 2022 - Present  
-40 hours per week, GS-12-2 equivalent
+40 hours per week, GS-12-2 payscale equivalent
 
 - Help develop new funding programs and solicitations, run peer review
   panels, evaluate funding proposals, and serve as a subject matter
@@ -133,8 +133,8 @@ August 2022 - Present
 
 **U.S. Geological Survey (USGS), Biogeographic Sciences Branch**,
 Denver, CO  *Research Ecologist* \| August 2019 - August 2022   40 hours
-per week, GS-12-5 equivalent, 2 cash awards for performance for both
-annual reviews conducted  
+per week, GS-12-5 payscale equivalent, 2 cash awards for performance for
+both annual reviews conducted  
 
 - Received cash awards for exceptional performance on all annual
   reviews. 
@@ -158,7 +158,7 @@ annual reviews conducted  
 
 **University of Nebraska-Lincoln (UNL)**, Lincoln, Nebraska, U.S.  
 *Graduate Research Assistant* \| August 2015 - July 2019  40 hours per
-week, GS-7-1 equivalent  
+week, GS-7-1 payscale equivalent  
 
 - Created and led week-long workshop for the end users at the state of
   Nebraska’s natural resource agency, focusing on technologies for
@@ -193,7 +193,7 @@ Laxenburg, Austria   *Visiting Researcher* \| April 2018 - August 2018  
 
 **University of Florida**, Gainesville, Florida, U.S.   *Graduate
 Research Assistant* \| August 2013 - August 2015   40 hours per week,
-GS-1 equivalent  
+GS-1 payscale equivalent  
 
 - Sought and received funding from the local police department and the
   University of Florida to enable nature-based activities, including new

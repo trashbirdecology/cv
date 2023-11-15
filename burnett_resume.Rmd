@@ -120,7 +120,7 @@ cat("<hr/>")
 <!-- SKills, evidence, why it matters -->
 **National Aeronautics and Space Administration (NASA) Headquarters**, Washington, D.C., U.S. \
 *Program Coordinator, Ecological Conservation Applications Area* | August 2022 - Present \
-40 hours per week, GS-12-2 equivalent  
+40 hours per week, GS-12-2 payscale equivalent  
 
 - Help develop new funding programs and solicitations, run peer review panels, evaluate funding proposals, and serve as a subject matter expert in the natural sciences to help guide NASA investments in Earth science and applications projects. \ 
 - One of only two AAAS Science & Technology Policy fellows (of 300+ awardees) to be selected to support NASA headquarters programs.\ 
@@ -140,7 +140,7 @@ cat("<hr/>")
 
 **U.S. Geological Survey (USGS), Biogeographic Sciences Branch**, Denver, CO\ 
 *Research Ecologist* | August 2019 - August 2022 \ 
-40 hours per week, GS-12-5 equivalent, 2 cash awards for performance for both annual reviews conducted  \ 
+40 hours per week, GS-12-5 payscale equivalent, 2 cash awards for performance for both annual reviews conducted  \ 
 
 - Received cash awards for exceptional performance on all annual reviews.\ 
 - Key player in establishing and facilitating cross-cutting relationships to broaden and enable partner use of agency Earth Science assets, including remotely sensed biogeographic data products, high performance computing resources, and technical expertise.\ 
@@ -152,7 +152,7 @@ cat("<hr/>")
 
 **University of Nebraska-Lincoln (UNL)**, Lincoln, Nebraska, U.S. \ 
 *Graduate Research Assistant* | August 2015 - July 2019\ 
-40 hours per week, GS-7-1 equivalent  \ 
+40 hours per week, GS-7-1 payscale equivalent  \ 
 
 - Created and led week-long workshop for the end users at the state of Nebraska's natural resource agency, focusing on technologies for applied statistics, data management, and applications for geospatial inference.    \ 
 - Developed the University's first local chapter of the Association for Women in Science, resulting in an investment by Office of the President of UNL as an institutional member. This initiative provided free AWIS membership for all undergraduate students at UNL and led to multiple professional development workshops for advancing equity and inclusion of women in science.\   
@@ -170,7 +170,7 @@ cat("<hr/>")
 
 **University of Florida**, Gainesville, Florida, U.S. \ 
 *Graduate Research Assistant* | August 2013 - August 2015 \ 
-40 hours per week, GS-1 equivalent  \ 
+40 hours per week, GS-1 payscale equivalent  \ 
 
 - Sought and received funding from the local police department and the University of Florida to enable nature-based activities, including new on-site trail development, at a local at-risk-of-recidivism youth program. \ 
 - Designed and conducted research resulting in 3 publications and becoming a top expert on urban bird populations.\ 
