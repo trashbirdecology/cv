@@ -1,5 +1,5 @@
 
-<!-- \fancyfoot[L]{\textcolor[gray]{0.4}{Document compiled on 2023-11-14 (\href{https://www.github.com/trashbirdecology/cv}{github.com/trashbirdecology/cv})}} -->
+<!-- \fancyfoot[L]{\textcolor[gray]{0.4}{Document compiled on 2023-12-06 (\href{https://www.github.com/trashbirdecology/cv}{github.com/trashbirdecology/cv})}} -->
 # Jessica Burnett, Ph.D. 
 
 <img
@@ -22,10 +22,6 @@ style="width:1.12em;height:1em" />
   synergies, and advance government agency missions.
 - Experience in running, organizing, and serving on multiple peer review
   panels, including those under a dual anonymous peer review process.
-- Actively worked to bring NASA data, technologies, and capacity into
-  North American wildlife management and conservation, in a community
-  whose organizations often lack the resources necessary to achieve
-  conservation targets.
 - Passionate relationship builder whose efforts have resulting in NASA
   being a recognized and sought-after partner for achieving wildlife
   management and conservation goals in North America.
@@ -41,9 +37,9 @@ style="width:1.12em;height:1em" />
   people in person and via audio and video conferencing platforms with
   presentations to lay audiences, scientific communities, and decision
   makers alike.
-- Experience in helping developing multi-million dollar competitive
-  funding solicitations for science and applications projects focused on
-  use of NASA Earth observations. <!-- Program/Project Management -->
+- Experience in developing, evaluating, and measuring progress of
+  multi-million dollar competitive funding solicitations.
+  <!-- Program/Project Management -->
   <!-- Geospatial Science and Technologies -->
   <!-- Strategic Thinking -->
   <!-- Earth Science Applications Research --> <!-- Partnering -->
@@ -53,19 +49,16 @@ style="width:1.12em;height:1em" />
 
 **Ph.D. \| Natural Resource Sciences**  
 *University of Nebraska-Lincoln*, Lincoln, Nebraska \| 2019  
-15 credit hours of physical life sciences coursework, 52 credit hours of
-research  
+<!-- 15 credit hours of physical life sciences coursework, 52 credit hours of research \ -->
 **M.S. \| Wildlife Ecology & Conservation**  
 *University of Florida*, Gainesville, Florida \| 2015  
-30 credit hours of life sciences coursework, 20 credit hours of
-research  
+<!-- 30 credit hours of life sciences coursework, 20 credit hours of research \ -->
 **B.S. \| Wildlife Ecology & Conservation**  
 *University of Florida*, Gainesville, Florida \| 2013  
-74 credit hours of life sciences coursework, 5 credit hours of
-research  
+<!-- 74 credit hours of life sciences coursework, 5 credit hours of research\ -->
 **A.A. \| General Studies**  
 *Valencia Community College*, Orlando, Florida \| 2010  
-42 credit hours of life sciences coursework
+<!-- 42 credit hours of life sciences coursework  -->
 
 # Professional Experience
 
@@ -75,16 +68,20 @@ research
 Washington, D.C., U.S.  
 *Program Coordinator, Ecological Conservation Applications Area* \|
 August 2022 - Present  
-40 hours per week, GS-12-2 payscale equivalent
+<!-- 40 hours per week, GS-12-2 payscale equivalent   -->
 
-- Help develop new funding programs and solicitations, run peer review
-  panels, evaluate funding proposals, and serve as a subject matter
-  expert in the natural sciences to help guide NASA investments in Earth
-  science and applications projects.  
 - One of only two AAAS Science & Technology Policy fellows (of 300+
   awardees) to be selected to support NASA headquarters programs. 
-- Lead development of a 2-year strategic plan for the Earth Science
-  Division’s Ecological Conservation program. 
+- Help direct investments through developing new funding programs,
+  writing solicitations, running peer review panels, evaluating funding
+  proposals, assisting with project management, and serving as a subject
+  matter expert in the natural sciences.  
+- Actively worked to bring NASA data, technologies, and capacity into
+  North American wildlife management and conservation, in a community
+  whose organizations often lack the resources necessary to achieve
+  conservation targets.
+- Lead development of a strategic plan for the Earth Science Division’s
+  Ecological Conservation program. 
 - Represent NASA on several executive-level initiatives including but
   not limited to the National Nature Assessment federal steering
   committee, Natural Socioeconomic Accounting Presidential Working
@@ -115,7 +112,7 @@ August 2022 - Present
 - Serve as technical expert for ecology and conservation issues on data
   calls from executive agencies such as the White House Office of
   Science and Technology Policy (OSTP), Office of Management and Budget
-  (OMB), and Office of Personnel and Management (OPM).  
+  (OMB), and Office of Personnel, and Management (OPM).  
 - Improve cross-organizational communications and collaborations with
   NASA Earth Science Data Systems and the Office of the Chief Science
   Data Officer, including co-sponsorship of events, writing internal
@@ -132,9 +129,8 @@ August 2022 - Present
   symposia, and special events for audiences of up to 600 people.  
 
 **U.S. Geological Survey (USGS), Biogeographic Sciences Branch**,
-Denver, CO  *Research Ecologist* \| August 2019 - August 2022   40 hours
-per week, GS-12-5 payscale equivalent, 2 cash awards for performance for
-both annual reviews conducted  
+Denver, CO  *Research Ecologist* \| August 2019 - August 2022  
+<!-- 40 hours per week, GS-12-5 payscale equivalent, 2 cash awards for performance for both annual reviews conducted  \  -->
 
 - Received cash awards for exceptional performance on all annual
   reviews. 
@@ -157,8 +153,8 @@ both annual reviews conducted  
   their own professional development goals. 
 
 **University of Nebraska-Lincoln (UNL)**, Lincoln, Nebraska, U.S.  
-*Graduate Research Assistant* \| August 2015 - July 2019  40 hours per
-week, GS-7-1 payscale equivalent  
+*Graduate Research Assistant* \| August 2015 - July 2019 
+<!-- 40 hours per week, GS-7-1 payscale equivalent  \  -->
 
 - Created and led week-long workshop for the end users at the state of
   Nebraska’s natural resource agency, focusing on technologies for
@@ -177,11 +173,13 @@ week, GS-7-1 payscale equivalent  
   Base).   
 - Served as a mentor to several graduate and high school students while
   helping them set their own professional and personal development
-  goals. 
+  goals.   
+- Published peer reviewed articles in scientific and computational
+  journals.
 
 **International Institute for Applied Systems Analysis (IIASA)**,
 Laxenburg, Austria   *Visiting Researcher* \| April 2018 - August 2018  
-40 hours per week, GS-7-1 equivalent  
+<!-- 40 hours per week, GS-7-1 equivalent  \  -->
 
 - Recipient (of 500+ international applicants) of the renowned IIASA
   Young Scholar Summer Program fellowship, with financial support
@@ -192,8 +190,8 @@ Laxenburg, Austria   *Visiting Researcher* \| April 2018 - August 2018  
   software releases. 
 
 **University of Florida**, Gainesville, Florida, U.S.   *Graduate
-Research Assistant* \| August 2013 - August 2015   40 hours per week,
-GS-1 payscale equivalent  
+Research Assistant* \| August 2013 - August 2015  
+<!-- 40 hours per week, GS-1 payscale equivalent  \  -->
 
 - Sought and received funding from the local police department and the
   University of Florida to enable nature-based activities, including new
@@ -420,7 +418,7 @@ Naturalist*. **43**, 167–172 (2015).</span>
 
 </div>
 
-# Presentations
+# Select Presentations
 
 ## Invited
 
