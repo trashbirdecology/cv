@@ -20,14 +20,14 @@ style="width:1.12em;height:1em" />
   to answer important scientific questions, generate actionable
   intelligence for end user organizations, create cross-program
   synergies, and advance government agency missions.
-- Experience in running, organizing, and serving on multiple peer review
-  panels, including those under a dual anonymous peer review process.
+- Experienced in funding solicitation development, review, and running
+  peer review panels.
 - Passionate relationship builder whose efforts have resulting in NASA
   being a recognized and sought-after partner for achieving wildlife
   management and conservation goals in North America.
 - Well-published Ph.D. life science researcher with 14 publications in
   top Earth science journals, 1 book chapter, 3 software programs, and
-  over numerous government white papers and reports.
+  over numerous government white papers and reports
 - Over a decade of experience in integrating and managing concurrent
   research projects with an emphasis on Earth science, especially
   wildlife conservation, applied geospatial science, scientific
@@ -88,7 +88,7 @@ August 2022 - Present
 - Advocate for the application of NASA science in wildlife and natural
   resource policy through representation in global and domestic science
   and technology working groups. 
-- “Champion and empower students from underrepresented backgrounds,
+- Champion and empower students from underrepresented backgrounds,
   directing and supervising projects pivotal to program development,
   evaluation, and expansive outreach initiatives. 
 - Serve as a technical expert on ecology and conservation issues for
@@ -200,7 +200,7 @@ Research Assistant* \| August 2013 - August 2015  
 - Recreational baker who often shares new creations with co-workers and
   friends
 - Volunteers as a mentor with science diversity initiatives including
-  Disabled in STEM, Letters to a Prescientist, and Skype a Scientist
+  Disabled in STEM, Letters to a Pre-scientist, and Skype a Scientist
 - Enjoys casually biking around town, especially when the destination is
   a coffee shop, library or thrift store
 

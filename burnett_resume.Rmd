@@ -86,9 +86,9 @@ cat("<hr/>")
 
 # Key Skills
 - Over 7 years experience designing and implementing multi-year programs to answer important scientific questions, generate actionable intelligence for end user organizations, create cross-program synergies, and advance government agency missions.
-- Experience in running, organizing, and serving on multiple peer review panels, including those under a dual anonymous peer review process. 
+- Experienced in funding solicitation development, review, and running peer review panels. 
 -	Passionate relationship builder whose efforts have resulting in NASA being a recognized and sought-after partner for achieving wildlife management and conservation goals in North America.
-- Well-published Ph.D. life science researcher with 14 publications in top Earth science journals, 1 book chapter, 3 software programs, and over numerous government white papers and reports.
+- Well-published Ph.D. life science researcher with 14 publications in top Earth science journals, 1 book chapter, 3 software programs, and over numerous government white papers and reports
 - Over a decade of experience in integrating and managing concurrent research projects with an emphasis on Earth science, especially wildlife conservation, applied geospatial science, scientific programming, and statistical modeling.
 - Judicious communicator with strong interpersonal and presentation skills who has proven experience in presenting to audiences of up 500 people in person and via audio and video conferencing platforms with presentations to lay audiences, scientific communities, and decision makers alike.
 - Experience in developing, evaluating, and measuring progress of multi-million dollar competitive funding solicitations. 
@@ -127,7 +127,7 @@ cat("<hr/>")
 - Represent NASA in high-level initiatives like the National Nature Assessment federal steering committee, the National Plan for Civil Earth Observations, and National Invasive Species Council.\ 
 - Cultivate collaborative partnerships with federal, state, and non-governmental conservation organizations and landowners. Efforts resulted in key conservation agencies and organizations soliciting NASA to establish memorandum of understanding to establish long-term commitments.\  
 - Advocate for the application of NASA science in wildlife and natural resource policy through representation in global and domestic science and technology working groups.\ 
-- "Champion and empower students from underrepresented backgrounds, directing and supervising projects pivotal to program development, evaluation, and expansive outreach initiatives.\ 
+- Champion and empower students from underrepresented backgrounds, directing and supervising projects pivotal to program development, evaluation, and expansive outreach initiatives.\ 
 - Serve as a technical expert on ecology and conservation issues for data calls from agencies like the White House Office of Science and Technology Policy (OSTP).\ 
 - Deliver impactful messages in public forums and organize large-scale events for diverse audiences.\ 
 <!-- - First-time recipient of the prestigious AAAS Science & Technology Policy fellows and the only of over 300 awardees selected to serve at NASA.\  -->
@@ -192,7 +192,7 @@ cat("<hr/>")
 - Enjoys competitive sports including volleyball and disc golf
 - Fan of many card, board, word, and video games including spades, NYT crossword, Skyrim, and Cthulu
 - Recreational baker who often shares new creations with co-workers and friends
-- Volunteers as a mentor with science diversity initiatives including Disabled in STEM, Letters to a Prescientist, and Skype a Scientist
+- Volunteers as a mentor with science diversity initiatives including Disabled in STEM, Letters to a Pre-scientist, and Skype a Scientist
 - Enjoys casually biking around town, especially when the destination is a coffee shop, library or thrift store
 
 # Notable Awards & Achievements
