@@ -1,5 +1,5 @@
 
-<!-- \fancyfoot[L]{\textcolor[gray]{0.4}{Document compiled on 2023-12-06 (\href{https://www.github.com/trashbirdecology/cv}{github.com/trashbirdecology/cv})}} -->
+<!-- \fancyfoot[L]{\textcolor[gray]{0.4}{Document compiled on 2023-12-22 (\href{https://www.github.com/trashbirdecology/cv}{github.com/trashbirdecology/cv})}} -->
 # Jessica Burnett, Ph.D. 
 
 <img
@@ -62,7 +62,7 @@ style="width:1.12em;height:1em" />
 
 # Professional Experience
 
-<!-- SKills, evidence, why it matters -->
+<!-- Skills, evidence, why it matters -->
 
 **National Aeronautics and Space Administration (NASA) Headquarters**,
 Washington, D.C., U.S.  
@@ -70,66 +70,53 @@ Washington, D.C., U.S.
 August 2022 - Present  
 <!-- 40 hours per week, GS-12-2 payscale equivalent   -->
 
-- One of only two AAAS Science & Technology Policy fellows (of 300+
-  awardees) to be selected to support NASA headquarters programs. 
-- Help direct investments through developing new funding programs,
-  writing solicitations, running peer review panels, evaluating funding
-  proposals, assisting with project management, and serving as a subject
-  matter expert in the natural sciences.  
-- Actively worked to bring NASA data, technologies, and capacity into
-  North American wildlife management and conservation, in a community
-  whose organizations often lack the resources necessary to achieve
-  conservation targets.
-- Lead development of a strategic plan for the Earth Science Division’s
-  Ecological Conservation program. 
-- Represent NASA on several executive-level initiatives including but
-  not limited to the National Nature Assessment federal steering
-  committee, Natural Socioeconomic Accounting Presidential Working
-  Group, National Invasive Species Council, National Civil Earth
-  Observations Plan writing team to ensure NASA’s interests, data, and
-  expertise are best leveraged. 
-- Enable the U.S. Forest Service to effectively leverage NASA assets by
-  serving as Co-chair of the NASA-USFS Partnership, Applied Earth
-  Observations Innovation Partnership. 
-- Establish and manage interagency relationships with U.S. federal,
-  state, and non-governmental conservation organizations. These efforts
-  have already resulted in a two-fold increase in number of submitted
-  proposals to select NASA programs and have resulted in direct
-  investments in the sector. 
-- Develop and implement an annual outreach strategy for engaging with
-  and synthesizing the needs of federal, state, tribal, and
-  non-governmental end user organizations. Tactics deployed for
-  achieving strategy include conference exhibits, sponsored events,
-  targeted oral presentations to conservation coalitions, and developing
-  effective communications materials. 
-- Serve on several international science and technology working groups
-  to enable applications of NASA science and data for natural resource
-  management and planning. 
-- Supervise and mentor undergraduate and high school students from
-  traditionally underrepresented backgrounds to conduct projects
-  resulting in actionable intelligence for program strategy development,
-  evaluation, and private sector engagement. 
-- Serve as technical expert for ecology and conservation issues on data
-  calls from executive agencies such as the White House Office of
-  Science and Technology Policy (OSTP), Office of Management and Budget
-  (OMB), and Office of Personnel, and Management (OPM).  
-- Improve cross-organizational communications and collaborations with
-  NASA Earth Science Data Systems and the Office of the Chief Science
-  Data Officer, including co-sponsorship of events, writing internal
-  guidance for NASA Open Science Data Policy (SPD-41a), and developing
-  solicitation language to ensure policy compliance. 
-- As a first-time applicant, was awarded the prestigious AAAS Science &
-  Technology Policy Fellowship and one of only two (of
-  approximately 275) invited to support NASA Headquarters programs.  
-- Judiciously convey important messaging in public panels,
-  presentations, and video conferencing platforms. Develop and deliver
-  oral presentations to a variety of audiences ranging from scientists
-  to federal administrators.  
-- Develop and organize in-person and online conferences, workshops,
-  symposia, and special events for audiences of up to 600 people.  
+- Spearhead integration of NASA data and technologies into North
+  American wildlife management, bridging resource gaps for conservation
+  organizations. 
+- Drive strategic program planning, overseeing fund solicitation,
+  analysis, peer review panels, and proposal evaluation. 
+- Provide expert guidance in wildlife ecology and conservation, shaping
+  a comprehensive plan for NASA’s Ecological Conservation program. 
+- Represent NASA in high-level initiatives like the National Nature
+  Assessment federal steering committee, the National Plan for Civil
+  Earth Observations, and National Invasive Species Council. 
+- Cultivate collaborative partnerships with federal, state, and
+  non-governmental conservation organizations and landowners. Efforts
+  resulted in key conservation agencies and organizations soliciting
+  NASA to establish memorandum of understanding to establish long-term
+  commitments. 
+- Advocate for the application of NASA science in wildlife and natural
+  resource policy through representation in global and domestic science
+  and technology working groups. 
+- “Champion and empower students from underrepresented backgrounds,
+  directing and supervising projects pivotal to program development,
+  evaluation, and expansive outreach initiatives. 
+- Serve as a technical expert on ecology and conservation issues for
+  data calls from agencies like the White House Office of Science and
+  Technology Policy (OSTP). 
+- Deliver impactful messages in public forums and organize large-scale
+  events for diverse audiences. 
+  <!-- - First-time recipient of the prestigious AAAS Science & Technology Policy fellows and the only of over 300 awardees selected to serve at NASA.\  -->
+  <!-- - Actively working to bring NASA data, technologies, and capacity into North American wildlife management and conservation, in a community whose organizations often lack the resources necessary to achieve conservation targets. -->
+  <!-- - Lead development of strategic program planning and supported program development including developing funding solicitations, program analysis, running peer review panels, and evaluating proposals. \  -->
+  <!-- - Serve as a wildlife ecology and conservation subject matter expert for the agency.    -->
+  <!-- - Lead development of a strategic plan for the Earth Science Division's Ecological Conservation program.\  -->
+  <!-- - Represent NASA on several executive-level initiatives including but not limited to the National Nature Assessment federal steering committee, Natural Socioeconomic Accounting Presidential Working Group, National Invasive Species Council, National Civil Earth Observations Plan writing team to ensure NASA's interests, data, and expertise are best leveraged.\  -->
+  <!-- - Enable land management agencies to effectively leverage NASA assets.\  -->
+  <!-- - Establish and manage external relationships with federal, state, and non-governmental conservation organizations and landowners.\  -->
+  <!-- - Develop and implement an annual outreach strategy for engaging with and synthesizing the needs of federal, state, tribal, and non-governmental end user organizations. Tactics deployed for achieving strategy include conference exhibits, sponsored events, targeted oral presentations to conservation coalitions, and developing effective communications materials.\  -->
+  <!-- - Represent the interests of NASA on domestic and international science and technology working groups to enable applications of NASA science for natural resource policy, management and planning.\  -->
+  <!-- - Supervise and mentor students from traditionally underrepresented backgrounds to conduct projects resulting in actionable intelligence for program development, evaluation, and outreach.\  -->
+  <!-- - Serve as technical expert for ecology and conservation issues on data calls from executive agencies such as the White House Office of Science and Technology Policy (OSTP).\ -->
+  <!-- , Office of Management and Budget (OMB), and Office of Personnel, and Management (OPM). \  -->
+  <!-- - Improve cross-organizational communications and collaborations with NASA Earth Science Data Systems and the Office of the Chief Science Data Officer, including co-sponsorship of events, writing internal guidance for NASA Open Science Data Policy (SPD-41a), and developing solicitation language to ensure policy compliance.\  -->
+  <!-- - As a first-time applicant, was awarded the prestigious AAAS Science & Technology Policy Fellowship and one of only two (of approximately 275) invited to support NASA Headquarters programs. \  -->
+  <!-- - Judiciously convey important messaging in public panels, presentations, and video conferencing platforms. Develop and deliver oral presentations to a variety of audiences ranging from scientists to federal administrators. \  -->
+  <!-- - Develop and organize in-person and online conferences, workshops, symposia, and special events for audiences of up to 600 people. \  -->
 
 **U.S. Geological Survey (USGS), Biogeographic Sciences Branch**,
-Denver, CO  *Research Ecologist* \| August 2019 - August 2022  
+Denver, CO  *Research Ecologist and Data Scientist* \| August 2019 -
+August 2022  
 <!-- 40 hours per week, GS-12-5 payscale equivalent, 2 cash awards for performance for both annual reviews conducted  \  -->
 
 - Received cash awards for exceptional performance on all annual
@@ -153,41 +140,43 @@ Denver, CO  *Research Ecologist* \| August 2019 - August 2022  
   their own professional development goals. 
 
 **University of Nebraska-Lincoln (UNL)**, Lincoln, Nebraska, U.S.  
-*Graduate Research Assistant* \| August 2015 - July 2019 
+*Statistical and Applied Ecology Graduate Research Assistant* \| August
+2015 - July 2019 
 <!-- 40 hours per week, GS-7-1 payscale equivalent  \  -->
 
 - Created and led week-long workshop for the end users at the state of
   Nebraska’s natural resource agency, focusing on technologies for
   applied statistics, data management, and applications for geospatial
   inference.  
-- Developed the University’s first local chapter of the Association for
-  Women in Science, resulting in an investment by Office of the
-  President of UNL as an institutional member. This initiative provided
-  free AWIS membership for all undergraduate students at UNL and led to
-  multiple professional development workshops for advancing equity and
-  inclusion of women in science.   
-- Managed multiple research projects with international and domestic
-  collaborators from 4 countries, including projects to support
-  on-the-ground decision making by end users at two Department of
-  Defense (DoD) military installations (Fort Riley and Eglin Air Force
-  Base).   
+- Spearheaded the development of department-level and university-level
+  activities focused on advancing awareness around and resources for
+  women and underrepresented groups in science, including policy
+  development, professional development and training, and
+  university-level investments. Efforts resulted in the University
+  President investing in the Association for Women in Science as an
+  institutional member.   
+- Managed multiple, concurrent research projects with international and
+  domestic collaborators, leading outreach efforts to improve
+  applications of products for natural resource management at U.S.
+  military bases. 
 - Served as a mentor to several graduate and high school students while
   helping them set their own professional and personal development
   goals.   
-- Published peer reviewed articles in scientific and computational
-  journals.
+- Published peer reviewed articles in top natural resources and
+  computational journals.
 
-**International Institute for Applied Systems Analysis (IIASA)**,
-Laxenburg, Austria   *Visiting Researcher* \| April 2018 - August 2018  
-<!-- 40 hours per week, GS-7-1 equivalent  \  -->
+**International Institute for Applied Systems Analysis**, Laxenburg,
+Austria   *Visiting Researcher for Applied Systems Analysis* \| April
+2018 - August 2018   <!-- 40 hours per week, GS-7-1 equivalent  \  -->
 
-- Recipient (of 500+ international applicants) of the renowned IIASA
-  Young Scholar Summer Program fellowship, with financial support
-  competitively awarded by the U.S. National Academy of Sciences. 
+- First-time recipient (of over 500 international applicants) of the
+  renowned Young Scholar Summer Program fellowship, with financial
+  support competitively awarded by the U.S. National Academy of
+  Sciences. 
 - Designed and led collaborative research with applied mathematicians
-  and Earth scientists from four countries resulting in multiple
-  international presentations, a peer-reviewed journal article, and
-  software releases. 
+  and Earth scientists, resulting in multiple international
+  presentations, a peer-reviewed journal article, and software
+  releases. 
 
 **University of Florida**, Gainesville, Florida, U.S.   *Graduate
 Research Assistant* \| August 2013 - August 2015  
