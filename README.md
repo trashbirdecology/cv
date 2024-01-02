@@ -64,8 +64,7 @@ Gainesville, Florida \| 2015
 Gainesville, Florida \| 2013  
 <!-- 74 credit hours of life sciences coursework, 5 credit hours of research\ -->
 **A.A. in General Studies**,*Valencia Community College*, Orlando,
-Florida \| 2010  
-<!-- 42 credit hours of life sciences coursework  -->
+Florida \| 2010 <!-- 42 credit hours of life sciences coursework  -->
 
 ## Professional Experience <!-- Skills, evidence, why it matters -->
 
