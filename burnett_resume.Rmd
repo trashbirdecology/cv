@@ -2,7 +2,8 @@
 name: Jessica Burnett, Ph.D.
 address: 5067 6th Place NE, Washington, D.C. 20017
 phone: (720) 730-0974
-email: jessica.burnett@nasa.gov
+# email: jessica.burnett@nasa.gov
+email: jessicaleighburnett@gmail.com
 # website: https://github.com/trashbirdecology
 geometry: left=1in,right=1in,top=1in,bottom=1in
 bibliography: data/publications.bib

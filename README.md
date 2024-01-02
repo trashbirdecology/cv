@@ -8,7 +8,8 @@ D.C. 20017    <img
 src="README_files/figure-gfm/fa-icon-fc9104599277ccb91d4e70e2088fe75b.svg"
 style="width:1em;height:1em" />    (720) 730-0974    <img
 src="README_files/figure-gfm/fa-icon-a7ff419e70980f9f1a65816048d94526.svg"
-style="width:1em;height:1em" />    <jessica.burnett@nasa.gov>    <img
+style="width:1em;height:1em" />    <jessicaleighburnett@gmail.com>
+   <img
 src="README_files/figure-gfm/fa-icon-48b1da2867ad7312ef1fde4a125efd4e.svg"
 style="width:1.12em;height:1em" />
 <hr/>
