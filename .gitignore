@@ -6,8 +6,6 @@
 .RData
 .DS_Store
 
-
-*.pdf
 *.log
 *.out
 *.aux
