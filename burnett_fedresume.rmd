@@ -15,7 +15,7 @@ knit: (function(input, ...) {
     rmarkdown::render(
       input,
       output_format = "pdf_document",
-      output_file = "burnett_resume",
+      output_file = "burnett_fedresume",
       envir = globalenv()
     ),
       rmarkdown::render(
