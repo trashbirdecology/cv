@@ -86,7 +86,7 @@ cat("<hr/>")
 ```
 
 ## Key Skills
-- Well-published Ph.D. life science researcher with 16 publications in top Earth science journals, 1 book chapter, 3 software programs, and numerous government white papers and reports.
+- Well-published Ph.D. life and Earth science researcher with 16 publications in top Earth science journals, 1 book chapter, 3 software programs, and numerous government white papers and reports.
 - Over 7 years experience designing and implementing multi-year programs to answer important scientific questions, generate actionable intelligence for end user organizations, create cross-program synergies, and advance government agency missions.
 -	Passionate relationship builder whose efforts have resulting in NASA being a recognized and sought-after partner for achieving wildlife management and conservation goals in North America.
 - Over a decade of experience in integrating and managing concurrent research projects with an emphasis on Earth and life sciences including wildlife conservation, applied geospatial science, scientific programming, and statistical modeling.
@@ -114,7 +114,7 @@ cat("<hr/>")
 **National Aeronautics and Space Administration (NASA) **, Washington, D.C. US \
 *Program Coordinator, Ecological Conservation, Earth Science Division* | August 2022 - Present | 40 hours per week
 <!-- 40 hours per week, GS-12-2 payscale equivalent -->
-  
+
 - Spearhead integration of NASA data and technologies into North American wildlife management, bridging resource gaps for conservation organizations. 
 - Drive strategic program planning, overseeing fund solicitation, analysis, peer review panels, and proposal evaluation.
 - Provide expert guidance in wildlife ecology and conservation, shaping a comprehensive plan for NASA's Ecological Conservation program. 
@@ -135,6 +135,7 @@ cat("<hr/>")
 - Spearhead efforts to improve cross-organizational communications and collaborations with NASA Earth Science Data Systems and the Office of the Chief Science Data Officer (OSDO), including co-sponsorship of events, contributing to development of NASA Open Science Data Policy (SPD-41a), and developing solicitation language to ensure policy compliance.
 - Judiciously convey important messaging in public panels, presentations, and video conferencing platforms. Develop and deliver oral presentations to a variety of audiences ranging from scientists to federal administrators.
 - Develop and organize in-person, online, and hybrid conferences, workshops, symposia, and special events for audiences of up to 600 people.
+- Gain familiarity with numerous NASA airborne campaigns and spaceborne missions and mission lifecycle.
 
 **U.S. Geological Survey (USGS), Biogeographic Sciences Branch**, Denver, Colorado, US \
 *Research Ecologist and Data Scientist (GS-12-3)* | August 2019 - August 2022 
