@@ -37,6 +37,8 @@ style="width:1.12em;height:1em" />
   and video conferencing platforms. Skills honed through over 50
   presentations to lay audiences, scientific communities, and decision
   makers alike.
+- Ability to and willingness to learn new skills and perform in a
+  fast-paced environment.
 
 ## Education
 
@@ -68,20 +70,20 @@ September 2022 - Present
 
 - Spearhead integration of NASA data and technologies into North
   American wildlife management, bridging resource gaps for conservation
-  organizations. Efforts resulted in new end users, new proposers, and
-  several new data requests to the Commercial Satellite Data Acquisition
-  (CSDA) program.
-- Drive strategic program planning, overseeing fund solicitation,
-  analysis, peer review panels, and proposal evaluation.
-- Take professional development coursework focused on federal budgetary
-  process and program analysis.
-- Develop an understanding of the Planning, Programming, Budgeting, and
-  Execution (PPBE) process through tutelage of NASA mentors.
+  organizations. Efforts resulted in new end users, a broadened
+  proposers, and a budding partnership with the Native American Fish and
+  Wildlife Society.
+  <!-- - Drive strategic program planningsolicitation, analysis, peer review panels, and proposal evaluation.  -->
+  <!-- - Take professional development coursework focused on federal budgetary process and program analysis.  -->
+- Develop an understanding of congressional and programmatic budgetary
+  planning and implementation.
+  <!-- - Develop an understanding of the Planning, Programming, Budgeting, and Execution (PPBE) process through tutelage of NASA mentors. -->
 - Provide expert guidance in wildlife ecology and conservation, shaping
   a comprehensive plan for NASA’s Ecological Conservation program.
-- Represent NASA in high-level initiatives like the National Nature
-  Assessment federal steering committee, the National Plan for Civil
-  Earth Observations, and National Invasive Species Council.
+- Represent NASA in high-level, national initiatives such as the
+  National Nature Assessment federal steering committee, the National
+  Plan for Civil Earth Observations, and National Invasive Species
+  Council.
 - Cultivate collaborative partnerships with federal, state, and
   non-governmental conservation organizations and landowners. Efforts
   resulted in key conservation agencies and organizations soliciting

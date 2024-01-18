@@ -102,6 +102,7 @@ cat("<hr/>")
 - Well-published Ph.D. life science researcher with 14 publications in top Earth science journals, 1 book chapter, 3 open source software programs, and numerous government white papers and reports.
 - Over a decade of experience in integrating and managing concurrent research projects with an emphasis on Earth and life sciences including wildlife conservation, applied geospatial science, scientific programming, and statistical modeling.
 - Judicious communicator with strong interpersonal skills and emotional awareness with proven experience in presenting in person and via audio and video conferencing platforms. Skills honed through over 50 presentations to lay audiences, scientific communities, and decision makers alike.
+- Ability to and willingness to learn new skills and perform in a fast-paced environment. 
 
 
 ## Education
@@ -128,12 +129,13 @@ cat("<hr/>")
 40 hours per week
 <!-- 40 hours per week, GS-12-2 payscale equivalent -->
 
-- Spearhead integration of NASA data and technologies into North American wildlife management, bridging resource gaps for conservation organizations. Efforts resulted in new end users, new proposers, and several new data requests to the Commercial Satellite Data Acquisition (CSDA) program.
-- Drive strategic program planning, overseeing fund solicitation, analysis, peer review panels, and proposal evaluation. 
-- Take professional development coursework focused on federal budgetary process and program analysis. 
-- Develop an understanding of the Planning, Programming, Budgeting, and Execution (PPBE) process through tutelage of NASA mentors. 
+- Spearhead integration of NASA data and technologies into North American wildlife management, bridging resource gaps for conservation organizations. Efforts resulted in new end users, a broadened proposers, and a budding partnership with the Native American Fish and Wildlife Society.
+<!-- - Drive strategic program planningsolicitation, analysis, peer review panels, and proposal evaluation.  -->
+<!-- - Take professional development coursework focused on federal budgetary process and program analysis.  -->
+- Develop an understanding of congressional and programmatic budgetary planning and implementation.
+<!-- - Develop an understanding of the Planning, Programming, Budgeting, and Execution (PPBE) process through tutelage of NASA mentors. -->
 - Provide expert guidance in wildlife ecology and conservation, shaping a comprehensive plan for NASA's Ecological Conservation program. 
-- Represent NASA in high-level initiatives like the National Nature Assessment federal steering committee, the National Plan for Civil Earth Observations, and National Invasive Species Council.
+- Represent NASA in high-level, national initiatives such as the National Nature Assessment federal steering committee, the National Plan for Civil Earth Observations, and National Invasive Species Council.
 - Cultivate collaborative partnerships with federal, state, and non-governmental conservation organizations and landowners. Efforts resulted in key conservation agencies and organizations soliciting NASA to establish memorandum of understanding to establish long-term commitments.
 - Advocate for the application of NASA science in wildlife and natural resource policy through representation in global and domestic science and technology working groups. 
 - Champion and empower students from underrepresented backgrounds, directing and supervising projects pivotal to program development, evaluation, and expansive outreach initiatives.
