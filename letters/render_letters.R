@@ -1,5 +1,10 @@
-fn <-"opengrants-20210202.rmd"
+# fn <-"opengrants-20210202.rmd"
+fn <-"delaney-ornl.rmd"
 
+
+# retrieving path from getSourceEditorContext()  
+# using $ operator  
+rstudioapi::getSourceEditorContext()$path  
 # install.packages("komaletter")
 
 # create draft

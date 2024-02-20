@@ -106,10 +106,13 @@ cat("<hr/>")
 
 
 ## Education
+<!-- *6 credit hours of pre-calculus mathematics coursework* -->
+<!-- *10 total credit hours of calculus coursework* -->
+<!-- *32 total credit hours of statistics coursework* -->
 
 **Ph.D. in Natural Resource Sciences** \
 *University of Nebraska-Lincoln*, Lincoln, NE, US | 2019 \
-15 credit hours of physical life sciences coursework, 52 credit hours of research
+15 credit hours of life sciences coursework, 52 credit hours of research
 
 **M.S. in Wildlife Ecology & Conservation** \
 *University of Florida*, Gainesville, FL, US | 2015 \
@@ -122,6 +125,8 @@ cat("<hr/>")
 **A.A. in General Studies** \
 *Valencia Community College*, Orlando, FL, US | 2009 \
 42 credit hours of life sciences coursework
+
+
 
 ## Professional Experience <!-- Skills, evidence, why it matters -->
 **National Aeronautics and Space Administration (NASA) Headquarters**, Washington, D.C., US \

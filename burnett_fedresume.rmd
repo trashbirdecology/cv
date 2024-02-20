@@ -27,7 +27,7 @@ knit: (function(input, ...) {
     rmarkdown::render(
       input,
       output_format = "word_document",
-      output_file = "burnett_resume",
+      output_file = "burnett_fedresume",
       envir = globalenv()
     )
     )
@@ -86,7 +86,8 @@ cat("<hr/>")
 ```
 
 ## Key Skills
-- Well-published Ph.D. life and Earth science researcher with 16 publications in top Earth science journals, 1 book chapter, 3 software programs, and numerous government white papers and reports.
+- Well-published Ph.D. Earth science researcher with 16 publications in top Earth science journals, 1 book chapter, 3 software programs, and numerous government white papers and reports.
+- Experience developing and applying cutting-edge Bayesian and frequentist statistical methods to support ecosystems management and understanding. 
 - Over 7 years experience designing and implementing multi-year programs to answer important scientific questions, generate actionable intelligence for end user organizations, create cross-program synergies, and advance government agency missions.
 -	Passionate relationship builder whose efforts have resulting in NASA being a recognized and sought-after partner for achieving wildlife management and conservation goals in North America.
 - Over a decade of experience in integrating and managing concurrent research projects with an emphasis on Earth and life sciences including wildlife conservation, applied geospatial science, scientific programming, and statistical modeling.
@@ -101,14 +102,18 @@ cat("<hr/>")
   <!-- Technical Competence -->
   
 ## Education
+*6 credit hours of pre-calculus mathematics coursework*
+*10 total credit hours of calculus coursework*
+*32 total credit hours of probability & statistics coursework*
+
 **Ph.D. in Natural Resource Sciences**, *University of Nebraska-Lincoln*, Lincoln, Nebraska | 2019 \
-15 credit hours of life sciences coursework, N credit hours of mathematical and statistical coursework, 52 credit hours of research \
+15 credit hours of life sciences, 7 credit hours of probability & statistics, 52 credit hours of research \
 **M.S. in Wildlife Ecology & Conservation**, *University of Florida*, Gainesville, Florida | 2015 \
-30 credit hours of life sciences coursework, N credit hours of mathematical and statistical coursework, 20 credit hours of research \
+30 credit hours of life sciences, 13 credit hours of probability & statistics, 20 credit hours of research \
 **B.S. in Wildlife Ecology & Conservation**, *University of Florida*, Gainesville, Florida | 2013 \
-74 credit hours of life sciences coursework, N credit hours of mathematical and statistical coursework, 5 credit hours of research\
+74 credit hours of life sciences, 9 credit hours of statistics, 5 credit hours of research\
 **A.A. in General Studies**,*Valencia Community College*, Orlando, Florida | 2010
-42 credit hours of life sciences coursework and N credit hours of mathematical and statistical coursework
+42 credit hours of life sciences, 3 credit hours of probability & statistics, 5 hours of pre-calculus mathematics, 10 hours of calculus
 
 ## Professional Experience <!-- Skills, evidence, why it matters -->
 **National Aeronautics and Space Administration (NASA) **, Washington, D.C. US \
@@ -118,7 +123,7 @@ cat("<hr/>")
 - Spearhead integration of NASA data and technologies into North American wildlife management, bridging resource gaps for conservation organizations. 
 - Drive strategic program planning, overseeing fund solicitation, analysis, peer review panels, and proposal evaluation.
 - Provide expert guidance in wildlife ecology and conservation, shaping a comprehensive plan for NASA's Ecological Conservation program. 
-- Represent NASA in high-level initiatives like the National Nature Assessment federal steering committee, the National Plan for Civil Earth Observations, and National Invasive Species Council.
+- Represent NASA in high-level initiatives like the Natural Capital Accounting, Statistics for Environmental-economic Decisions Presidential Working Group, National Nature Assessment federal steering committee, the National Plan for Civil Earth Observations, and National Invasive Species Council.
 - Cultivate collaborative partnerships with federal, state, and non-governmental conservation organizations and landowners. Efforts resulted in key conservation agencies and organizations soliciting NASA to establish memorandum of understanding to establish long-term commitments.
 - Advocate for the application of NASA science in wildlife and natural resource policy through representation in global and domestic science and technology working groups. 
 - Champion and empower students from underrepresented backgrounds, directing and supervising projects pivotal to program development, evaluation, and expansive outreach initiatives.
@@ -142,6 +147,7 @@ cat("<hr/>")
 40 hours per week
 
 - Received cash awards for exceptional performance on all annual reviews.
+- Develop cutting-edge statistical (Bayesian) methods for estimating bird population parameters. 
 - Key player in establishing cross-organization relationships to broaden client use of division's research assets, including remotely sensed biogeographic data products, high performance computing resources, and technical expertise.
 - Published 3 peer-reviewed papers in top Earth Science journals, including 1 influential article outlining key priorities for synthesis in environmental research.
 - Developed and published well-known, open-source software to enable applications of an important USGS data asset to natural resource management and wildlife conservation activities. 
