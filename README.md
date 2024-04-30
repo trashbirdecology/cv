@@ -74,8 +74,7 @@ of calculus
 **National Aeronautics and Space Administration (NASA) **, Washington,
 D.C. US  
 *Program Coordinator, Ecological Conservation, Earth Science Division*
-\| August 2022 - Present \| 40 hours per week
-<!-- 40 hours per week, GS-12-2 payscale equivalent -->
+\| August 2022 - Present \| 40 hours per week \| GS-15-2 equivalent
 
 - Spearhead integration of NASA data and technologies into North
   American wildlife management, bridging resource gaps for conservation
@@ -156,7 +155,7 @@ D.C. US
 **U.S. Geological Survey (USGS), Biogeographic Sciences Branch**,
 Denver, Colorado, US  
 *Research Ecologist and Data Scientist (GS-12-3)* \| August 2019 -
-August 2022 40 hours per week
+August 2022 40 hours per week \| GS-12-4
 
 - Received cash awards for exceptional performance on all annual
   reviews.
@@ -179,7 +178,7 @@ August 2022 40 hours per week
 
 **University of Nebraska-Lincoln (UNL)**, Lincoln, Nebraska, US  
 *Statistical and Applied Ecology Graduate Research Assistant* \| August
-2015 - July 2019 \| 40 hours per week
+2015 - July 2019 \| 40 hours per week \| GS 7-1 equivalent
 <!-- 40 hours per week, GS-7-1 payscale equivalent  \  -->
 
 - Spearheaded the development of department-level and university-level
@@ -210,7 +209,7 @@ August 2022 40 hours per week
 **International Institute for Applied Systems Analysis (IIASA)**,
 Laxenburg, Austria  
 *Visiting Researcher for Applied Systems Analysis* \| April 2018 -
-August 2018 \| 40 hours per week
+August 2018 \| 40 hours per week \| GS 7-1 equivalent
 <!-- 40 hours per week, GS-7-1 equivalent  \  -->
 
 - First-time recipient (of over 500 international applicants) of the
@@ -244,7 +243,8 @@ August 2018 \| 40 hours per week
   Technology Policy Fellowship
 - First-time applicant recipient of the U.S. Geological Survey’s coveted
   Mendenhall Postdoctoral Research Fellowship
-  <!-- - Received 2 cash awards for Exceptional Service during both full-fiscal years served at U.S. Geological Survey -->
+- Received 2 cash awards for Exceptional Service during both full-fiscal
+  years served at U.S. Geological Survey
 - Recipient of several competitive science technology and policy
   scholarships, fellowships, and awards totaling over \$350,000 USD
 - Developed and taught numerous professional workshops and academic
