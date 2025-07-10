@@ -107,25 +107,25 @@ cat("<hr/>")
 
 ## Education
 <!-- *6 credit hours of pre-calculus mathematics coursework* -->
-<!-- *10 total credit hours of calculus coursework* -->
-<!-- *32 total credit hours of statistics coursework* -->
+<!-- *10 credit hours of calculus coursework* -->
+<!-- *32 credit hours of statistics coursework* -->
+<!-- * credit hours of life sciences coursework* -->
 
 **Ph.D. in Natural Resource Sciences** \
 *University of Nebraska-Lincoln*, Lincoln, NE, US | 2019 \
-15 credit hours of life sciences coursework, 52 credit hours of research
+<!-- 15 credit hours of life sciences coursework, 52 credit hours of research -->
 
 **M.S. in Wildlife Ecology & Conservation** \
 *University of Florida*, Gainesville, FL, US | 2015 \
-30 credit hours of life sciences coursework, 20 credit hours of research
+<!-- 30 credit hours of life sciences coursework, 20 credit hours of research -->
 
 **B.S. in Wildlife Ecology & Conservation** \
 *University of Florida*, Gainesville, FL, US | 2013 \
-74 credit hours of life sciences coursework, 5 credit hours of research
+<!-- 74 credit hours of life sciences coursework, 5 credit hours of research -->
 
 **A.A. in General Studies** \
 *Valencia Community College*, Orlando, FL, US | 2009 \
-42 credit hours of life sciences coursework
-
+<!-- 42 credit hours of life sciences coursework -->
 
 
 ## Professional Experience <!-- Skills, evidence, why it matters -->
@@ -150,12 +150,12 @@ cat("<hr/>")
 - Led and serve as a reviewer on several NASA panels across the Earth Science Division.
 - Serve as a subject matter expert for natural resource sciences on the [Open Grants](https://orgrants.org) Initiative's planning activity, [*Planning for Open Grants: Fostering a Transparent and Accessible National Research Infrastructure*](https://www.ogrants.org/community_feedback). 
 - Improve cross-organizational (cross-element) communications and collaborations with NASA Earth Science Data Systems and the Office of the Chief Science Data Officer, including co-sponsorship of events, writing internal guidance for NASA Open Science Data Policy (SPD-41a), and developing solicitation language to ensure SPD-41a policy compliance.\
-<!-- - First-time recipient of the prestigious AAAS Science & Technology Policy fellows and the only of over 300 awardees selected to serve at NASA.\  -->
-<!-- - Actively working to bring NASA data, technologies, and capacity into North American wildlife management and conservation, in a community whose organizations often lack the resources necessary to achieve conservation targets. -->
+- First-time recipient of the prestigious AAAS Science & Technology Policy fellows and the only of over 300 awardees selected to serve at NASA.\
+- Actively working to bring NASA data, technologies, and capacity into North American wildlife management and conservation, in a community whose organizations often lack the resources necessary to achieve conservation targets.
 <!-- - Lead development of strategic program planning and supported program development including developing funding solicitations, program analysis, running peer review panels, and evaluating proposals. \  -->
 <!-- - Serve as a wildlife ecology and conservation subject matter expert for the agency.    -->
 <!-- - Lead development of a strategic plan for the Earth Science Division's Ecological Conservation program.\  -->
-<!-- - Represent NASA on several executive-level initiatives including but not limited to the National Nature Assessment federal steering committee, Natural Socioeconomic Accounting Presidential Working Group, National Invasive Species Council, National Civil Earth Observations Plan writing team to ensure NASA's interests, data, and expertise are best leveraged.\  -->
+- Represent NASA on several executive-level initiatives including but not limited to the National Nature Assessment federal steering committee, Natural Socioeconomic Accounting Presidential Working Group, National Invasive Species Council, National Civil Earth Observations Plan writing team to ensure NASA's interests, data, and expertise are best leveraged.\
 <!-- - Enable land management agencies to effectively leverage NASA assets.\  -->
 <!-- - Establish and manage external relationships with federal, state, and non-governmental conservation organizations and landowners.\  -->
 <!-- - Develop and implement an annual outreach strategy for engaging with and synthesizing the needs of federal, state, tribal, and non-governmental end user organizations. Tactics deployed for achieving strategy include conference exhibits, sponsored events, targeted oral presentations to conservation coalitions, and developing effective communications materials.\  -->
